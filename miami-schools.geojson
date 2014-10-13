@@ -1,6 +1,4 @@
-
-<!-- saved from url=(0071)http://shpescape.com/mix/uploads/9a18f7e48fed082c893315bd4d3a8d98.json/ -->
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body>{
+{
   "type": "FeatureCollection", 
   "features": [
     {
@@ -12155,4 +12153,3 @@
     }
   ]
 }
-<span id="buffer-extension-hover-button" style="display: none;position: absolute;z-index: 8675309;width: 100px;height: 25px;background-image: url(chrome-extension://noojglkidnpfjbincgijbaiedldjfbhh/data/shared/img/buffer-hover-icon@1x.png);background-size: 100px 25px;opacity: 0.9;cursor: pointer;"></span></body></html>
