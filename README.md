@@ -7,5 +7,5 @@ http://gisweb.miamidade.gov/GISSelfServices/GeographicData/MDGeographicData.html
 
 4. Once geoJSON file is pushed to Github, you can see it as a map by clicking on the file and then selecting the paper icon if it is not already selected.
 
-If you have issues displaying map, use the geoJSON Linter: http://geojsonlint to test your data.
+If you have issues displaying map, use the geoJSON Linter: http://geojsonlint.com/ to test your data.
 
