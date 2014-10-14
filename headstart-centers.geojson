@@ -1,0 +1,3047 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19270091261562,
+          25.828180853352183
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0131130651860",
+        "NAME": "KIDCO VII",
+        "EDIT_DATE": "2014/05/29",
+        "EARLYHS": "N",
+        "LON": -80.1927,
+        "ZIPCODE": 33137,
+        "PHONE": "305-579-3078",
+        "POINT_X": 921714.247415058,
+        "POINT_Y": 544057.7488603,
+        "ADDRESS": "183 NE 57th ST",
+        "LAT": 25.82818,
+        "TYPE": "DA",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.26007906575637,
+          25.954310047052335
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami Gardens",
+        "FOLIO": "3421040010060",
+        "NAME": "Windows",
+        "EDIT_DATE": "2014/05/27",
+        "EARLYHS": "Y",
+        "LON": -80.26008,
+        "ZIPCODE": 33056,
+        "PHONE": "305-628-0993",
+        "POINT_X": 899291.987938173,
+        "POINT_Y": 589771.4129028771,
+        "ADDRESS": "3468 NW 199 ST",
+        "LAT": 25.95431,
+        "TYPE": "EHS",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.28451330437372,
+          25.846720425298507
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Hialeah",
+        "FOLIO": "0431070062230",
+        "NAME": "KIDCO II",
+        "EDIT_DATE": "2014/06/03",
+        "EARLYHS": "N",
+        "LON": -80.28451,
+        "ZIPCODE": 33010,
+        "PHONE": "305-576-6990",
+        "POINT_X": 891476.372442897,
+        "POINT_Y": 550621.373314418,
+        "ADDRESS": "2720 W 1st AVE",
+        "LAT": 25.84672,
+        "TYPE": "DA",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.33221950779682,
+          25.868467315490204
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Hialeah Gardens",
+        "FOLIO": "2730030220010",
+        "NAME": "Centro Mater West 1",
+        "EDIT_DATE": "2014/05/27",
+        "EARLYHS": "Y",
+        "LON": -80.33222,
+        "ZIPCODE": 33016,
+        "PHONE": "305-357-4395",
+        "POINT_X": 875746.0873722471,
+        "POINT_Y": 558443.005321696,
+        "ADDRESS": "8298 NW 103rd ST",
+        "LAT": 25.86847,
+        "TYPE": "EHS",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.23442341350491,
+          25.890504247209
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3021270000140",
+        "NAME": "Carrie Meek P./Westview K-8",
+        "EDIT_DATE": "2014/05/29",
+        "EARLYHS": "N",
+        "LON": -80.23442,
+        "ZIPCODE": 33167,
+        "PHONE": "305-688-9641",
+        "POINT_X": 907857.775850151,
+        "POINT_Y": 566628.276881322,
+        "ADDRESS": "2101 NW 127th ST",
+        "LAT": 25.8905,
+        "TYPE": "DA",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.48035024746588,
+          25.48140884817704
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Homestead",
+        "FOLIO": "1078120010220",
+        "NAME": "Le Jardin III",
+        "EDIT_DATE": "2014/05/29",
+        "EARLYHS": "N",
+        "LON": -80.48035,
+        "ZIPCODE": 33030,
+        "PHONE": "305-245-5663",
+        "POINT_X": 827589.627295397,
+        "POINT_Y": 417546.87744648,
+        "ADDRESS": "136 NW 12th ST",
+        "LAT": 25.48141,
+        "TYPE": "DA",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.43258479080039,
+          25.497869497159837
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Homestead",
+        "FOLIO": "3079040000640",
+        "NAME": "Leisure City  K-8",
+        "EDIT_DATE": "2014/05/27",
+        "EARLYHS": "Y",
+        "LON": -80.43258,
+        "ZIPCODE": 33033,
+        "PHONE": "305-245-6626",
+        "POINT_X": 843321.394606046,
+        "POINT_Y": 423593.66964411,
+        "ADDRESS": "14835 Filmore LN",
+        "LAT": 25.49787,
+        "TYPE": "EHS",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.47986337843915,
+          25.463032632615285
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Homestead",
+        "FOLIO": "1078130000690",
+        "NAME": "LeJardin II",
+        "EDIT_DATE": "2014/05/27",
+        "EARLYHS": "Y",
+        "LON": -80.47986,
+        "ZIPCODE": 33030,
+        "PHONE": "305-248-3696",
+        "POINT_X": 827776.315039571,
+        "POINT_Y": 410868.876032263,
+        "ADDRESS": "107 SW 8th ST",
+        "LAT": 25.46303,
+        "TYPE": "DA",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.47986337843915,
+          25.463032632615285
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Homestead",
+        "FOLIO": "1078130000690",
+        "NAME": "LeJardin II",
+        "EDIT_DATE": "2014/05/27",
+        "EARLYHS": "Y",
+        "LON": -80.47986,
+        "ZIPCODE": 33030,
+        "PHONE": "305-248-3696",
+        "POINT_X": 827776.315039571,
+        "POINT_Y": 410868.876032263,
+        "ADDRESS": "107 SW 8th ST",
+        "LAT": 25.46303,
+        "TYPE": "EHS",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19520159644816,
+          25.789929539130206
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0131250760010",
+        "NAME": "Chapman  (CPH) North",
+        "EDIT_DATE": "2014/05/27",
+        "EARLYHS": "Y",
+        "LON": -80.1952,
+        "ZIPCODE": 33136,
+        "PHONE": "305-329-3041",
+        "POINT_X": 920976.684534371,
+        "POINT_Y": 530149.5624793471,
+        "ADDRESS": "1550 North Miami AVE",
+        "LAT": 25.78993,
+        "TYPE": "EHS",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19070776728577,
+          25.778324122022937
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0141370240010",
+        "NAME": "Cain Towers",
+        "EDIT_DATE": "2014/05/27",
+        "EARLYHS": "Y",
+        "LON": -80.19071,
+        "ZIPCODE": 33132,
+        "PHONE": "305-381-6911",
+        "POINT_X": 922481.3091757711,
+        "POINT_Y": 525940.4337714311,
+        "ADDRESS": "470 NE 2nd AVE",
+        "LAT": 25.77832,
+        "TYPE": "EHS",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19017736747516,
+          25.80156528153327
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0132300220200",
+        "NAME": "KIDCO VI",
+        "EDIT_DATE": "2014/05/27",
+        "EARLYHS": "Y",
+        "LON": -80.19018,
+        "ZIPCODE": 33137,
+        "PHONE": "305-573-0447",
+        "POINT_X": 922603.9060398861,
+        "POINT_Y": 534388.918387294,
+        "ADDRESS": "242 NE 26th ST",
+        "LAT": 25.80157,
+        "TYPE": "EHS",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.22126704463551,
+          25.83357437340936
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0131140090010",
+        "NAME": "Liberty Square",
+        "EDIT_DATE": "2014/05/27",
+        "EARLYHS": "Y",
+        "LON": -80.22127,
+        "ZIPCODE": 33147,
+        "PHONE": "305-691-2055",
+        "POINT_X": 912305.916142296,
+        "POINT_Y": 545961.4547180759,
+        "ADDRESS": "6304 NW 14th AVE",
+        "LAT": 25.83357,
+        "TYPE": "EHS",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.39130363160709,
+          25.50574308625197
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Homestead",
+        "FOLIO": "3079010010010",
+        "NAME": "Chapman (CPH) South",
+        "EDIT_DATE": "2014/05/27",
+        "EARLYHS": "Y",
+        "LON": -80.3913,
+        "ZIPCODE": 33033,
+        "PHONE": "305-416-7189",
+        "POINT_X": 856924.687034719,
+        "POINT_Y": 426515.438094832,
+        "ADDRESS": "28205 SW 125th ave",
+        "LAT": 25.50574,
+        "TYPE": "EHS",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2428242045553,
+          25.900503744022938
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Opa Locka",
+        "FOLIO": "0821220110860",
+        "NAME": "Dr. Simpson - Annex",
+        "EDIT_DATE": "2014/05/29",
+        "EARLYHS": "N",
+        "LON": -80.24282,
+        "ZIPCODE": 33054,
+        "PHONE": "305-573-1443",
+        "POINT_X": 905074.851559561,
+        "POINT_Y": 570246.767764695,
+        "ADDRESS": "13850 NW 26th AVE",
+        "LAT": 25.9005,
+        "TYPE": "DA",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.21136524880535,
+          25.932808191312283
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami Gardens",
+        "FOLIO": "3421120000140",
+        "NAME": "Landow Yeshiva",
+        "EDIT_DATE": "2014/05/27",
+        "EARLYHS": "Y",
+        "LON": -80.21137,
+        "ZIPCODE": 33169,
+        "PHONE": "305-653-8770",
+        "POINT_X": 915346.1854571251,
+        "POINT_Y": 582049.499039687,
+        "ADDRESS": "17330 NW 7th AVE",
+        "LAT": 25.93281,
+        "TYPE": "EHS",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2354289817342,
+          25.918439451216745
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Opa Locka",
+        "FOLIO": null,
+        "NAME": "Bunche Park",
+        "EDIT_DATE": "2014/05/29",
+        "EARLYHS": "N",
+        "LON": -80.23543,
+        "ZIPCODE": 33054,
+        "PHONE": "305-623-2021",
+        "POINT_X": 907467.976169791,
+        "POINT_Y": 576779.983258776,
+        "ADDRESS": "15700 NW 20th AVE",
+        "LAT": 25.91844,
+        "TYPE": "DA",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18412269620597,
+          25.91879639701338
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3022180040011",
+        "NAME": "Oak Grove  Elementary",
+        "EDIT_DATE": "2014/05/28",
+        "EARLYHS": "N",
+        "LON": -80.18412,
+        "ZIPCODE": 33162,
+        "PHONE": "305-945-1511",
+        "POINT_X": 924331.346937496,
+        "POINT_Y": 577011.39394699,
+        "ADDRESS": "15640 NE 8th AVE",
+        "LAT": 25.9188,
+        "TYPE": "GA",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.33221950779682,
+          25.868467315490204
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Hialeah Gardens",
+        "FOLIO": "2730030220010",
+        "NAME": "Centro Mater West H Based",
+        "EDIT_DATE": "2014/05/29",
+        "EARLYHS": "N",
+        "LON": -80.33222,
+        "ZIPCODE": 33016,
+        "PHONE": "305-357-4395",
+        "POINT_X": 875746.0873722471,
+        "POINT_Y": 558443.005321696,
+        "ADDRESS": "8298 NW 103rd ST",
+        "LAT": 25.86847,
+        "TYPE": "DA",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2011417468604,
+          25.769613741179967
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0102020901020",
+        "NAME": "Centro Mater East 1",
+        "EDIT_DATE": "2014/05/27",
+        "EARLYHS": "Y",
+        "LON": -80.20114,
+        "ZIPCODE": 33130,
+        "PHONE": "305-545-6049",
+        "POINT_X": 919066.843380593,
+        "POINT_Y": 522753.545832463,
+        "ADDRESS": "418 SW 4th AVE",
+        "LAT": 25.76961,
+        "TYPE": "EHS",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.20193254701246,
+          25.957666838925103
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3411360000065",
+        "NAME": "Colonel Zubkoff",
+        "EDIT_DATE": "2014/05/28",
+        "EARLYHS": "Y",
+        "LON": -80.20193,
+        "ZIPCODE": 33169,
+        "PHONE": "305-770-3132",
+        "POINT_X": 918391.237107962,
+        "POINT_Y": 591103.762600116,
+        "ADDRESS": "55 NW 199th ST",
+        "LAT": 25.95767,
+        "TYPE": "EHS",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.38977478277059,
+          25.569036632197353
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3069120020010",
+        "NAME": "Pine Villa (IAW)",
+        "EDIT_DATE": "2014/05/27",
+        "EARLYHS": "Y",
+        "LON": -80.38977,
+        "ZIPCODE": 33177,
+        "PHONE": "305-251-2395",
+        "POINT_X": 857323.3148750891,
+        "POINT_Y": 449521.502244256,
+        "ADDRESS": "21300 SW 122nd AVE",
+        "LAT": 25.56904,
+        "TYPE": "EHS",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.21760191399996,
+          25.839956321627565
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3031110540010",
+        "NAME": "Martin Luther King PLC",
+        "EDIT_DATE": "2014/05/29",
+        "EARLYHS": "N",
+        "LON": -80.2176,
+        "ZIPCODE": 33150,
+        "PHONE": "305-836-0928",
+        "POINT_X": 913497.6847194061,
+        "POINT_Y": 548288.249472246,
+        "ADDRESS": "7124 NW 12th AVE",
+        "LAT": 25.83996,
+        "TYPE": "DA",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.29304157551606,
+          25.708198656467616
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "South Miami",
+        "FOLIO": "0940250630040",
+        "NAME": "South Miami EHS",
+        "EDIT_DATE": "2014/05/29",
+        "EARLYHS": "Y",
+        "LON": -80.29304,
+        "ZIPCODE": 33143,
+        "PHONE": "305-667-5582",
+        "POINT_X": 888941.669592537,
+        "POINT_Y": 500258.831187509,
+        "ADDRESS": "6125 SW 68th ST",
+        "LAT": 25.7082,
+        "TYPE": "EHS",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.14780445267418,
+          25.846248065796406
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "North Bay Village",
+        "FOLIO": "2332090110020",
+        "NAME": "Treasure Island Elementary",
+        "EDIT_DATE": "2014/05/27",
+        "EARLYHS": "N",
+        "LON": -80.1478,
+        "ZIPCODE": 33141,
+        "PHONE": "305-865-3141",
+        "POINT_X": 936440.28109277,
+        "POINT_Y": 550717.870722503,
+        "ADDRESS": "7450 E Treasure Dr",
+        "LAT": 25.84625,
+        "TYPE": "GA",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2342578359915,
+          25.83619071662744
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3031150000140",
+        "NAME": "Poinciana Park Elementary",
+        "EDIT_DATE": "2010/10/19",
+        "EARLYHS": "N",
+        "LON": -80.23426,
+        "ZIPCODE": 33147,
+        "PHONE": "305-691-5640",
+        "POINT_X": 908027.3126183121,
+        "POINT_Y": 546887.3125109371,
+        "ADDRESS": "6745 NW 23rd  Ave",
+        "LAT": 25.83619,
+        "TYPE": "GA",
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.23168518919854,
+          25.82548566836578
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3031150480010",
+        "NAME": "Olinda Elementary",
+        "EDIT_DATE": "2014/05/29",
+        "EARLYHS": "N",
+        "LON": -80.23169,
+        "ZIPCODE": 33142,
+        "PHONE": "305-633-0308",
+        "POINT_X": 908896.250091121,
+        "POINT_Y": 543001.3126353171,
+        "ADDRESS": "5536 NW 21st Ave",
+        "LAT": 25.82549,
+        "TYPE": "GA",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2096957366472,
+          25.772884899200715
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0141380031050",
+        "NAME": "CC-Sagrada Familia-Rio Tower",
+        "EDIT_DATE": "2014/05/27",
+        "EARLYHS": "N",
+        "LON": -80.2097,
+        "ZIPCODE": 33130,
+        "PHONE": "305-326-8212",
+        "POINT_X": 916244.5258099621,
+        "POINT_Y": 523925.525353551,
+        "ADDRESS": "905 SW 1st ST",
+        "LAT": 25.77288,
+        "TYPE": "DA",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.20085994242862,
+          25.79071389926093
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0101010102030",
+        "NAME": "Culmer Neighborhood Center",
+        "EDIT_DATE": "2010/10/18",
+        "EARLYHS": "N",
+        "LON": -80.20086,
+        "ZIPCODE": 33136,
+        "PHONE": "305-438-8605",
+        "POINT_X": 919113.062388636,
+        "POINT_Y": 530423.312495604,
+        "ADDRESS": "1600 NW 3rd Ave",
+        "LAT": 25.79071,
+        "TYPE": "GA",
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.23995056262866,
+          25.903961225091038
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Opa-Locka",
+        "FOLIO": "0821220140010",
+        "NAME": "Nathan B. Young Elementary",
+        "EDIT_DATE": "2014/05/27",
+        "EARLYHS": "N",
+        "LON": -80.23995,
+        "ZIPCODE": 33054,
+        "PHONE": "305-685-7204",
+        "POINT_X": 906012.262376435,
+        "POINT_Y": 571508.924309865,
+        "ADDRESS": "14120 NW 24th Ave",
+        "LAT": 25.90396,
+        "TYPE": "GA",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.24082852172197,
+          25.924009824976707
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami Gardens",
+        "FOLIO": "3421150000010",
+        "NAME": "Ophelia E. Brown Lawson Center",
+        "EDIT_DATE": "2014/05/27",
+        "EARLYHS": "N",
+        "LON": -80.24083,
+        "ZIPCODE": 33054,
+        "PHONE": "305-623-3309",
+        "POINT_X": 905681.447912127,
+        "POINT_Y": 578794.339228652,
+        "ADDRESS": "16425 NW 25th Ave",
+        "LAT": 25.92401,
+        "TYPE": "GA",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.20202540813032,
+          25.95782447990709
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami Gardens",
+        "FOLIO": "3411360000065",
+        "NAME": "Colonel Zubkoff",
+        "EDIT_DATE": "2010/10/18",
+        "EARLYHS": "Y",
+        "LON": -80.20203,
+        "ZIPCODE": 33169,
+        "PHONE": "305-770-3132",
+        "POINT_X": 918360.374771934,
+        "POINT_Y": 591160.875176171,
+        "ADDRESS": "55 NW 199th St",
+        "LAT": 25.95782,
+        "TYPE": "GA",
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.21949278389046,
+          25.827734169658708
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0131140590010",
+        "NAME": "Orchard Villa Elementary",
+        "EDIT_DATE": "2014/05/27",
+        "EARLYHS": "N",
+        "LON": -80.21949,
+        "ZIPCODE": 33142,
+        "PHONE": "305-754-0607",
+        "POINT_X": 912902.125038851,
+        "POINT_Y": 543842.1873881,
+        "ADDRESS": "5720 NW 13th Ave",
+        "LAT": 25.82773,
+        "TYPE": "GA",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37536819418257,
+          25.567254489845155
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3060070160010",
+        "NAME": "Arthur Mays Villas",
+        "EDIT_DATE": "2010/10/19",
+        "EARLYHS": "N",
+        "LON": -80.37537,
+        "ZIPCODE": 33170,
+        "PHONE": "305-234-4950",
+        "POINT_X": 862075.515327513,
+        "POINT_Y": 448895.875875674,
+        "ADDRESS": "11341 SW  216th ST",
+        "LAT": 25.56725,
+        "TYPE": "GA",
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36703874658512,
+          25.621661476841147
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3050300000050",
+        "NAME": "Colonial Drive Elementary",
+        "EDIT_DATE": "2014/05/27",
+        "EARLYHS": "N",
+        "LON": -80.36704,
+        "ZIPCODE": 33157,
+        "PHONE": "305-238-2392",
+        "POINT_X": 864727.000001982,
+        "POINT_Y": 468683.062326103,
+        "ADDRESS": "10755 SW 160th St",
+        "LAT": 25.62166,
+        "TYPE": "GA",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.21772463347727,
+          25.840089456210826
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3031110540010",
+        "NAME": "Martin Luther King Elementary",
+        "EDIT_DATE": "2014/05/27",
+        "EARLYHS": "N",
+        "LON": -80.21772,
+        "ZIPCODE": 33150,
+        "PHONE": "305-836-0928",
+        "POINT_X": 913457.032687366,
+        "POINT_Y": 548336.3994882851,
+        "ADDRESS": "7124 NW 12th Ave",
+        "LAT": 25.84009,
+        "TYPE": "GA",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.21036879975016,
+          25.772261744579858
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0141380031200",
+        "NAME": "CCS - Sagrada Familia",
+        "EDIT_DATE": "2010/10/18",
+        "EARLYHS": "Y",
+        "LON": -80.21037,
+        "ZIPCODE": 33130,
+        "PHONE": "305-324-5424",
+        "POINT_X": 916024.37886576,
+        "POINT_Y": 523697.701993339,
+        "ADDRESS": "970 SW 1st St",
+        "LAT": 25.77226,
+        "TYPE": "DA",
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17824015540505,
+          25.930057905364734
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3022080000051",
+        "NAME": "John F. Kennedy Middle School",
+        "EDIT_DATE": "2010/10/19",
+        "EARLYHS": "N",
+        "LON": -80.17824,
+        "ZIPCODE": 33162,
+        "PHONE": "305-690-8381",
+        "POINT_X": 926239.25017127,
+        "POINT_Y": 581116.749982819,
+        "ADDRESS": "1075 NE 167th St",
+        "LAT": 25.93006,
+        "TYPE": "GA",
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.23542084103632,
+          25.869208140279444
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3021340000050",
+        "NAME": "Miami Park Elementary",
+        "EDIT_DATE": "2010/10/19",
+        "EARLYHS": "Y",
+        "LON": -80.23542,
+        "ZIPCODE": 33147,
+        "PHONE": "305-694-2767",
+        "POINT_X": 907574.937577888,
+        "POINT_Y": 558885.875082113,
+        "ADDRESS": "2225 NW 103rd St",
+        "LAT": 25.86921,
+        "TYPE": "GA",
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.30614589945542,
+          25.87605270408675
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Hialeah",
+        "FOLIO": "0420360010520",
+        "NAME": "John G. Dupuis Elementary",
+        "EDIT_DATE": "2010/10/19",
+        "EARLYHS": "N",
+        "LON": -80.30615,
+        "ZIPCODE": 33012,
+        "PHONE": "305-558-1536",
+        "POINT_X": 884305.291476216,
+        "POINT_Y": 561244.48654031,
+        "ADDRESS": "1150 W 59th Pl",
+        "LAT": 25.87605,
+        "TYPE": "GA",
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.23805156474783,
+          25.920484759128122
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami Gardens",
+        "FOLIO": "3421150036150",
+        "NAME": "Bunche Park Elementary",
+        "EDIT_DATE": "2014/05/27",
+        "EARLYHS": "N",
+        "LON": -80.23805,
+        "ZIPCODE": 33054,
+        "PHONE": "305-621-1469",
+        "POINT_X": 906601.625064984,
+        "POINT_Y": 577518.3748114629,
+        "ADDRESS": "16001 Bunche Park School Dr",
+        "LAT": 25.92048,
+        "TYPE": "GA",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.24286925346516,
+          25.814188009348552
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3031210510010",
+        "NAME": "Mary McCleod Bethune Enrichment Center",
+        "EDIT_DATE": "2010/10/18",
+        "EARLYHS": "Y",
+        "LON": -80.24287,
+        "ZIPCODE": 33142,
+        "PHONE": "305-638-6073",
+        "POINT_X": 905240.862695716,
+        "POINT_Y": 538873.657207474,
+        "ADDRESS": "2900 NW 43rd Ter",
+        "LAT": 25.81419,
+        "TYPE": "GA",
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.27647108740156,
+          25.82695003333134
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Hialeah",
+        "FOLIO": "0431180012680",
+        "NAME": "South Hialeah Elementary",
+        "EDIT_DATE": "2014/05/27",
+        "EARLYHS": "N",
+        "LON": -80.27647,
+        "ZIPCODE": 33010,
+        "PHONE": "305-885-4556",
+        "POINT_X": 894160.9376933951,
+        "POINT_Y": 543449.999995738,
+        "ADDRESS": "265 E 5th St",
+        "LAT": 25.82695,
+        "TYPE": "GA",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.22710451125825,
+          25.83081673692304
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3031150460010",
+        "NAME": "Charles R. Drew Elementary",
+        "EDIT_DATE": "2014/05/27",
+        "EARLYHS": "N",
+        "LON": -80.2271,
+        "ZIPCODE": 33142,
+        "PHONE": "305-691-8021",
+        "POINT_X": 910391.687404513,
+        "POINT_Y": 544947.812477134,
+        "ADDRESS": "1775 NW 60th St",
+        "LAT": 25.83082,
+        "TYPE": "GA",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2006913616296,
+          25.78543154556028
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0131360370630",
+        "NAME": "Frederick Douglass Elementary",
+        "EDIT_DATE": "2010/10/19",
+        "EARLYHS": "N",
+        "LON": -80.20069,
+        "ZIPCODE": 33136,
+        "PHONE": "305-372-7627",
+        "POINT_X": 919180.1871246961,
+        "POINT_Y": 528503.6875338181,
+        "ADDRESS": "314 NW 12th St",
+        "LAT": 25.78543,
+        "TYPE": "GA",
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.29305308209675,
+          25.7082061529642
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "South Miami",
+        "FOLIO": "0940250630040",
+        "NAME": "South Miami Neighborhood Center",
+        "EDIT_DATE": "2014/05/29",
+        "EARLYHS": "Y",
+        "LON": -80.29305,
+        "ZIPCODE": 33146,
+        "PHONE": "305-665-4684",
+        "POINT_X": 888937.866200533,
+        "POINT_Y": 500261.535571516,
+        "ADDRESS": "6125 SW 68th St",
+        "LAT": 25.70821,
+        "TYPE": "GA",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19374957899089,
+          25.832013851763733
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0131130000120",
+        "NAME": "CCS - Notre Dame",
+        "EDIT_DATE": "2010/10/19",
+        "EARLYHS": "N",
+        "LON": -80.19375,
+        "ZIPCODE": 33138,
+        "PHONE": "305-751-6778",
+        "POINT_X": 921360.749558728,
+        "POINT_Y": 545448.8106215971,
+        "ADDRESS": "130 NE 62nd St",
+        "LAT": 25.83201,
+        "TYPE": "DA",
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.25461384965085,
+          25.9645828951912
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3411330071800",
+        "NAME": "North County",
+        "EDIT_DATE": "2010/10/19",
+        "EARLYHS": "N",
+        "LON": -80.25461,
+        "ZIPCODE": 33155,
+        "PHONE": "305-621-6224",
+        "POINT_X": 901066.562275827,
+        "POINT_Y": 593515.499946363,
+        "ADDRESS": "3201 NW 207th St",
+        "LAT": 25.96458,
+        "TYPE": "GA",
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1320825668761,
+          25.786072865683607
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami Beach",
+        "FOLIO": "0242030090010",
+        "NAME": "Fienberg/Fisher K-8 Center",
+        "EDIT_DATE": "2010/10/19",
+        "EARLYHS": "N",
+        "LON": -80.13208,
+        "ZIPCODE": 33139,
+        "PHONE": "305-535-4239",
+        "POINT_X": 941755.500041723,
+        "POINT_Y": 528879.6872781661,
+        "ADDRESS": "1420 Washington Ave",
+        "LAT": 25.78607,
+        "TYPE": "GA",
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.23326453586695,
+          25.824722647991706
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3031150000310",
+        "NAME": "Caleb Center",
+        "EDIT_DATE": "2010/10/18",
+        "EARLYHS": "N",
+        "LON": -80.23326,
+        "ZIPCODE": 33142,
+        "PHONE": "305-636-2386",
+        "POINT_X": 908378.3370026391,
+        "POINT_Y": 542720.9478350581,
+        "ADDRESS": "5400 NW 22nd Ave",
+        "LAT": 25.82472,
+        "TYPE": "GA",
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.33223384616056,
+          25.868467389909117
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Hialeah Gardens",
+        "FOLIO": "2730030220010",
+        "NAME": "Centro Mater West 1",
+        "EDIT_DATE": "2010/10/19",
+        "EARLYHS": "Y",
+        "LON": -80.33223,
+        "ZIPCODE": 33016,
+        "PHONE": "305-357-4395",
+        "POINT_X": 875741.372364242,
+        "POINT_Y": 558443.008393697,
+        "ADDRESS": "8298 NW 103rd St",
+        "LAT": 25.86847,
+        "TYPE": "DA",
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.27126220490914,
+          25.933464884934487
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami Gardens",
+        "FOLIO": "3421080103530",
+        "NAME": "Carol City Elementary",
+        "EDIT_DATE": "2014/05/27",
+        "EARLYHS": "N",
+        "LON": -80.27126,
+        "ZIPCODE": 33055,
+        "PHONE": "305-621-0509",
+        "POINT_X": 895659.4377907921,
+        "POINT_Y": 582174.187423803,
+        "ADDRESS": "4375 NW 173rd Dr",
+        "LAT": 25.93346,
+        "TYPE": "GA",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.29221642166763,
+          25.84220778955388
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Hialeah",
+        "FOLIO": "0430120091700",
+        "NAME": "FCAA - New Mt. Zion",
+        "EDIT_DATE": "2010/10/19",
+        "EARLYHS": "N",
+        "LON": -80.29222,
+        "ZIPCODE": 33010,
+        "PHONE": "305-887-3621",
+        "POINT_X": 888951.718616545,
+        "POINT_Y": 548967.4686728719,
+        "ADDRESS": "500 W 23rd St",
+        "LAT": 25.84221,
+        "TYPE": "DA",
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.12666968419435,
+          25.86135622226537
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami Beach",
+        "FOLIO": "0232020000060",
+        "NAME": "Biscayne Elementary",
+        "EDIT_DATE": "2014/05/27",
+        "EARLYHS": "N",
+        "LON": -80.12667,
+        "ZIPCODE": 33141,
+        "PHONE": "305-868-7727",
+        "POINT_X": 943354.999819212,
+        "POINT_Y": 556254.93747966,
+        "ADDRESS": "800 77th St",
+        "LAT": 25.86136,
+        "TYPE": "GA",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.21426027744327,
+          25.849799483412095
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3031110560010",
+        "NAME": "Arcola Lake Elementary",
+        "EDIT_DATE": "2014/05/27",
+        "EARLYHS": "N",
+        "LON": -80.21426,
+        "ZIPCODE": 33150,
+        "PHONE": "305-836-2820",
+        "POINT_X": 914575.4032484071,
+        "POINT_Y": 551872.490883581,
+        "ADDRESS": "1037 NW 81ST ST",
+        "LAT": 25.8498,
+        "TYPE": "GA",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.38130652309489,
+          25.76602822760642
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Sweetwater",
+        "FOLIO": "2540060010770",
+        "NAME": "Sweetwater Head Start Center",
+        "EDIT_DATE": "2010/10/19",
+        "EARLYHS": "N",
+        "LON": -80.38131,
+        "ZIPCODE": 33174,
+        "PHONE": "305-227-3162",
+        "POINT_X": 859779.998397376,
+        "POINT_Y": 521131.46429494803,
+        "ADDRESS": "250 SW 114th Ave",
+        "LAT": 25.76603,
+        "TYPE": "GA",
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3269521894009,
+          25.878632422878084
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Hialeah",
+        "FOLIO": "0420340020060",
+        "NAME": "Paradise Christian Hialeah",
+        "EDIT_DATE": "2010/02/26",
+        "EARLYHS": "N",
+        "LON": -80.32695,
+        "ZIPCODE": 33016,
+        "PHONE": "305-828-7477",
+        "POINT_X": 877459.19482984,
+        "POINT_Y": 562146.507405147,
+        "ADDRESS": "6184 W 21st Ct",
+        "LAT": 25.87863,
+        "TYPE": "DA",
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.25539836443866,
+          25.726190758559124
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0141200460010",
+        "NAME": "St. Alban's Coconut Grove",
+        "EDIT_DATE": "2010/02/26",
+        "EARLYHS": "N",
+        "LON": -80.2554,
+        "ZIPCODE": 33133,
+        "PHONE": "305-443-1234",
+        "POINT_X": 901299.720676046,
+        "POINT_Y": 506866.36527366197,
+        "ADDRESS": "3465 Brooker St",
+        "LAT": 25.72619,
+        "TYPE": "DA",
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.29218303797224,
+          25.70927555206334
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "South Miami",
+        "FOLIO": "0940250630060",
+        "NAME": "St. Alban's South Miami",
+        "EDIT_DATE": "2014/05/27",
+        "EARLYHS": "N",
+        "LON": -80.29218,
+        "ZIPCODE": 33143,
+        "PHONE": "305-667-5582",
+        "POINT_X": 889222.265304796,
+        "POINT_Y": 500651.752019875,
+        "ADDRESS": "6060 SW 66th St",
+        "LAT": 25.70928,
+        "TYPE": "DA",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19756718536772,
+          25.801008485730673
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0131250291100",
+        "NAME": "CCS - Centro Hispano",
+        "EDIT_DATE": "2010/02/26",
+        "EARLYHS": "Y",
+        "LON": -80.19757,
+        "ZIPCODE": 33127,
+        "PHONE": "305-576-1923",
+        "POINT_X": 920173.738741622,
+        "POINT_Y": 534171.650419094,
+        "ADDRESS": "125 NW 25th St",
+        "LAT": 25.80101,
+        "TYPE": "DA",
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.23325454662461,
+          25.791960188797432
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0131340280130",
+        "NAME": "Allapattah",
+        "EDIT_DATE": "2010/02/26",
+        "EARLYHS": "N",
+        "LON": -80.23325,
+        "ZIPCODE": 33125,
+        "PHONE": "305-633-8690",
+        "POINT_X": 908451.004906707,
+        "POINT_Y": 530812.917103969,
+        "ADDRESS": "1836  NW 22nd Pl",
+        "LAT": 25.79196,
+        "TYPE": "DA",
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.34695668890174,
+          25.59715957974859
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Cutler Bay",
+        "FOLIO": "3660040010030",
+        "NAME": "CCS - Good Shepherd",
+        "EDIT_DATE": "2010/02/26",
+        "EARLYHS": "N",
+        "LON": -80.34696,
+        "ZIPCODE": 33157,
+        "PHONE": "305-235-1756",
+        "POINT_X": 871388.0767441881,
+        "POINT_Y": 459809.939245842,
+        "ADDRESS": "18601 SW 97th Ave",
+        "LAT": 25.59716,
+        "TYPE": "DA",
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.43178676770715,
+          25.501471593001067
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3079040000110",
+        "NAME": "CCS - South Dade",
+        "EDIT_DATE": "2010/02/26",
+        "EARLYHS": "N",
+        "LON": -80.43179,
+        "ZIPCODE": 33033,
+        "PHONE": "305-245-0979",
+        "POINT_X": 843579.028398287,
+        "POINT_Y": 424903.945229329,
+        "ADDRESS": "28520 SW 148th Ave",
+        "LAT": 25.50147,
+        "TYPE": "DA",
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.20119754190404,
+          25.76961595545767
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0102020901020",
+        "NAME": "Centro Mater East 1",
+        "EDIT_DATE": "2010/02/26",
+        "EARLYHS": "N",
+        "LON": -80.2012,
+        "ZIPCODE": 33130,
+        "PHONE": "305-545-6049",
+        "POINT_X": 919048.475892574,
+        "POINT_Y": 522754.23933646106,
+        "ADDRESS": "418 SW 4th Ave",
+        "LAT": 25.76962,
+        "TYPE": "DA",
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.20116433949232,
+          25.76961808482851
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0102020901020",
+        "NAME": "Centro Mater East 2",
+        "EDIT_DATE": "2010/02/26",
+        "EARLYHS": "N",
+        "LON": -80.20116,
+        "ZIPCODE": 33130,
+        "PHONE": "305-545-7720",
+        "POINT_X": 919059.398388583,
+        "POINT_Y": 522755.079528466,
+        "ADDRESS": "422 SW 4th Ave",
+        "LAT": 25.76962,
+        "TYPE": "DA",
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.20135326414491,
+          25.77031647710013
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0102020601171",
+        "NAME": "Centro Mater East ll",
+        "EDIT_DATE": "2014/05/27",
+        "EARLYHS": "N",
+        "LON": -80.20135,
+        "ZIPCODE": 33130,
+        "PHONE": "305-545-6049",
+        "POINT_X": 918995.6833165251,
+        "POINT_Y": 523008.54461669904,
+        "ADDRESS": "421 SW 4th ST",
+        "LAT": 25.77032,
+        "TYPE": "DA",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.20051643618207,
+          25.77905182260449
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0101060702010",
+        "NAME": "YWCA-Gerry Sweets",
+        "EDIT_DATE": "2013/08/29",
+        "EARLYHS": "Y",
+        "LON": -80.20052,
+        "ZIPCODE": 33128,
+        "PHONE": "305-377-9922",
+        "POINT_X": 919251.823092762,
+        "POINT_Y": 526185.2194356549,
+        "ADDRESS": "351 NW 5th ST",
+        "LAT": 25.77905,
+        "TYPE": "DA",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.23467960829828,
+          25.917332286874164
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami Gardens",
+        "FOLIO": "3421150037300",
+        "NAME": "FCAA - Bunche Park",
+        "EDIT_DATE": "2010/02/26",
+        "EARLYHS": "N",
+        "LON": -80.23468,
+        "ZIPCODE": 33054,
+        "PHONE": "305-623-2021",
+        "POINT_X": 907716.641002022,
+        "POINT_Y": 576378.997914404,
+        "ADDRESS": "15700 NW 20th Ave Rd",
+        "LAT": 25.91733,
+        "TYPE": "DA",
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.23899305691351,
+          25.76198043866627
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0141090020470",
+        "NAME": "Sunflowers Academy #5",
+        "EDIT_DATE": "2013/08/29",
+        "EARLYHS": "N",
+        "LON": -80.23899,
+        "ZIPCODE": 33135,
+        "PHONE": "305-644-0024",
+        "POINT_X": 906625.7195290059,
+        "POINT_Y": 519905.38941381103,
+        "ADDRESS": "1102 SW 27th AVE",
+        "LAT": 25.76198,
+        "TYPE": "DA",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.21120985647296,
+          25.910076807952485
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3021240160010",
+        "NAME": "FCAA - Children's Place",
+        "EDIT_DATE": "2010/02/26",
+        "EARLYHS": "N",
+        "LON": -80.21121,
+        "ZIPCODE": 33168,
+        "PHONE": "305-695-4881",
+        "POINT_X": 915446.98212922,
+        "POINT_Y": 573787.561367989,
+        "ADDRESS": "14701 NW 7th Ave",
+        "LAT": 25.91008,
+        "TYPE": "DA",
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.192388988509,
+          25.811136528673018
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0131240220210",
+        "NAME": "KIDCO III",
+        "EDIT_DATE": "2010/02/26",
+        "EARLYHS": "N",
+        "LON": -80.19239,
+        "ZIPCODE": 33137,
+        "PHONE": "305-576-6990",
+        "POINT_X": 921854.88895119,
+        "POINT_Y": 537863.293814532,
+        "ADDRESS": "3628 NE 1st Ct",
+        "LAT": 25.81114,
+        "TYPE": "DA",
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.20218252268614,
+          25.838334333540317
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0131130230350",
+        "NAME": "KIDCO IV",
+        "EDIT_DATE": "2010/02/26",
+        "EARLYHS": "N",
+        "LON": -80.20218,
+        "ZIPCODE": 33150,
+        "PHONE": "305-758-1664",
+        "POINT_X": 918572.909044132,
+        "POINT_Y": 547729.1912957211,
+        "ADDRESS": "6911 NW 3rd Ave",
+        "LAT": 25.83833,
+        "TYPE": "DA",
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.21136373806719,
+          25.932809537487422
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3421120000140",
+        "NAME": "Landow Yeshiva",
+        "EDIT_DATE": "2010/02/26",
+        "EARLYHS": "Y",
+        "LON": -80.21136,
+        "ZIPCODE": 33169,
+        "PHONE": "305-653-8770",
+        "POINT_X": 915346.6790251291,
+        "POINT_Y": 582049.991327688,
+        "ADDRESS": "17330 NW 7th Ave",
+        "LAT": 25.93281,
+        "TYPE": "DA",
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.48314286286221,
+          25.471391728747122
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Homestead",
+        "FOLIO": "1078130090660",
+        "NAME": "Le Jardin I",
+        "EDIT_DATE": "2010/02/26",
+        "EARLYHS": "N",
+        "LON": -80.48314,
+        "ZIPCODE": 33030,
+        "PHONE": "305-245-2422",
+        "POINT_X": 826682.505374551,
+        "POINT_Y": 413902.68237108696,
+        "ADDRESS": "320 NW 2nd St",
+        "LAT": 25.47139,
+        "TYPE": "DA",
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.30493002843534,
+          25.748719717379238
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3040110400010",
+        "NAME": "O' Farrill Learning Center",
+        "EDIT_DATE": "2010/02/26",
+        "EARLYHS": "N",
+        "LON": -80.30493,
+        "ZIPCODE": 33155,
+        "PHONE": "305-264-3232",
+        "POINT_X": 884949.5605328161,
+        "POINT_Y": 514965.78800121,
+        "ADDRESS": "6741 SW 24th St",
+        "LAT": 25.74872,
+        "TYPE": "DA",
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19252092229758,
+          25.849205312910915
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0132070290010",
+        "NAME": "Our Little Ones Learning Center",
+        "EDIT_DATE": "2010/02/26",
+        "EARLYHS": "N",
+        "LON": -80.19252,
+        "ZIPCODE": 33138,
+        "PHONE": "305-754-8444",
+        "POINT_X": 921726.51314307,
+        "POINT_Y": 551699.872899421,
+        "ADDRESS": "8037 NE 2nd Ave",
+        "LAT": 25.84921,
+        "TYPE": "DA",
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.47970463900083,
+          25.481422171362773
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Homstead",
+        "FOLIO": "1078120010190",
+        "NAME": "Lejardin V",
+        "EDIT_DATE": "2013/08/29",
+        "EARLYHS": "N",
+        "LON": -80.4797,
+        "ZIPCODE": 33030,
+        "PHONE": "305-246-3995",
+        "POINT_X": 827802.5865275931,
+        "POINT_Y": 417552.55117448396,
+        "ADDRESS": "104 NW 12th ST",
+        "LAT": 25.48142,
+        "TYPE": "DA",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36103867000656,
+          25.612311136353323
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3050320000201",
+        "NAME": "MDCPS-ETHEL F. Beckford Elementary",
+        "EDIT_DATE": "2013/08/29",
+        "EARLYHS": "N",
+        "LON": -80.36104,
+        "ZIPCODE": 33157,
+        "PHONE": "305-238-5194",
+        "POINT_X": 866720.4592038391,
+        "POINT_Y": 465294.16478695,
+        "ADDRESS": "16929 SW 104 AVE",
+        "LAT": 25.61231,
+        "TYPE": "DA",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19070549230725,
+          25.77830216110818
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0141370240010",
+        "NAME": "YWCA-Cain Tower",
+        "EDIT_DATE": "2013/08/29",
+        "EARLYHS": "Y",
+        "LON": -80.19071,
+        "ZIPCODE": 33132,
+        "PHONE": "305-381-6911",
+        "POINT_X": 922482.106871772,
+        "POINT_Y": 525932.4562994239,
+        "ADDRESS": "470 NE 2nd Ave",
+        "LAT": 25.7783,
+        "TYPE": "DA",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1952015871126,
+          25.789929539078553
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0131250760010",
+        "NAME": "MDCPS-Chapman North",
+        "EDIT_DATE": "2013/08/29",
+        "EARLYHS": "Y",
+        "LON": -80.1952,
+        "ZIPCODE": 33136,
+        "PHONE": "305-329-3041",
+        "POINT_X": 920976.687606372,
+        "POINT_Y": 530149.5624793471,
+        "ADDRESS": "1550 N Miami Ave",
+        "LAT": 25.78993,
+        "TYPE": "GA",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.23127431703469,
+          25.843271325679016
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3031100280560",
+        "NAME": "Westview Elementary",
+        "EDIT_DATE": "2013/08/29",
+        "EARLYHS": "N",
+        "LON": -80.23127,
+        "ZIPCODE": 33167,
+        "PHONE": "305-681-2415",
+        "POINT_X": 908993.609451208,
+        "POINT_Y": 549466.614145339,
+        "ADDRESS": "2101 NW 75th St",
+        "LAT": 25.84327,
+        "TYPE": "GA",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.39130363160709,
+          25.50574308625197
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3079010010010",
+        "NAME": "MDCPS-Chapman South",
+        "EDIT_DATE": "2013/08/29",
+        "EARLYHS": "Y",
+        "LON": -80.3913,
+        "ZIPCODE": 33039,
+        "PHONE": "305-416-7189",
+        "POINT_X": 856924.687034719,
+        "POINT_Y": 426515.438094832,
+        "ADDRESS": "28205 SW 125h Ave",
+        "LAT": 25.50574,
+        "TYPE": "GA",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19664732897999,
+          25.78100028647925
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0131370340010",
+        "NAME": "Home Based Option- Main Office",
+        "EDIT_DATE": "2013/08/29",
+        "EARLYHS": "Y",
+        "LON": -80.19665,
+        "ZIPCODE": 33136,
+        "PHONE": "786-469-4622",
+        "POINT_X": 920520.759029947,
+        "POINT_Y": 526901.1674683241,
+        "ADDRESS": "701 NW 1st Ct",
+        "LAT": 25.781,
+        "TYPE": "GA",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4803680723557,
+          25.481410371491883
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Homestead",
+        "FOLIO": "1078120010220",
+        "NAME": "Le Jardin IV",
+        "EDIT_DATE": "2013/08/29",
+        "EARLYHS": "N",
+        "LON": -80.48037,
+        "ZIPCODE": 33030,
+        "PHONE": "304-245-2422",
+        "POINT_X": 827583.744927392,
+        "POINT_Y": 417547.40813448303,
+        "ADDRESS": "136 NW 12th ST",
+        "LAT": 25.48141,
+        "TYPE": "DA",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.31841232216999,
+          25.825872425356046
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3030230010250",
+        "NAME": "Paradise Christian Tailwinds",
+        "EDIT_DATE": "2010/02/26",
+        "EARLYHS": "N",
+        "LON": -80.31841,
+        "ZIPCODE": 33166,
+        "PHONE": "305-716-1772",
+        "POINT_X": 880366.591696549,
+        "POINT_Y": 542984.625787303,
+        "ADDRESS": "7500 NW 58th St",
+        "LAT": 25.82587,
+        "TYPE": "DA",
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.24126906708348,
+          25.766302424826126
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0141040160221",
+        "NAME": "Sunflowers Academy",
+        "EDIT_DATE": "2010/10/19",
+        "EARLYHS": "N",
+        "LON": -80.24127,
+        "ZIPCODE": 33135,
+        "PHONE": "305-643-1311",
+        "POINT_X": 905867.5796242991,
+        "POINT_Y": 521471.956327267,
+        "ADDRESS": "2901 SW 7th  St",
+        "LAT": 25.7663,
+        "TYPE": "DA",
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18797278556897,
+          25.908817139892797
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "North Miami",
+        "FOLIO": "0622190001490",
+        "NAME": "Early Step Learning",
+        "EDIT_DATE": "2013/08/29",
+        "EARLYHS": "Y",
+        "LON": -80.18797,
+        "ZIPCODE": 33161,
+        "PHONE": "786-955-6405",
+        "POINT_X": 923088.303864337,
+        "POINT_Y": 573376.335255608,
+        "ADDRESS": "14500 NE 6th AVE",
+        "LAT": 25.90882,
+        "TYPE": "DA",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.26013276113513,
+          25.954549832556552
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami Gardens",
+        "FOLIO": "3421040010060",
+        "NAME": "YWCA-Windows",
+        "EDIT_DATE": "2013/08/29",
+        "EARLYHS": "Y",
+        "LON": -80.26013,
+        "ZIPCODE": 33056,
+        "PHONE": "305-377-9922",
+        "POINT_X": 899273.851362158,
+        "POINT_Y": 589858.468518958,
+        "ADDRESS": "3468 NW 199 ST",
+        "LAT": 25.95455,
+        "TYPE": "DA",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.29924176968576,
+          25.84718167617868
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Hialeah",
+        "FOLIO": "0430120140020",
+        "NAME": "Centro Mater West Walker Park",
+        "EDIT_DATE": "2011/11/15",
+        "EARLYHS": "N",
+        "LON": -80.29924,
+        "ZIPCODE": 33010,
+        "PHONE": "305-887-1140",
+        "POINT_X": 886631.419350382,
+        "POINT_Y": 550762.92006655,
+        "ADDRESS": "800 W 29th St",
+        "LAT": 25.84718,
+        "TYPE": "DA",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.32346966822674,
+          25.862010589003543
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Hialeah Gardens",
+        "FOLIO": "2730030010630",
+        "NAME": "Centro Mater West 2",
+        "EDIT_DATE": "2011/11/16",
+        "EARLYHS": "N",
+        "LON": -80.32347,
+        "ZIPCODE": 33016,
+        "PHONE": "305-262-9701",
+        "POINT_X": 878635.379662938,
+        "POINT_Y": 556110.941319525,
+        "ADDRESS": "7700 NW 98th St",
+        "LAT": 25.86201,
+        "TYPE": "DA",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.21386066351285,
+          25.752272355895585
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0141390073300",
+        "NAME": "United Way of Miami CFE",
+        "EDIT_DATE": "2011/11/17",
+        "EARLYHS": "Y",
+        "LON": -80.21386,
+        "ZIPCODE": 33129,
+        "PHONE": "305-631-7638",
+        "POINT_X": 914918.53566473,
+        "POINT_Y": 516425.385826565,
+        "ADDRESS": "3250 SW 3rd Ave",
+        "LAT": 25.75227,
+        "TYPE": "DA",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.41776049982262,
+          25.515364693216995
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3069340080350",
+        "NAME": "William A. Chapman Elementary",
+        "EDIT_DATE": "2014/05/27",
+        "EARLYHS": "N",
+        "LON": -80.41776,
+        "ZIPCODE": 33032,
+        "PHONE": "305-245-1055",
+        "POINT_X": 848183.279538576,
+        "POINT_Y": 429973.291538052,
+        "ADDRESS": "27190 SW 140th  Ave",
+        "LAT": 25.51536,
+        "TYPE": "GA",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36238615128484,
+          25.724801038686433
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3040200000060",
+        "NAME": "Tropical Elementary",
+        "EDIT_DATE": "2014/05/27",
+        "EARLYHS": "N",
+        "LON": -80.36239,
+        "ZIPCODE": 33165,
+        "PHONE": "305-221-0284",
+        "POINT_X": 866079.3271712441,
+        "POINT_Y": 506176.834137023,
+        "ADDRESS": "4545 SW 104th Ave",
+        "LAT": 25.7248,
+        "TYPE": "GA",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.20916705037779,
+          25.791966772239327
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0131350540020",
+        "NAME": "Jackson Dade",
+        "EDIT_DATE": "2010/10/19",
+        "EARLYHS": "N",
+        "LON": -80.20917,
+        "ZIPCODE": 33136,
+        "PHONE": "305-545-3430",
+        "POINT_X": 916376.874994088,
+        "POINT_Y": 530862.187632009,
+        "ADDRESS": "801 NW 17th St",
+        "LAT": 25.79197,
+        "TYPE": "GA",
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4325847962497,
+          25.497869493659028
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3079040000640",
+        "NAME": "Leisure City Mobiles",
+        "EDIT_DATE": "2010/10/19",
+        "EARLYHS": "Y",
+        "LON": -80.43258,
+        "ZIPCODE": 33032,
+        "PHONE": "305-245-6626",
+        "POINT_X": 843321.392814048,
+        "POINT_Y": 423593.668364108,
+        "ADDRESS": "14835 Filmore Ln",
+        "LAT": 25.49787,
+        "TYPE": "GA",
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.22126703913703,
+          25.833574381127463
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0131140090010",
+        "NAME": "Liberty Square HUD",
+        "EDIT_DATE": "2010/10/19",
+        "EARLYHS": "Y",
+        "LON": -80.22127,
+        "ZIPCODE": 33142,
+        "PHONE": "305-691-2205",
+        "POINT_X": 912305.917934295,
+        "POINT_Y": 545961.4575340749,
+        "ADDRESS": "6304 NW 14th Ave",
+        "LAT": 25.83357,
+        "TYPE": "GA",
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.35445336316101,
+          25.602938167210105
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3050320300020",
+        "NAME": "Perrine Neighborhood Center",
+        "EDIT_DATE": "2010/10/19",
+        "EARLYHS": "N",
+        "LON": -80.35445,
+        "ZIPCODE": 33157,
+        "PHONE": "305-254-5809",
+        "POINT_X": 868907.130309876,
+        "POINT_Y": 461898.070319787,
+        "ADDRESS": "17801 Homestead Ave",
+        "LAT": 25.60294,
+        "TYPE": "GA",
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18062239583163,
+          25.85501611968351
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0132070790010",
+        "NAME": "Phyllis Ruth Miller Elementary",
+        "EDIT_DATE": "2014/05/27",
+        "EARLYHS": "N",
+        "LON": -80.18062,
+        "ZIPCODE": 33138,
+        "PHONE": "305-756-3800",
+        "POINT_X": 925626.637306701,
+        "POINT_Y": 553836.159365408,
+        "ADDRESS": "840 NE 87th St",
+        "LAT": 25.85502,
+        "TYPE": "GA",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.13881284985887,
+          25.772464996063473
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami Beach",
+        "FOLIO": "0242030097950",
+        "NAME": "South Pointe Elementary",
+        "EDIT_DATE": "2014/05/27",
+        "EARLYHS": "N",
+        "LON": -80.13881,
+        "ZIPCODE": 33139,
+        "PHONE": "305-531-5437",
+        "POINT_X": 939573.125127688,
+        "POINT_Y": 523919.09360954905,
+        "ADDRESS": "1050 4th St",
+        "LAT": 25.77246,
+        "TYPE": "GA",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.33082947317274,
+          25.565215169884727
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Cutler Bay",
+        "FOLIO": "3660090220030",
+        "NAME": "Dr. Edward L. Whigham Elementary",
+        "EDIT_DATE": "2010/10/19",
+        "EARLYHS": "N",
+        "LON": -80.33083,
+        "ZIPCODE": 33189,
+        "PHONE": "305-378-1788",
+        "POINT_X": 876761.77530919,
+        "POINT_Y": 448226.23209904897,
+        "ADDRESS": "21545 SW 87th Ave",
+        "LAT": 25.56522,
+        "TYPE": "GA",
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19030163686507,
+          25.810981550693906
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0132190310020",
+        "NAME": "KIDCO I",
+        "EDIT_DATE": "2010/10/19",
+        "EARLYHS": "Y",
+        "LON": -80.1903,
+        "ZIPCODE": 33137,
+        "PHONE": "305-573-1515",
+        "POINT_X": 922541.9619758279,
+        "POINT_Y": 537811.1845024821,
+        "ADDRESS": "221 NE 36th St",
+        "LAT": 25.81098,
+        "TYPE": "DA",
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.22864280824486,
+          25.84479272066013
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami Gardens",
+        "FOLIO": "3031100000370",
+        "NAME": "MDCPS-Lillie C. Evans Elementary",
+        "EDIT_DATE": "2013/08/29",
+        "EARLYHS": "N",
+        "LON": -80.22864,
+        "ZIPCODE": 33147,
+        "PHONE": "305-691-4973",
+        "POINT_X": 909855.876076013,
+        "POINT_Y": 550024.663937859,
+        "ADDRESS": "1895 NW 75th ST",
+        "LAT": 25.84479,
+        "TYPE": "DA",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2098719520431,
+          25.83565984218567
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0131140362660",
+        "NAME": "MDCPS-Thena Crowder Elementary",
+        "EDIT_DATE": "2013/08/29",
+        "EARLYHS": "N",
+        "LON": -80.20987,
+        "ZIPCODE": 33150,
+        "PHONE": "305-836-0012",
+        "POINT_X": 916049.558513783,
+        "POINT_Y": 546741.820542805,
+        "ADDRESS": "757 NW 66 ST",
+        "LAT": 25.83566,
+        "TYPE": "DA",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19222842200118,
+          25.826501059796236
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0131130640050",
+        "NAME": "KIDCO V",
+        "EDIT_DATE": "2013/08/29",
+        "EARLYHS": "N",
+        "LON": -80.19223,
+        "ZIPCODE": 33137,
+        "PHONE": "305-573-1515",
+        "POINT_X": 921873.422071204,
+        "POINT_Y": 543448.149627738,
+        "ADDRESS": "5510 NE 2nd AVE",
+        "LAT": 25.8265,
+        "TYPE": "DA",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19020595262438,
+          25.801548259412733
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0132300220200",
+        "NAME": "KIDCO VI",
+        "EDIT_DATE": "2013/08/29",
+        "EARLYHS": "Y",
+        "LON": -80.19021,
+        "ZIPCODE": 33137,
+        "PHONE": "305-576-6990",
+        "POINT_X": 922594.538999878,
+        "POINT_Y": 534382.6735232921,
+        "ADDRESS": "242 NE 26TH ST",
+        "LAT": 25.80155,
+        "TYPE": "DA",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18494062846959,
+          25.9334208485351
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "North Miami Beach",
+        "FOLIO": "3022070000320",
+        "NAME": "MDCPS- G K Edelman/ Sabal Palm",
+        "EDIT_DATE": "2013/08/29",
+        "EARLYHS": "N",
+        "LON": -80.18494,
+        "ZIPCODE": 33162,
+        "PHONE": "305-651-2411",
+        "POINT_X": 924029.4325692131,
+        "POINT_Y": 582325.339807943,
+        "ADDRESS": "17101 NE 7th AVE",
+        "LAT": 25.93342,
+        "TYPE": "DA",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.38155245058545,
+          25.759186068580195
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3040070000050",
+        "NAME": "Dr. Carlos J. Finlay ES",
+        "EDIT_DATE": "2014/05/29",
+        "EARLYHS": "N",
+        "LON": -80.38155,
+        "ZIPCODE": 33184,
+        "PHONE": "305-552-7122",
+        "POINT_X": 859710.728637312,
+        "POINT_Y": 518644.254308634,
+        "ADDRESS": "851 SW 117th AVE",
+        "LAT": 25.75919,
+        "TYPE": "DA",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.21038325496187,
+          25.850646362965584
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Unincorporated Miami-Dade",
+        "FOLIO": null,
+        "NAME": "Lillie  M. Williams",
+        "EDIT_DATE": "2014/06/03",
+        "EARLYHS": "N",
+        "LON": -80.21038,
+        "ZIPCODE": 33150,
+        "PHONE": "786-469-4622",
+        "POINT_X": 915848.652529594,
+        "POINT_Y": 552187.9494438771,
+        "ADDRESS": "770 NW 83rd ST",
+        "LAT": 25.85065,
+        "TYPE": "DA",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.21982490052953,
+          25.839570858028086
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3031110280200",
+        "NAME": "Holy Redeemer",
+        "EDIT_DATE": "2014/06/03",
+        "EARLYHS": "N",
+        "LON": -80.21982,
+        "ZIPCODE": 33147,
+        "PHONE": "305-836-4971",
+        "POINT_X": 912767.3469267259,
+        "POINT_Y": 548143.799680106,
+        "ADDRESS": "1325 NW 71st ST",
+        "LAT": 25.83957,
+        "TYPE": null,
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.21545008910557,
+          25.831836895128262
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0131140250020",
+        "NAME": "Mt. Calvry",
+        "EDIT_DATE": "2014/06/04",
+        "EARLYHS": "Y",
+        "LON": -80.21545,
+        "ZIPCODE": 33150,
+        "PHONE": "305-685-7838",
+        "POINT_X": 914223.05995208,
+        "POINT_Y": 545341.311357498,
+        "ADDRESS": "1140  NW 62nd ST",
+        "LAT": 25.83184,
+        "TYPE": "EHS",
+        "EDITOR_NAM": "wgomez"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.32508386358914,
+          25.585395206744
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3660030345080",
+        "NAME": "Dr. Edward Whigham PLC",
+        "EDIT_DATE": "2014/05/27",
+        "EARLYHS": "Y",
+        "LON": -80.32508,
+        "ZIPCODE": 33189,
+        "PHONE": "305-252-5050",
+        "POINT_X": 878618.598094922,
+        "POINT_Y": 455570.25975389,
+        "ADDRESS": "8035 SW 196th ST",
+        "LAT": 25.5854,
+        "TYPE": "EHS",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.21385900925611,
+          25.752280741905665
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0141390073300",
+        "NAME": "United Way CFE",
+        "EDIT_DATE": "2014/05/27",
+        "EARLYHS": "Y",
+        "LON": -80.21386,
+        "ZIPCODE": 33129,
+        "PHONE": "305-631-7600",
+        "POINT_X": 914919.062000729,
+        "POINT_Y": 516428.437090568,
+        "ADDRESS": "3250 SW 3rd AVE",
+        "LAT": 25.75228,
+        "TYPE": "EHS",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.24286926124645,
+          25.81418800938908
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3031210510010",
+        "NAME": "Mary McLeod Bethune",
+        "EDIT_DATE": "2014/05/27",
+        "EARLYHS": "Y",
+        "LON": -80.24287,
+        "ZIPCODE": 33142,
+        "PHONE": "305-638-6052",
+        "POINT_X": 905240.860135716,
+        "POINT_Y": 538873.657207474,
+        "ADDRESS": "2900 NW 43rd TER",
+        "LAT": 25.81419,
+        "TYPE": "EHS",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2428242045553,
+          25.900503744022938
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Opa Locka",
+        "FOLIO": "0821220110860",
+        "NAME": "Dr. Simpson -Portables",
+        "EDIT_DATE": "2014/05/29",
+        "EARLYHS": "N",
+        "LON": -80.24282,
+        "ZIPCODE": 33054,
+        "PHONE": "305-573-1443",
+        "POINT_X": 905074.851559561,
+        "POINT_Y": 570246.767764695,
+        "ADDRESS": "13850 NW 26th AVE",
+        "LAT": 25.9005,
+        "TYPE": "DA",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.21385900925611,
+          25.752280741905665
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0141390073300",
+        "NAME": "United Way Home Based",
+        "EDIT_DATE": "2014/05/27",
+        "EARLYHS": "Y",
+        "LON": -80.21386,
+        "ZIPCODE": 33129,
+        "PHONE": "305-631-7600",
+        "POINT_X": 914919.062000729,
+        "POINT_Y": 516428.437090568,
+        "ADDRESS": "3250 SW 3rd AVE",
+        "LAT": 25.75228,
+        "TYPE": "EHS",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.40742160584666,
+          25.743841783341768
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3049110000080",
+        "NAME": "Zora Neale Hurston",
+        "EDIT_DATE": "2014/05/29",
+        "EARLYHS": "N",
+        "LON": -80.40742,
+        "ZIPCODE": 33175,
+        "PHONE": "305-222-8152",
+        "POINT_X": 851221.513397407,
+        "POINT_Y": 513028.186463401,
+        "ADDRESS": "13137 SW 26th ST",
+        "LAT": 25.74384,
+        "TYPE": "DA",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18790603073413,
+          25.908804676422683
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0622190001490",
+        "NAME": "Early Steps Learning Center",
+        "EDIT_DATE": "2014/05/27",
+        "EARLYHS": "Y",
+        "LON": -80.18791,
+        "ZIPCODE": 33161,
+        "PHONE": "786-955-6381",
+        "POINT_X": 923110.275832359,
+        "POINT_Y": 573371.941015601,
+        "ADDRESS": "14500 NE 6th AVE",
+        "LAT": 25.9088,
+        "TYPE": "EHS",
+        "EDITOR_NAM": "ruizj"
+      }
+    }
+  ]
+}

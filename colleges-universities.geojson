@@ -1,0 +1,5341 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.28014734328963,
+          25.72180104662805
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "CORAL GABLES",
+        "FOLIO": "0341300150030",
+        "CAPACITY": 0,
+        "NAME": "UM College of Engineering",
+        "EDIT_DATE": "2011/07/13",
+        "LON": -80.28015,
+        "ZIPCODE": 33146,
+        "PHONE": "305-284-2404",
+        "POINT_X": 893160.4451484641,
+        "POINT_Y": 505225.679704137,
+        "ADDRESS": "1251 MEMORIAL DR",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.7218,
+        "TYPE": "U",
+        "CAMPUS": null,
+        "UNIT": "Suite 244",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16362624285803,
+          25.926281399205998
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "NORTH MIAMI BEACH",
+        "FOLIO": "0722160010700",
+        "CAPACITY": 0,
+        "NAME": "Beauty Schools of America",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.16363,
+        "ZIPCODE": 33162,
+        "PHONE": "305-947-0832",
+        "POINT_X": 931051.1063037519,
+        "POINT_Y": 579774.47337357,
+        "ADDRESS": "1813 NE 163RD ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.92628,
+        "TYPE": "T",
+        "CAMPUS": "North Miami Beach Campus",
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.45970851020711,
+          25.68551719974964
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "KENDALL",
+        "FOLIO": "3049320344090",
+        "CAPACITY": 0,
+        "NAME": "CBT College - West Kendall Campus",
+        "EDIT_DATE": "2011/07/07",
+        "LON": -80.45971,
+        "ZIPCODE": 33193,
+        "PHONE": "305-273-4499",
+        "POINT_X": 834097.002149459,
+        "POINT_Y": 491756.125515595,
+        "ADDRESS": "8765 SW 165TH AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.68552,
+        "TYPE": "C",
+        "CAMPUS": "West Kendall Campus",
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.27537597215272,
+          25.721713426840957
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "CORAL GABLES",
+        "FOLIO": "0341300150030",
+        "CAPACITY": 0,
+        "NAME": "UM School of Education",
+        "EDIT_DATE": "2011/07/13",
+        "LON": -80.27538,
+        "ZIPCODE": 33146,
+        "PHONE": "305-284-3711",
+        "POINT_X": 894731.528925929,
+        "POINT_Y": 505202.427992113,
+        "ADDRESS": "5202 UNIVERSITY DR",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.72171,
+        "TYPE": "U",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.30209053772535,
+          25.86740610914948
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "HIALEAH",
+        "FOLIO": "0430010010136",
+        "CAPACITY": 0,
+        "NAME": "CBT College - Hialeah Campus",
+        "EDIT_DATE": "2011/07/07",
+        "LON": -80.30209,
+        "ZIPCODE": 33012,
+        "PHONE": "305-273-4499",
+        "POINT_X": 885655.4370134741,
+        "POINT_Y": 558108.812169388,
+        "ADDRESS": "935 W 49TH ST",
+        "CAP_DESC": null,
+        "LAT": 25.86741,
+        "TYPE": "C",
+        "CAMPUS": "Hialeah Campus",
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.27734540371529,
+          25.924328867228617
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3421180330001",
+        "CAPACITY": 0,
+        "NAME": "Sullivan &amp; Cogliano Training Center, Inc",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.27735,
+        "ZIPCODE": 33014,
+        "PHONE": "305-624-3030",
+        "POINT_X": 893678.500316948,
+        "POINT_Y": 578842.444700696,
+        "ADDRESS": "4760 NW 167TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.92433,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.20332502199082,
+          25.93534257372395
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI GARDENS",
+        "FOLIO": "3421120160030",
+        "CAPACITY": 0,
+        "NAME": "Hebron Technical Institute of Health",
+        "EDIT_DATE": "2011/07/07",
+        "LON": -80.20333,
+        "ZIPCODE": 33169,
+        "PHONE": "305-493-1761",
+        "POINT_X": 917983.055347581,
+        "POINT_Y": 582986.66947256,
+        "ADDRESS": "160 NW 176TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.93534,
+        "TYPE": "C",
+        "CAMPUS": null,
+        "UNIT": "Suite 407",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3286837786752,
+          25.8093333944372
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "DORAL",
+        "FOLIO": "3530270010113",
+        "CAPACITY": 0,
+        "NAME": "Polytechnic University of Puerto Rico",
+        "EDIT_DATE": "2013/06/18",
+        "LON": -80.32868,
+        "ZIPCODE": 33166,
+        "PHONE": "305-418-8000",
+        "POINT_X": 877018.499789432,
+        "POINT_Y": 536955.937653691,
+        "ADDRESS": "8180 NW 36TH ST",
+        "CAP_DESC": null,
+        "LAT": 25.80933,
+        "TYPE": "C",
+        "CAMPUS": null,
+        "UNIT": "Suite 401",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.28693676401481,
+          25.806791795465006
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3031300000010",
+        "CAPACITY": 15,
+        "NAME": "Embry Riddle Aeronautical University",
+        "EDIT_DATE": "2013/06/20",
+        "LON": -80.28694,
+        "ZIPCODE": 33166,
+        "PHONE": "305-871-3855",
+        "POINT_X": 890758.006746225,
+        "POINT_Y": 536104.403316893,
+        "ADDRESS": "5600 NW 36TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.80679,
+        "TYPE": "U",
+        "CAMPUS": "Main Campus",
+        "UNIT": "Suite 590",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2103986390041,
+          25.794920260156868
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0131350400010",
+        "CAPACITY": 2899,
+        "NAME": "Miami Dade College Medical Center",
+        "EDIT_DATE": "2013/06/18",
+        "LON": -80.2104,
+        "ZIPCODE": 33127,
+        "PHONE": "305-237-4000",
+        "POINT_X": 915965.187825702,
+        "POINT_Y": 531933.250417009,
+        "ADDRESS": "950 NW 20TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.79492,
+        "TYPE": "C",
+        "CAMPUS": "Medical Center Campus",
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3896227867279,
+          25.746175041339185
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3049120680010",
+        "CAPACITY": 0,
+        "NAME": "Florida National College (26th St)",
+        "EDIT_DATE": "2013/06/19",
+        "LON": -80.38962,
+        "ZIPCODE": 33175,
+        "PHONE": "305-226-9999",
+        "POINT_X": 857076.437690858,
+        "POINT_Y": 513902.93795222,
+        "ADDRESS": "11865  SW 26TH ST",
+        "CAP_DESC": null,
+        "LAT": 25.74618,
+        "TYPE": "C",
+        "CAMPUS": "South Campus",
+        "UNIT": "Suite H-3",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37620737964171,
+          25.75737435472643
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3040070000050",
+        "CAPACITY": 38000,
+        "NAME": "Florida International University MMC",
+        "EDIT_DATE": "2013/06/18",
+        "LON": -80.37621,
+        "ZIPCODE": 33174,
+        "PHONE": "305-348-2000",
+        "POINT_X": 861473.0625909531,
+        "POINT_Y": 517994.062692031,
+        "ADDRESS": "11200 SW 8TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.75737,
+        "TYPE": "U",
+        "CAMPUS": "Modesto A. Maidique Campus",
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.25576885653919,
+          25.922723253577026
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI GARDENS",
+        "FOLIO": "3421160000090",
+        "CAPACITY": 3872,
+        "NAME": "St. Thomas University",
+        "EDIT_DATE": "2013/06/19",
+        "LON": -80.25577,
+        "ZIPCODE": 33054,
+        "PHONE": "305-625-6546",
+        "POINT_X": 900773.531619556,
+        "POINT_Y": 578298.541212194,
+        "ADDRESS": "16401 NW 37TH AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.92272,
+        "TYPE": "U",
+        "CAMPUS": "Main Campus",
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.30447480001514,
+          25.759908729279985
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3040110370010",
+        "CAPACITY": 0,
+        "NAME": "Beauty Schools of America",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.30447,
+        "ZIPCODE": 33144,
+        "PHONE": "305-267-6604",
+        "POINT_X": 885077.9522129371,
+        "POINT_Y": 519033.33668,
+        "ADDRESS": "1176 SW 67TH AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.75991,
+        "TYPE": "T",
+        "CAMPUS": "Miami Campus",
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2820370313542,
+          25.782635352335507
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3031310250020",
+        "CAPACITY": 0,
+        "NAME": "The SEC Institute",
+        "EDIT_DATE": "2011/07/11",
+        "LON": -80.28204,
+        "ZIPCODE": 33126,
+        "PHONE": "305-529-1550",
+        "POINT_X": 892417.904603772,
+        "POINT_Y": 527333.1912767291,
+        "ADDRESS": "5301 BLUE LAGOON DR",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.78264,
+        "TYPE": "C",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.41321851281845,
+          25.714205243905983
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3049260750001",
+        "CAPACITY": 0,
+        "NAME": "Academy of Real Estate &amp; Mortgage",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.41322,
+        "ZIPCODE": 33183,
+        "PHONE": "305-408-8048",
+        "POINT_X": 849361.235123671,
+        "POINT_Y": 502248.138837367,
+        "ADDRESS": "5600 SW 135TH AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.71421,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": "204",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.23934912887323,
+          25.789631135550085
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0131340320080",
+        "CAPACITY": 0,
+        "NAME": "Center of Cinematography Arts &amp; Television",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.23935,
+        "ZIPCODE": 33125,
+        "PHONE": "305-634-0550",
+        "POINT_X": 906450.50391284,
+        "POINT_Y": 529954.75646317,
+        "ADDRESS": "1637 NW 27TH AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.78963,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.32306325614235,
+          25.88483713062067
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "HIALEAH",
+        "FOLIO": "0420260480010",
+        "CAPACITY": 0,
+        "NAME": "American Advanced Technicians Institute (AATI )",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.32306,
+        "ZIPCODE": 33169,
+        "PHONE": "305-362-5519",
+        "POINT_X": 878726.24942302,
+        "POINT_Y": 564408.2794392561,
+        "ADDRESS": "6801 W 20TH AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.88484,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19124954423954,
+          25.761852426761987
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0102100505010",
+        "CAPACITY": 0,
+        "NAME": "Strayer University - Brickell Campus",
+        "EDIT_DATE": "2011/07/14",
+        "LON": -80.19125,
+        "ZIPCODE": 33131,
+        "PHONE": "305-507-5800",
+        "POINT_X": 922339.76165564,
+        "POINT_Y": 519952.42582985,
+        "ADDRESS": "1201 BRICKELL AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.76185,
+        "TYPE": "U",
+        "CAMPUS": "Brickell Campus",
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.22769553067465,
+          25.92785893319761
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3421110180010",
+        "CAPACITY": 0,
+        "NAME": "ATI Career Training Center College of Health",
+        "EDIT_DATE": "2013/06/18",
+        "LON": -80.2277,
+        "ZIPCODE": 33169,
+        "PHONE": "305-623-3255",
+        "POINT_X": 909989.747436136,
+        "POINT_Y": 580218.605725981,
+        "ADDRESS": "1525 NW 167TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.92786,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": "Suite 300",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.31462447589448,
+          25.797808282460732
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3030260130122",
+        "CAPACITY": 0,
+        "NAME": "ATI Career Training Center",
+        "EDIT_DATE": "2013/06/19",
+        "LON": -80.31462,
+        "ZIPCODE": 33122,
+        "PHONE": "305-591-3060",
+        "POINT_X": 881665.724881761,
+        "POINT_Y": 532790.84094581,
+        "ADDRESS": "7265 NW 25TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.79781,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.28607801270256,
+          25.714809646666374
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3040250000060",
+        "CAPACITY": 0,
+        "NAME": "Montessori Teacher Training Institute",
+        "EDIT_DATE": "2011/07/08",
+        "LON": -80.28608,
+        "ZIPCODE": 33143,
+        "PHONE": "305-665-6033",
+        "POINT_X": 891221.5950986589,
+        "POINT_Y": 502673.98766975896,
+        "ADDRESS": "6050 SW 57TH AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.71481,
+        "TYPE": "C",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.30485268731329,
+          25.86577586846787
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "HIALEAH",
+        "FOLIO": "0430010010160",
+        "CAPACITY": 0,
+        "NAME": "Beauty Schools of America",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.30485,
+        "ZIPCODE": 33012,
+        "PHONE": "305-362-9003",
+        "POINT_X": 884750.2870606331,
+        "POINT_Y": 557511.458184831,
+        "ADDRESS": "1060 W 49TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.86578,
+        "TYPE": "T",
+        "CAMPUS": "Hialeah - Main Campus",
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19273573120066,
+          25.852196753084367
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0132070260071",
+        "CAPACITY": 0,
+        "NAME": "Traveling Angels Security Academy",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.19274,
+        "ZIPCODE": 33138,
+        "PHONE": "305-218-1878",
+        "POINT_X": 921649.1847589951,
+        "POINT_Y": 552786.73933243,
+        "ADDRESS": "8365 NE 2ND AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.8522,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36408035945857,
+          25.68636577117008
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3050050041630",
+        "CAPACITY": 0,
+        "NAME": "Acupuncture and Massage College",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.36408,
+        "ZIPCODE": 33176,
+        "PHONE": "305-595-9500",
+        "POINT_X": 865588.805826787,
+        "POINT_Y": 492204.65774001204,
+        "ADDRESS": "10506 N KENDALL DR",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.68637,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.38429264546137,
+          25.7948954427437
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "2530310230010",
+        "CAPACITY": 850,
+        "NAME": "Keiser University",
+        "EDIT_DATE": "2013/06/21",
+        "LON": -80.38429,
+        "ZIPCODE": 33172,
+        "PHONE": "305-596-7077",
+        "POINT_X": 858748.196540415,
+        "POINT_Y": 531618.873712719,
+        "ADDRESS": "2101 NW 117TH AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.7949,
+        "TYPE": "U",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.29775072573182,
+          25.933064952065088
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI LAKES",
+        "FOLIO": "3020120340010",
+        "CAPACITY": 415,
+        "NAME": "Southeastern College",
+        "EDIT_DATE": "2013/06/18",
+        "LON": -80.29775,
+        "ZIPCODE": 33015,
+        "PHONE": "305-820-5003",
+        "POINT_X": 886954.739414684,
+        "POINT_Y": 581981.279135622,
+        "ADDRESS": "17395 NW 59TH AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.93306,
+        "TYPE": "C",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.39151981486182,
+          25.68916744831923
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3049360230015",
+        "CAPACITY": 450,
+        "NAME": "Nova Southeastern University - NSU",
+        "EDIT_DATE": "2013/06/19",
+        "LON": -80.39152,
+        "ZIPCODE": 33183,
+        "PHONE": "305-275-2601",
+        "POINT_X": 856547.491514366,
+        "POINT_Y": 493180.398412921,
+        "ADDRESS": "8585 SW 124TH AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.68917,
+        "TYPE": "U",
+        "CAMPUS": "Kendall",
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.31643146460112,
+          25.68354464400384
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3050020420010",
+        "CAPACITY": 0,
+        "NAME": "City College",
+        "EDIT_DATE": "2013/06/18",
+        "LON": -80.31643,
+        "ZIPCODE": 33156,
+        "PHONE": "305-424-4802",
+        "POINT_X": 881286.375121407,
+        "POINT_Y": 491257.625419125,
+        "ADDRESS": "9300 S DADELAND  BLVD",
+        "CAP_DESC": null,
+        "LAT": 25.68354,
+        "TYPE": "C",
+        "CAMPUS": null,
+        "UNIT": "Suite 200",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.33743419654749,
+          25.768589139203254
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3040040710010",
+        "CAPACITY": 0,
+        "NAME": "DeVry University",
+        "EDIT_DATE": "2013/06/18",
+        "LON": -80.33743,
+        "ZIPCODE": 33174,
+        "PHONE": "305-229-4833",
+        "POINT_X": 874214.184394818,
+        "POINT_Y": 522132.43248788296,
+        "ADDRESS": "8700 W FLAGLER ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.76859,
+        "TYPE": "U",
+        "CAMPUS": null,
+        "UNIT": "Suite 100",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36550762581587,
+          25.68551423769054
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3050050041622",
+        "CAPACITY": 55,
+        "NAME": "CBT College - East Kendall Campus",
+        "EDIT_DATE": "2013/06/19",
+        "LON": -80.36551,
+        "ZIPCODE": 33176,
+        "PHONE": "305-273-4499",
+        "POINT_X": 865120.249538351,
+        "POINT_Y": 491892.905803718,
+        "ADDRESS": "8991 SW 107TH AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.68551,
+        "TYPE": "C",
+        "CAMPUS": "Kendall Campus",
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.32167032665822,
+          25.86092539076259
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "HIALEAH",
+        "FOLIO": "0430021650010",
+        "CAPACITY": 2400,
+        "NAME": "Florida National College (20th Ave)",
+        "EDIT_DATE": "2013/06/18",
+        "LON": -80.32167,
+        "ZIPCODE": 33012,
+        "PHONE": "305-821-3333",
+        "POINT_X": 879229.12532749,
+        "POINT_Y": 555719.562119164,
+        "ADDRESS": "4425 W 20TH AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.86093,
+        "TYPE": "C",
+        "CAMPUS": "Online Learning",
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.30272848227419,
+          25.77035468929624
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0140010051530",
+        "CAPACITY": 0,
+        "NAME": "Active Health Review Training",
+        "EDIT_DATE": "2013/06/21",
+        "LON": -80.30273,
+        "ZIPCODE": 33144,
+        "PHONE": "305-648-3293",
+        "POINT_X": 885632.632789452,
+        "POINT_Y": 522833.068392538,
+        "ADDRESS": "6520 W FLAGLER ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.77035,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.42741616790943,
+          25.65626952481324
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3059100440010",
+        "CAPACITY": 0,
+        "NAME": "G-Force Protective Service",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.42742,
+        "ZIPCODE": 33186,
+        "PHONE": "786-214-6562",
+        "POINT_X": 844777.845935404,
+        "POINT_Y": 481170.810177736,
+        "ADDRESS": "14331 SW 120TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.65627,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.274861440087,
+          25.82989994192678
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "HIALEAH",
+        "FOLIO": "0431180060910",
+        "CAPACITY": 0,
+        "NAME": "La Esperanza Training Center",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.27486,
+        "ZIPCODE": 33010,
+        "PHONE": "786-347-7711",
+        "POINT_X": 894684.512989882,
+        "POINT_Y": 544525.105276741,
+        "ADDRESS": "330 E 9TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.8299,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.12160876651082,
+          25.855861558837844
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0232110020930",
+        "CAPACITY": 0,
+        "NAME": "National Self Defense Institute (NSDI)",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.12161,
+        "ZIPCODE": 33141,
+        "PHONE": "305-868-6734",
+        "POINT_X": 945032.682252776,
+        "POINT_Y": 554268.862597816,
+        "ADDRESS": "300 71ST ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.85586,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.35771573165864,
+          25.589759142534444
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "CUTLER BAY",
+        "FOLIO": "3660050190010",
+        "CAPACITY": 0,
+        "NAME": "CBT College - Cutler Bay Campus",
+        "EDIT_DATE": "2011/07/07",
+        "LON": -80.35772,
+        "ZIPCODE": 33157,
+        "PHONE": "305-273-4499",
+        "POINT_X": 867855.1840688961,
+        "POINT_Y": 457102.93482732,
+        "ADDRESS": "19151 S DIXIE HWY",
+        "CAP_DESC": null,
+        "LAT": 25.58976,
+        "TYPE": "C",
+        "CAMPUS": "Cutler Bay Campus",
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.20443696882751,
+          25.944023854622465
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI GARDENS",
+        "FOLIO": "3421010440010",
+        "CAPACITY": 0,
+        "NAME": "Nursing Unlimited, inc",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.20444,
+        "ZIPCODE": 33169,
+        "PHONE": "305-651-1431",
+        "POINT_X": 917598.448115222,
+        "POINT_Y": 586139.871139497,
+        "ADDRESS": "18405 NW 2ND AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.94402,
+        "TYPE": "T",
+        "CAMPUS": "Headquarters",
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.13230754484331,
+          25.790425929204726
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI BEACH",
+        "FOLIO": "0232340060020",
+        "CAPACITY": 0,
+        "NAME": "Florida International University Miami Beach",
+        "EDIT_DATE": "2011/09/23",
+        "LON": -80.13231,
+        "ZIPCODE": 33139,
+        "PHONE": "305-348-7500",
+        "POINT_X": 941671.042313643,
+        "POINT_Y": 530461.411951639,
+        "ADDRESS": "420 LINCOLN RD",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.79043,
+        "TYPE": "U",
+        "CAMPUS": "Miami Beach Urban Studios",
+        "UNIT": "Suite 440",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.44624906417224,
+          25.475871038940358
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "HOMESTEAD",
+        "FOLIO": "1079170230001",
+        "CAPACITY": 0,
+        "NAME": "Beauty Schools of America",
+        "EDIT_DATE": "2013/06/18",
+        "LON": -80.44625,
+        "ZIPCODE": 33030,
+        "PHONE": "305-231-2302",
+        "POINT_X": 838847.56804188,
+        "POINT_Y": 415579.550724648,
+        "ADDRESS": "600 NE 22ND TER",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.47587,
+        "TYPE": "T",
+        "CAMPUS": "Homestead Campus",
+        "UNIT": "Suite 108",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.21153214883232,
+          25.915668622321302
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3021130030010",
+        "CAPACITY": 0,
+        "NAME": "Greencross School of Nursing",
+        "EDIT_DATE": "2013/06/18",
+        "LON": -80.21153,
+        "ZIPCODE": 33169,
+        "PHONE": "305-687-7718",
+        "POINT_X": 915328.8148331081,
+        "POINT_Y": 575819.3954818851,
+        "ADDRESS": "15383 NW 7TH AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.91567,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.33960716877513,
+          25.791813409884977
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "DORAL",
+        "FOLIO": "3530330290010",
+        "CAPACITY": 0,
+        "NAME": "Miami Anatomical Research Center",
+        "EDIT_DATE": "2013/06/18",
+        "LON": -80.33961,
+        "ZIPCODE": 33172,
+        "PHONE": "305-716-0966",
+        "POINT_X": 873456.732618112,
+        "POINT_Y": 530569.928559743,
+        "ADDRESS": "8850 NW 20TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.79181,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.29629466764197,
+          25.922655962985253
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI LAKES",
+        "FOLIO": "3220130150030",
+        "CAPACITY": 0,
+        "NAME": "Dade Medical College - Miami Lakes",
+        "EDIT_DATE": "2013/06/18",
+        "LON": -80.29629,
+        "ZIPCODE": 33014,
+        "PHONE": "786-363-3340",
+        "POINT_X": 887453.5933031479,
+        "POINT_Y": 578200.502172098,
+        "ADDRESS": "5875 NW 163RD ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.92266,
+        "TYPE": "C",
+        "CAMPUS": "Miami Lakes Campus",
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.25876570855479,
+          25.780971734866355
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0131320190010",
+        "CAPACITY": 0,
+        "NAME": "Dade Medical College - Miami Campus",
+        "EDIT_DATE": "2013/06/18",
+        "LON": -80.25877,
+        "ZIPCODE": 33126,
+        "PHONE": "786-363-4910",
+        "POINT_X": 900079.178210907,
+        "POINT_Y": 526770.9438522011,
+        "ADDRESS": "3721 NW 7TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.78097,
+        "TYPE": "C",
+        "CAMPUS": "Miami Campus",
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4217887470795,
+          25.64691271492494
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3059150000010",
+        "CAPACITY": 0,
+        "NAME": "Dean International Flight School",
+        "EDIT_DATE": "2013/06/18",
+        "LON": -80.42179,
+        "ZIPCODE": 33186,
+        "PHONE": "305-259-5611",
+        "POINT_X": 846646.4352491461,
+        "POINT_Y": 477778.140222572,
+        "ADDRESS": "14150 SW 129TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.64691,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.20353990578558,
+          25.942942871075484
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3421010000110",
+        "CAPACITY": 0,
+        "NAME": "Everest Institute - Miami",
+        "EDIT_DATE": "2013/06/18",
+        "LON": -80.20354,
+        "ZIPCODE": 33169,
+        "PHONE": "305-949-9500",
+        "POINT_X": 917895.635443501,
+        "POINT_Y": 585748.753059126,
+        "ADDRESS": "111 NW 183RD ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.94294,
+        "TYPE": "C",
+        "CAMPUS": "Miami Campus",
+        "UNIT": "2nd Floor",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.21206002625632,
+          25.82509760937344
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0131140520010",
+        "CAPACITY": 0,
+        "NAME": "Exceptional Development Corp of South Florida",
+        "EDIT_DATE": "2013/06/18",
+        "LON": -80.21206,
+        "ZIPCODE": 33127,
+        "PHONE": "305-758-9910",
+        "POINT_X": 915352.850161131,
+        "POINT_Y": 542898.461819224,
+        "ADDRESS": "991 NW 54TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.8251,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.32624342791323,
+          25.808579952493602
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "DORAL",
+        "FOLIO": "3530270310010",
+        "CAPACITY": 0,
+        "NAME": "Florida Medical Training Institute",
+        "EDIT_DATE": "2013/06/18",
+        "LON": -80.32624,
+        "ZIPCODE": 33166,
+        "PHONE": "305-715-0377",
+        "POINT_X": 877822.759630181,
+        "POINT_Y": 536686.193525434,
+        "ADDRESS": "7902 NW 36TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.80858,
+        "TYPE": "C",
+        "CAMPUS": null,
+        "UNIT": "Suite 215",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.25146135628256,
+          25.764592436239163
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0141090560010",
+        "CAPACITY": 0,
+        "NAME": "Future Tech Institute Inc",
+        "EDIT_DATE": "2013/06/18",
+        "LON": -80.25146,
+        "ZIPCODE": 33135,
+        "PHONE": "305-774-0227",
+        "POINT_X": 902516.672229178,
+        "POINT_Y": 520831.257190675,
+        "ADDRESS": "3446 SW 8TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.76459,
+        "TYPE": "C",
+        "CAMPUS": null,
+        "UNIT": "Suite 211",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.20455033353011,
+          25.943592224561588
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3421010440010",
+        "CAPACITY": 0,
+        "NAME": "Health Opportunity Technical Center Inc",
+        "EDIT_DATE": "2013/06/18",
+        "LON": -80.20455,
+        "ZIPCODE": 33169,
+        "PHONE": "305-249-2275",
+        "POINT_X": 917562.146547191,
+        "POINT_Y": 585982.758307345,
+        "ADDRESS": "18441 NW 2ND AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.94359,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": "Suite 300",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19103722682163,
+          25.763163732231796
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0102100301110",
+        "CAPACITY": 0,
+        "NAME": "Inlingua Language Center Brickell Avenue",
+        "EDIT_DATE": "2013/06/18",
+        "LON": -80.19104,
+        "ZIPCODE": 33131,
+        "PHONE": "786-347-1428",
+        "POINT_X": 922406.716663703,
+        "POINT_Y": 520429.47005429905,
+        "ADDRESS": "1101 BRICKELL AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.76316,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": "Suite 400",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.27568462773709,
+          25.722567581128192
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "CORAL GABLES",
+        "FOLIO": "0341300150030",
+        "CAPACITY": 0,
+        "NAME": "Intensive Language Institute",
+        "EDIT_DATE": "2013/06/18",
+        "LON": -80.27568,
+        "ZIPCODE": 33146,
+        "PHONE": "305-284-4000",
+        "POINT_X": 894628.20476583,
+        "POINT_Y": 505512.321112402,
+        "ADDRESS": "5050 BRUNSON DR",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.72257,
+        "TYPE": "C",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2642822733489,
+          25.77731907670926
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0141050310210",
+        "CAPACITY": 0,
+        "NAME": "Management Resources Institute",
+        "EDIT_DATE": "2013/06/21",
+        "LON": -80.26428,
+        "ZIPCODE": 33126,
+        "PHONE": "305-442-9223",
+        "POINT_X": 898271.234529224,
+        "POINT_Y": 525433.159786955,
+        "ADDRESS": "550 NW 42ND AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.77732,
+        "TYPE": "C",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3187908555522,
+          25.86499442743607
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "HIALEAH",
+        "FOLIO": "0430020690010",
+        "CAPACITY": 5077,
+        "NAME": "Miami Dade College Hialeah",
+        "EDIT_DATE": "2009/11/24",
+        "LON": -80.31879,
+        "ZIPCODE": 33012,
+        "PHONE": "305-237-8700",
+        "POINT_X": 880168.369872365,
+        "POINT_Y": 557203.413896546,
+        "ADDRESS": "1780 W 49TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.86499,
+        "TYPE": "C",
+        "CAMPUS": "Hialeah Campus",
+        "UNIT": null,
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19320583221116,
+          25.77637960780703
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0101090801090",
+        "CAPACITY": 0,
+        "NAME": "New World School of the Arts",
+        "EDIT_DATE": "2009/07/31",
+        "LON": -80.19321,
+        "ZIPCODE": 33132,
+        "PHONE": "305-237-3135",
+        "POINT_X": 921663.56248701,
+        "POINT_Y": 525228.62474677,
+        "ADDRESS": "25 NE 2ND ST",
+        "CAP_DESC": null,
+        "LAT": 25.77638,
+        "TYPE": "C",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16514768491953,
+          25.929105513001357
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "NORTH MIAMI BEACH",
+        "FOLIO": "0722170030100",
+        "CAPACITY": 130,
+        "NAME": "Nova Southeastern University",
+        "EDIT_DATE": "2009/07/31",
+        "LON": -80.16515,
+        "ZIPCODE": 33162,
+        "PHONE": "800-986-3223",
+        "POINT_X": 930544.503551282,
+        "POINT_Y": 580797.781918518,
+        "ADDRESS": "1750 NE 167TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.92911,
+        "TYPE": "U",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.27811842440157,
+          25.719852026893843
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "CORAL GABLES",
+        "FOLIO": "0341300021040",
+        "CAPACITY": 13000,
+        "NAME": "University of Miami Coral Gables",
+        "EDIT_DATE": "2009/11/24",
+        "LON": -80.27812,
+        "ZIPCODE": 33146,
+        "PHONE": "305-284-2211",
+        "POINT_X": 893832.31254109,
+        "POINT_Y": 504520.937303484,
+        "ADDRESS": "1306 STANFORD DR",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.71985,
+        "TYPE": "U",
+        "CAMPUS": "Coral Gables",
+        "UNIT": null,
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16503126615753,
+          25.894095139205746
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "NORTH MIAMI",
+        "FOLIO": "0622290080559",
+        "CAPACITY": 2000,
+        "NAME": "Johnson &amp; Wales University",
+        "EDIT_DATE": "2009/07/31",
+        "LON": -80.16503,
+        "ZIPCODE": 33181,
+        "PHONE": "305-892-7000",
+        "POINT_X": 930663.809791394,
+        "POINT_Y": 568072.62504267,
+        "ADDRESS": "1701 NE 127TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.8941,
+        "TYPE": "U",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.33624247826953,
+          25.742941619056086
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3040160030010",
+        "CAPACITY": 70,
+        "NAME": "St. John Vianney College Seminary",
+        "EDIT_DATE": "2009/07/31",
+        "LON": -80.33624,
+        "ZIPCODE": 33165,
+        "PHONE": "305-223-4561",
+        "POINT_X": 874653.3127152291,
+        "POINT_Y": 512812.594015203,
+        "ADDRESS": "2900 SW 87TH AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.74294,
+        "TYPE": "C",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2592953563233,
+          25.91667191682284
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI GARDENS",
+        "FOLIO": "3421160000040",
+        "CAPACITY": 0,
+        "NAME": "Manrian Center School and Services",
+        "EDIT_DATE": "2013/06/21",
+        "LON": -80.2593,
+        "ZIPCODE": 33054,
+        "PHONE": "305-200-8927",
+        "POINT_X": 899626.864354488,
+        "POINT_Y": 576092.492698141,
+        "ADDRESS": "15701 NW 37TH AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.91667,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.21406372546605,
+          25.78897876512276
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0131350380010",
+        "CAPACITY": 750,
+        "NAME": "University of Miami Medical",
+        "EDIT_DATE": "2009/11/24",
+        "LON": -80.21406,
+        "ZIPCODE": 33136,
+        "PHONE": "305-243-1000",
+        "POINT_X": 914772.12542459,
+        "POINT_Y": 529766.500206992,
+        "ADDRESS": "1475 NW 12TH AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.78898,
+        "TYPE": "U",
+        "CAMPUS": "Medical Campus",
+        "UNIT": null,
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36725694265364,
+          25.755989459147166
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3040080430010",
+        "CAPACITY": 275,
+        "NAME": "Florida Career College Miami",
+        "EDIT_DATE": "2009/11/24",
+        "LON": -80.36726,
+        "ZIPCODE": 33174,
+        "PHONE": "305-553-6065",
+        "POINT_X": 864421.374657698,
+        "POINT_Y": 517504.750435576,
+        "ADDRESS": "1321 SW 107TH AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.75599,
+        "TYPE": "C",
+        "CAMPUS": "Miami",
+        "UNIT": null,
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18918979907455,
+          25.764963391523775
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0142070010001",
+        "CAPACITY": 0,
+        "NAME": "Open Hearts Language Academy",
+        "EDIT_DATE": "2013/06/19",
+        "LON": -80.18919,
+        "ZIPCODE": 33131,
+        "PHONE": "305-379-4027",
+        "POINT_X": 923010.730488263,
+        "POINT_Y": 521087.321958907,
+        "ADDRESS": "825 BRICKELL BAY DR",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.76496,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19122443528993,
+          25.77763815376314
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0101080401010",
+        "CAPACITY": 18941,
+        "NAME": "Miami Dade College Wolfson",
+        "EDIT_DATE": "2009/11/24",
+        "LON": -80.19122,
+        "ZIPCODE": 33132,
+        "PHONE": "305-237-3000",
+        "POINT_X": 922312.812279616,
+        "POINT_Y": 525690.0626991991,
+        "ADDRESS": "300 NE 2ND AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.77764,
+        "TYPE": "C",
+        "CAMPUS": "Wolfson Campus",
+        "UNIT": null,
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.29495536019316,
+          25.902159404563307
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "HIALEAH",
+        "FOLIO": "3220240090020",
+        "CAPACITY": 0,
+        "NAME": "Plumbers Joint Apprentice",
+        "EDIT_DATE": "2013/06/19",
+        "LON": -80.29496,
+        "ZIPCODE": 33014,
+        "PHONE": "305-352-0519",
+        "POINT_X": 887933.8603115979,
+        "POINT_Y": 570753.019029163,
+        "ADDRESS": "14105 NW 58TH CT",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.90216,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.13986298823502,
+          25.91246767446447
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "NORTH MIAMI",
+        "FOLIO": "0622220000020",
+        "CAPACITY": 7000,
+        "NAME": "Florida International University Biscayne Bay",
+        "EDIT_DATE": "2009/11/24",
+        "LON": -80.13986,
+        "ZIPCODE": 33181,
+        "PHONE": "305-919-5500",
+        "POINT_X": 938894.499591056,
+        "POINT_Y": 574804.06210494,
+        "ADDRESS": "3000 NE 151ST ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.91247,
+        "TYPE": "U",
+        "CAMPUS": "Biscayne Bay Campus",
+        "UNIT": null,
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.30885546096168,
+          25.865359660687478
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "HIALEAH",
+        "FOLIO": "0430020100010",
+        "CAPACITY": 0,
+        "NAME": "South Florida Institute of Technology",
+        "EDIT_DATE": "2013/06/19",
+        "LON": -80.30886,
+        "ZIPCODE": 33012,
+        "PHONE": "305-820-8993",
+        "POINT_X": 883434.820819408,
+        "POINT_Y": 557353.233800687,
+        "ADDRESS": "1275 W 47TH PL",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.86536,
+        "TYPE": "C",
+        "CAMPUS": "Satelitte Campus",
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.23959581480649,
+          25.7800742616199
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0131330230120",
+        "CAPACITY": 0,
+        "NAME": "South Florida Institute of Technology",
+        "EDIT_DATE": "2013/06/19",
+        "LON": -80.2396,
+        "ZIPCODE": 33125,
+        "PHONE": "305-649-2050",
+        "POINT_X": 906389.385960784,
+        "POINT_Y": 526480.700267933,
+        "ADDRESS": "720 NW 27TH AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.78007,
+        "TYPE": "C",
+        "CAMPUS": "Main Campus",
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.39457869699383,
+          25.64594101691796
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3059130140070",
+        "CAPACITY": 0,
+        "NAME": "Top Gun Cheerleading Training Center",
+        "EDIT_DATE": "2013/06/19",
+        "LON": -80.39458,
+        "ZIPCODE": 33186,
+        "PHONE": "305-259-5727",
+        "POINT_X": 855612.045497496,
+        "POINT_Y": 477465.052734286,
+        "ADDRESS": "13135 SW 124TH AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.64594,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": "Suite 101",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.21362753903018,
+          25.787452818148218
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0131350990010",
+        "CAPACITY": 0,
+        "NAME": "UM ALS Clinical and Research Center",
+        "EDIT_DATE": "2013/06/19",
+        "LON": -80.21363,
+        "ZIPCODE": 33136,
+        "PHONE": "305-243-7400",
+        "POINT_X": 914918.96625673,
+        "POINT_Y": 529212.7266384739,
+        "ADDRESS": "1120 NW 14TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.78745,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": "Suite 1300",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.21139649488795,
+          25.788120998936144
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0131350570010",
+        "CAPACITY": 0,
+        "NAME": "UM Center for Complem. and Integrat. Medicine",
+        "EDIT_DATE": "2013/06/19",
+        "LON": -80.2114,
+        "ZIPCODE": 33136,
+        "PHONE": "305-284-4186",
+        "POINT_X": 915651.655921411,
+        "POINT_Y": 529459.97783871,
+        "ADDRESS": "1400 NW 10TH AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.78812,
+        "TYPE": "U",
+        "CAMPUS": null,
+        "UNIT": "Suite 412",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.35652387220023,
+          25.79421637206507
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "DORAL",
+        "FOLIO": "3530320020010",
+        "CAPACITY": 1073,
+        "NAME": "Carlos Albizu University",
+        "EDIT_DATE": "2009/07/31",
+        "LON": -80.35652,
+        "ZIPCODE": 33172,
+        "PHONE": "305-593-1223",
+        "POINT_X": 867886.1872049271,
+        "POINT_Y": 531415.749488525,
+        "ADDRESS": "2173 NW 99TH AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.79422,
+        "TYPE": "U",
+        "CAMPUS": "Main Campus",
+        "UNIT": null,
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.27066184657899,
+          25.918386177275323
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI GARDENS",
+        "FOLIO": "3421170010010",
+        "CAPACITY": 1200,
+        "NAME": "Florida Memorial University",
+        "EDIT_DATE": "2009/07/31",
+        "LON": -80.27066,
+        "ZIPCODE": 33054,
+        "PHONE": "305-626-3600",
+        "POINT_X": 895887.250143003,
+        "POINT_Y": 576694.625178695,
+        "ADDRESS": "15800 NW 42ND AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.91839,
+        "TYPE": "U",
+        "CAMPUS": "Main Campus",
+        "UNIT": null,
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.21348272097157,
+          25.78713662033383
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0131350990010",
+        "CAPACITY": 0,
+        "NAME": "UM Ear Institute",
+        "EDIT_DATE": "2013/06/20",
+        "LON": -80.21348,
+        "ZIPCODE": 33136,
+        "PHONE": "305-243-2000",
+        "POINT_X": 914967.306224775,
+        "POINT_Y": 529098.083950371,
+        "ADDRESS": "1120 NW 14TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.78714,
+        "TYPE": "U",
+        "CAMPUS": null,
+        "UNIT": "5th Floor",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36684214955014,
+          25.770788038356685
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3040050010230",
+        "CAPACITY": 0,
+        "NAME": "Florida International University Engineering",
+        "EDIT_DATE": "2009/11/24",
+        "LON": -80.36684,
+        "ZIPCODE": 33174,
+        "PHONE": "305-348-2522",
+        "POINT_X": 864532.0629138021,
+        "POINT_Y": 522884.062056586,
+        "ADDRESS": "10555 W FLAGLER ST",
+        "CAP_DESC": null,
+        "LAT": 25.77079,
+        "TYPE": "U",
+        "CAMPUS": "Center For Engineering &amp; Applied Science",
+        "UNIT": null,
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.47424828223895,
+          25.474544744482476
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "HOMESTEAD",
+        "FOLIO": "1079180050021",
+        "CAPACITY": 4651,
+        "NAME": "Miami Dade College Homestead",
+        "EDIT_DATE": "2009/11/24",
+        "LON": -80.47425,
+        "ZIPCODE": 33030,
+        "PHONE": "305-237-5000",
+        "POINT_X": 829612.43715328,
+        "POINT_Y": 415060.093700163,
+        "ADDRESS": "500 COLLEGE TER",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.47454,
+        "TYPE": "C",
+        "CAMPUS": "Homestead Campus",
+        "UNIT": null,
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.23815675370304,
+          25.766398834414836
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0141030770001",
+        "CAPACITY": 8985,
+        "NAME": "Miami Dade College Interamerican",
+        "EDIT_DATE": "2009/11/24",
+        "LON": -80.23816,
+        "ZIPCODE": 33135,
+        "PHONE": "305-237-6000",
+        "POINT_X": 906891.6876572521,
+        "POINT_Y": 521512.90659930604,
+        "ADDRESS": "627 SW 27TH AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.7664,
+        "TYPE": "C",
+        "CAMPUS": "Interamerican Center",
+        "UNIT": null,
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37322917948778,
+          25.675164578032746
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3050060000811",
+        "CAPACITY": 33401,
+        "NAME": "Miami Dade College Kendall",
+        "EDIT_DATE": "2009/11/24",
+        "LON": -80.37323,
+        "ZIPCODE": 33176,
+        "PHONE": "305-237-0651",
+        "POINT_X": 862595.1249279979,
+        "POINT_Y": 488119.156552203,
+        "ADDRESS": "11011 SW 104TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.67516,
+        "TYPE": "C",
+        "CAMPUS": "Kendall Campus",
+        "UNIT": null,
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.21333797123187,
+          25.786904984527865
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0131350990010",
+        "CAPACITY": 0,
+        "NAME": "UM Epidemiology and Public Health",
+        "EDIT_DATE": "2013/06/19",
+        "LON": -80.21334,
+        "ZIPCODE": 33136,
+        "PHONE": "305-243-8331",
+        "POINT_X": 915015.44036882,
+        "POINT_Y": 529014.176622294,
+        "ADDRESS": "1120 NW 14TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.7869,
+        "TYPE": "U",
+        "CAMPUS": null,
+        "UNIT": "Suite 912",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.26759193157697,
+          25.84472921671486
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "HIALEAH",
+        "FOLIO": "0431080011430",
+        "CAPACITY": 0,
+        "NAME": "University of Florida Dental School Clinic",
+        "EDIT_DATE": "2009/11/24",
+        "LON": -80.26759,
+        "ZIPCODE": 33013,
+        "PHONE": "305-694-5400",
+        "POINT_X": 897045.7044160811,
+        "POINT_Y": 549928.294273771,
+        "ADDRESS": "750 E 25TH ST",
+        "CAP_DESC": null,
+        "LAT": 25.84473,
+        "TYPE": "U",
+        "CAMPUS": "Dental School-Clinic",
+        "UNIT": null,
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19096627610173,
+          25.76317495934128
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0102100301110",
+        "CAPACITY": 0,
+        "NAME": "Florida International University Brickell",
+        "EDIT_DATE": "2013/06/18",
+        "LON": -80.19097,
+        "ZIPCODE": 33131,
+        "PHONE": "305-779-7870",
+        "POINT_X": 922430.043383725,
+        "POINT_Y": 520433.694054298,
+        "ADDRESS": "1101 BRICKELL AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.76317,
+        "TYPE": "U",
+        "CAMPUS": "Downtown Miami Campus",
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.27592540250814,
+          25.722276781466878
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "CORAL GABLES",
+        "FOLIO": "0341300150030",
+        "CAPACITY": 0,
+        "NAME": "UM School of Communication",
+        "EDIT_DATE": "2013/06/21",
+        "LON": -80.27593,
+        "ZIPCODE": 33146,
+        "PHONE": "305-284-2265",
+        "POINT_X": 894549.5131817571,
+        "POINT_Y": 505406.192216307,
+        "ADDRESS": "5100 BRUNSON DR",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.72228,
+        "TYPE": "U",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.13240075989053,
+          25.781000424124045
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI BEACH",
+        "FOLIO": "0232340081250",
+        "CAPACITY": 0,
+        "NAME": "Florida International University Wolfsonian",
+        "EDIT_DATE": "2009/11/24",
+        "LON": -80.1324,
+        "ZIPCODE": 33139,
+        "PHONE": "305-531-1001",
+        "POINT_X": 941662.937865637,
+        "POINT_Y": 527035.313004449,
+        "ADDRESS": "1001 WASHINGTON AVE",
+        "CAP_DESC": null,
+        "LAT": 25.781,
+        "TYPE": "U",
+        "CAMPUS": "The Wolfsonian-FIU",
+        "UNIT": null,
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.33392010586371,
+          25.76106980511588
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3040100410010",
+        "CAPACITY": 0,
+        "NAME": "Florida Atlantic University",
+        "EDIT_DATE": "2010/05/27",
+        "LON": -80.33392,
+        "ZIPCODE": 33144,
+        "PHONE": "305-261-1638",
+        "POINT_X": 875384.499915909,
+        "POINT_Y": 519405.29136534,
+        "ADDRESS": "8500 SW 8TH ST",
+        "CAP_DESC": null,
+        "LAT": 25.76107,
+        "TYPE": "U",
+        "CAMPUS": "Small Business Development Center",
+        "UNIT": "Suite 224",
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18326600722352,
+          25.874022213529894
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3022310240050",
+        "CAPACITY": 1120,
+        "NAME": "Miami Country Day School",
+        "EDIT_DATE": "2013/06/18",
+        "LON": -80.18327,
+        "ZIPCODE": 33161,
+        "PHONE": "305-779-7200",
+        "POINT_X": 924714.262521852,
+        "POINT_Y": 560738.9246838391,
+        "ADDRESS": "601 NE 107TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.87402,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19497494074587,
+          25.879919416577426
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI SHORES",
+        "FOLIO": "1121360000050",
+        "CAPACITY": 600,
+        "NAME": "Barry University Main",
+        "EDIT_DATE": "2013/07/03",
+        "LON": -80.19497,
+        "ZIPCODE": 33161,
+        "PHONE": "305-899-3000",
+        "POINT_X": 920850.982902255,
+        "POINT_Y": 562858.61108581,
+        "ADDRESS": "11300 NE 2ND AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.87992,
+        "TYPE": "U",
+        "CAMPUS": "Main Campus",
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.29323151220521,
+          25.865723770596762
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "HIALEAH",
+        "FOLIO": "0430010180013",
+        "CAPACITY": 0,
+        "NAME": "Nouvelle Institute",
+        "EDIT_DATE": "2011/07/11",
+        "LON": -80.29323,
+        "ZIPCODE": 33012,
+        "PHONE": "305-557-3017",
+        "POINT_X": 888571.871960189,
+        "POINT_Y": 557512.9196888361,
+        "ADDRESS": "500 W 49TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.86572,
+        "TYPE": "C",
+        "CAMPUS": "Hialeah",
+        "UNIT": "2nd Floor",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16296622404356,
+          25.732233675594124
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3042200000030",
+        "CAPACITY": 200,
+        "NAME": "UM School of Marine and Atmospheric Science",
+        "EDIT_DATE": "2011/07/13",
+        "LON": -80.16297,
+        "ZIPCODE": 33149,
+        "PHONE": "305-361-4000",
+        "POINT_X": 931716.999936372,
+        "POINT_Y": 509245.09372387803,
+        "ADDRESS": "4600 RICKENBACKER CSWY",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.73223,
+        "TYPE": "U",
+        "CAMPUS": "Marine Campus",
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.41983375847227,
+          25.723078125220496
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3049220450001",
+        "CAPACITY": 0,
+        "NAME": "Professional Training Center (PTC)",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.41983,
+        "ZIPCODE": 33175,
+        "PHONE": "305-220-4120",
+        "POINT_X": 847168.983985633,
+        "POINT_Y": 505463.391576357,
+        "ADDRESS": "13926 SW 47TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.72308,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.38600847668265,
+          25.73089511204188
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3049130000011",
+        "CAPACITY": 0,
+        "NAME": "Nursing Unlimited inc",
+        "EDIT_DATE": "2011/07/11",
+        "LON": -80.38601,
+        "ZIPCODE": 33175,
+        "PHONE": "305-223-3000",
+        "POINT_X": 858291.98610799,
+        "POINT_Y": 508354.884699054,
+        "ADDRESS": "11750 SW 40TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.7309,
+        "TYPE": "C",
+        "CAMPUS": "Kendall Regional Medical Center",
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18593714666777,
+          25.788504613274437
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0132310450010",
+        "CAPACITY": 0,
+        "NAME": "Brown Mackie College",
+        "EDIT_DATE": "2010/05/28",
+        "LON": -80.18594,
+        "ZIPCODE": 33132,
+        "PHONE": "305-341-6600",
+        "POINT_X": 924028.378617212,
+        "POINT_Y": 529650.3860308831,
+        "ADDRESS": "1 HERALD PLZ",
+        "CAP_DESC": "0",
+        "LAT": 25.7885,
+        "TYPE": "C",
+        "CAMPUS": "Main Campus",
+        "UNIT": "Floor 6",
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.46263043916308,
+          25.537546976982302
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "HOMESTEAD",
+        "FOLIO": "3069190000271",
+        "CAPACITY": 0,
+        "NAME": "Coconut Palm Equestrian Center",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.46263,
+        "ZIPCODE": 33031,
+        "PHONE": "305-246-4649",
+        "POINT_X": 833352.763300765,
+        "POINT_Y": 437972.984601505,
+        "ADDRESS": "24650 SW 167TH AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.53755,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.24593228854383,
+          25.7507751787988
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0141090650001",
+        "CAPACITY": 0,
+        "NAME": "CCLS Language Studies",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.24593,
+        "ZIPCODE": 33145,
+        "PHONE": "305-529-8563",
+        "POINT_X": 904365.122278899,
+        "POINT_Y": 515819.565922007,
+        "ADDRESS": "3191 CORAL WAY",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.75078,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.40317662898777,
+          25.656155582516583
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3059140940001",
+        "CAPACITY": 0,
+        "NAME": "CCI School of Council",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.40318,
+        "ZIPCODE": 33186,
+        "PHONE": "305-480-5800",
+        "POINT_X": 852762.80235884,
+        "POINT_Y": 481164.67948973196,
+        "ADDRESS": "12002 SW 128TH CT",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.65616,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": "Suite 103",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.13853007517406,
+          25.77477871937383
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI BEACH",
+        "FOLIO": "0242040020010",
+        "CAPACITY": 0,
+        "NAME": "Beauty Schools of America",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.13853,
+        "ZIPCODE": 33139,
+        "PHONE": "305-824-2500",
+        "POINT_X": 939660.6889037711,
+        "POINT_Y": 524760.670826331,
+        "ADDRESS": "1011 5TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.77478,
+        "TYPE": "T",
+        "CAMPUS": "Miami Beach Campus",
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.31392296916647,
+          25.84663353283432
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "2230110021350",
+        "CAPACITY": 0,
+        "NAME": "Contractors Exam School",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.31392,
+        "ZIPCODE": 33166,
+        "PHONE": "305-620-2277",
+        "POINT_X": 881803.973841887,
+        "POINT_Y": 550538.211714335,
+        "ADDRESS": "7911 NW 72ND AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.84663,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": "Suite 217",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36091080519073,
+          25.59548946192786
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "CUTLER BAY",
+        "FOLIO": "3060050020564",
+        "CAPACITY": 0,
+        "NAME": "International Gymnastics Training Center",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.36091,
+        "ZIPCODE": 33157,
+        "PHONE": "305-259-0677",
+        "POINT_X": 866792.0664999081,
+        "POINT_Y": 459180.52996525203,
+        "ADDRESS": "18640 SW 104TH AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.59549,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.32887825015165,
+          25.769359876505362
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3040030060020",
+        "CAPACITY": 0,
+        "NAME": "CBT College - Flagler Campus",
+        "EDIT_DATE": "2011/07/07",
+        "LON": -80.32888,
+        "ZIPCODE": 33144,
+        "PHONE": "305-273-4499",
+        "POINT_X": 877028.5626374411,
+        "POINT_Y": 522426.812264159,
+        "ADDRESS": "8230 W FLAGLER ST",
+        "CAP_DESC": null,
+        "LAT": 25.76936,
+        "TYPE": "C",
+        "CAMPUS": "Flagler Campus",
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.27527953067383,
+          25.722089666615574
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "CORAL GABLES",
+        "FOLIO": "0341300150030",
+        "CAPACITY": 0,
+        "NAME": "UM School of Business Administration",
+        "EDIT_DATE": "2011/07/13",
+        "LON": -80.27528,
+        "ZIPCODE": 33146,
+        "PHONE": "305-284-4643",
+        "POINT_X": 894762.5302699581,
+        "POINT_Y": 505339.35036024405,
+        "ADDRESS": "5202 UNIVERSITY DR",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.72209,
+        "TYPE": "U",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2288626640025,
+          25.867199111639604
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3031030000020",
+        "CAPACITY": 0,
+        "NAME": "W.H.Turner Technical Arts H.S",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.22886,
+        "ZIPCODE": 33147,
+        "PHONE": "305-691-8324",
+        "POINT_X": 909735.760875903,
+        "POINT_Y": 558168.265353441,
+        "ADDRESS": "10151 NW 19TH AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.8672,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.40272945487989,
+          25.72997516900172
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3049140013340",
+        "CAPACITY": 0,
+        "NAME": "Genesis Vocational Institute Corp",
+        "EDIT_DATE": "2011/07/07",
+        "LON": -80.40273,
+        "ZIPCODE": 33175,
+        "PHONE": "305-223-0506",
+        "POINT_X": 852788.845238864,
+        "POINT_Y": 507995.265370719,
+        "ADDRESS": "12861 SW 42ND ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.72998,
+        "TYPE": "C",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.29439720457623,
+          25.865574658179902
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "HIALEAH",
+        "FOLIO": "0430010180011",
+        "CAPACITY": 0,
+        "NAME": "Everest Institute - Hialeah",
+        "EDIT_DATE": "2011/07/07",
+        "LON": -80.2944,
+        "ZIPCODE": 33012,
+        "PHONE": "305-558-9500",
+        "POINT_X": 888188.838871833,
+        "POINT_Y": 557456.6611287821,
+        "ADDRESS": "530 W 49TH ST",
+        "CAP_DESC": null,
+        "LAT": 25.86557,
+        "TYPE": "C",
+        "CAMPUS": "Hialeah Campus",
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17040013560887,
+          25.9637849216475
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3012320000203",
+        "CAPACITY": 0,
+        "NAME": "Sheet Metal Workers Apprentice",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.1704,
+        "ZIPCODE": 33179,
+        "PHONE": "305-651-8692",
+        "POINT_X": 928738.3267815971,
+        "POINT_Y": 593391.968682252,
+        "ADDRESS": "20401 NE 15TH CT",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.96378,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.24952599441865,
+          25.77947922234873
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0131330320080",
+        "CAPACITY": 0,
+        "NAME": "Nouvelle Institute",
+        "EDIT_DATE": "2011/07/11",
+        "LON": -80.24953,
+        "ZIPCODE": 33125,
+        "PHONE": "305-643-3360",
+        "POINT_X": 903122.8216057421,
+        "POINT_Y": 526245.6850997141,
+        "ADDRESS": "3271 NW 7TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.77948,
+        "TYPE": "C",
+        "CAMPUS": "Miami",
+        "UNIT": "Suite 106",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.21124895742098,
+          25.788127391623725
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "CORAL GABLES",
+        "FOLIO": "0131350570010",
+        "CAPACITY": 0,
+        "NAME": "UM Environmental Health &amp; Safety",
+        "EDIT_DATE": "2011/07/13",
+        "LON": -80.21125,
+        "ZIPCODE": 33136,
+        "PHONE": "305-243-3400",
+        "POINT_X": 915700.190193456,
+        "POINT_Y": 529462.592110708,
+        "ADDRESS": "1400 NW 10TH AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.78813,
+        "TYPE": "U",
+        "CAMPUS": null,
+        "UNIT": "Suite 405",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.346756552703,
+          25.607640488005828
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3350330450020",
+        "CAPACITY": 0,
+        "NAME": "Nursing Unlimited, inc",
+        "EDIT_DATE": "2011/07/11",
+        "LON": -80.34676,
+        "ZIPCODE": 33157,
+        "PHONE": "305-255-1045",
+        "POINT_X": 871435.268552233,
+        "POINT_Y": 463619.556401387,
+        "ADDRESS": "17475 S DIXIE HWY",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.60764,
+        "TYPE": "C",
+        "CAMPUS": "Gramercy Park Nursing Center",
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.31578482263043,
+          25.769607545695226
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3040020080320",
+        "CAPACITY": 0,
+        "NAME": "La Belle Beauty Academy",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.31578,
+        "ZIPCODE": 33144,
+        "PHONE": "305-262-0088",
+        "POINT_X": 881337.186001454,
+        "POINT_Y": 522538.98864825803,
+        "ADDRESS": "7390 W FLAGLER ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.76961,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.24169017571421,
+          25.77973940700024
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0131330241970",
+        "CAPACITY": 0,
+        "NAME": "Security School",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.24169,
+        "ZIPCODE": 33125,
+        "PHONE": "786-953-4192",
+        "POINT_X": 905700.879592143,
+        "POINT_Y": 526355.019627817,
+        "ADDRESS": "2853 NW 7TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.77974,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16385755563344,
+          25.69535435891943
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "2442320020132",
+        "CAPACITY": 0,
+        "NAME": "Inlingua Language Center Key Biscayne",
+        "EDIT_DATE": "2013/06/18",
+        "LON": -80.16386,
+        "ZIPCODE": 33149,
+        "PHONE": "786-347-1441",
+        "POINT_X": 931508.440832179,
+        "POINT_Y": 495838.872911394,
+        "ADDRESS": "238 CRANDON BLVD",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.69535,
+        "TYPE": "T",
+        "CAMPUS": "Key Biscayne",
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.26012914921196,
+          25.75230717359183
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0341080061920",
+        "CAPACITY": 0,
+        "NAME": "Inlingua Language Center Coral Gables",
+        "EDIT_DATE": "2013/06/18",
+        "LON": -80.26013,
+        "ZIPCODE": 33134,
+        "PHONE": "786-838-4159",
+        "POINT_X": 899688.992226545,
+        "POINT_Y": 516349.9183065,
+        "ADDRESS": "273 ALAHAMBRA CIR",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.75231,
+        "TYPE": "T",
+        "CAMPUS": "Coral Gables",
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.35392080813885,
+          25.811945670359822
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3530200120030",
+        "CAPACITY": 0,
+        "NAME": "Inlingua Language Center Doral",
+        "EDIT_DATE": "2013/06/18",
+        "LON": -80.35392,
+        "ZIPCODE": 33178,
+        "PHONE": "786-838-4142",
+        "POINT_X": 868711.052229695,
+        "POINT_Y": 537863.8370465339,
+        "ADDRESS": "9763 NW 41ST ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.81195,
+        "TYPE": "T",
+        "CAMPUS": "Doral",
+        "UNIT": "Suite 101",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.40384025256249,
+          25.648400097540023
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3059140590010",
+        "CAPACITY": 0,
+        "NAME": "Cise Electronics Corporation",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.40384,
+        "ZIPCODE": 33186,
+        "PHONE": "786-293-1094",
+        "POINT_X": 852556.894134648,
+        "POINT_Y": 478344.958783105,
+        "ADDRESS": "12920 SW 128TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.6484,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": "Suite 4",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.27942731892858,
+          25.717236169299294
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "CORAL GABLES",
+        "FOLIO": "0341300150020",
+        "CAPACITY": 0,
+        "NAME": "UM School of Architecture",
+        "EDIT_DATE": "2011/07/13",
+        "LON": -80.27943,
+        "ZIPCODE": 33146,
+        "PHONE": "305-284-3731",
+        "POINT_X": 893406.5589406941,
+        "POINT_Y": 503567.824726597,
+        "ADDRESS": "1223 DICKINSON DR",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.71724,
+        "TYPE": "U",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.20467778988503,
+          25.758137763432362
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0141380011260",
+        "CAPACITY": 0,
+        "NAME": "Keyes Real State License Exam School",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.20468,
+        "ZIPCODE": 33129,
+        "PHONE": "305-371-3592",
+        "POINT_X": 917928.271091532,
+        "POINT_Y": 518575.38288457,
+        "ADDRESS": "2121 SW 3RD AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.75814,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": "Suite 5",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.31326820064608,
+          25.74849986966528
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3040110200170",
+        "CAPACITY": 0,
+        "NAME": "Real Estate Learning Center Inc",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.31327,
+        "ZIPCODE": 33155,
+        "PHONE": "305-261-7111",
+        "POINT_X": 882205.376978263,
+        "POINT_Y": 514871.503969118,
+        "ADDRESS": "7281 CORAL WAY",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.7485,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2663706239845,
+          25.77937293708359
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0131320250011",
+        "CAPACITY": 0,
+        "NAME": "Olga P Gonzalez Sewing School",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.26637,
+        "ZIPCODE": 33126,
+        "PHONE": "305-442-0858",
+        "POINT_X": 897579.834848579,
+        "POINT_Y": 526175.8298676461,
+        "ADDRESS": "4315 NW 7TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.77937,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": "Suite 44",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19578699995155,
+          25.92947324352309
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "NORTH MIAMI BEACH",
+        "FOLIO": "0722070080010",
+        "CAPACITY": 0,
+        "NAME": "Union Institute &amp; University",
+        "EDIT_DATE": "2011/07/14",
+        "LON": -80.19579,
+        "ZIPCODE": 33162,
+        "PHONE": "305-653-7141",
+        "POINT_X": 920473.520117901,
+        "POINT_Y": 580868.4558385831,
+        "ADDRESS": "16853 NE 2ND AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.92947,
+        "TYPE": "U",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.28999871601579,
+          25.81016271276591
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI SPRINGS",
+        "FOLIO": "2630250010020",
+        "CAPACITY": 0,
+        "NAME": "Aeroservice Aviation Center LLC",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.29,
+        "ZIPCODE": 33166,
+        "PHONE": "305-871-5557",
+        "POINT_X": 889744.009689283,
+        "POINT_Y": 537324.1619100351,
+        "ADDRESS": "3814 CURTISS PKWY",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.81016,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3067567990272,
+          25.848624920507195
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "HIALEAH",
+        "FOLIO": "0430110020120",
+        "CAPACITY": 0,
+        "NAME": "Compu-Med Vocational Career",
+        "EDIT_DATE": "2013/06/18",
+        "LON": -80.30676,
+        "ZIPCODE": 33012,
+        "PHONE": "305-888-9200",
+        "POINT_X": 884157.040084079,
+        "POINT_Y": 551274.379139021,
+        "ADDRESS": "2900 W 12TH AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.84862,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": "Suite 28",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1701660949821,
+          25.894337856098094
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "NORTH MIAMI",
+        "FOLIO": "0622290000280",
+        "CAPACITY": 0,
+        "NAME": "PRC Career Center Corp",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.17017,
+        "ZIPCODE": 33161,
+        "PHONE": "305-891-6184",
+        "POINT_X": 928975.09580582,
+        "POINT_Y": 568150.134930737,
+        "ADDRESS": "12875 NE 14TH AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.89434,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.28741225038017,
+          25.846970364951257
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "HIALEAH",
+        "FOLIO": "0431070100640",
+        "CAPACITY": 0,
+        "NAME": "US K-9 Academy &amp; Police Dog Training Center Inc",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.28741,
+        "ZIPCODE": 33010,
+        "PHONE": "305-805-0030",
+        "POINT_X": 890522.4419460071,
+        "POINT_Y": 550707.037314497,
+        "ADDRESS": "240 W 28TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.84697,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.20887531603822,
+          25.794837513870483
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0131350400010",
+        "CAPACITY": 0,
+        "NAME": "Lindsey Hopkings Tech. Education Center",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.20888,
+        "ZIPCODE": 33136,
+        "PHONE": "305-324-6070",
+        "POINT_X": 916466.599666171,
+        "POINT_Y": 531906.1837929861,
+        "ADDRESS": "750 NW 20TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.79484,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3200580790282,
+          25.687266423764314
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3050030000081",
+        "CAPACITY": 0,
+        "NAME": "Sullivan &amp; Cogliano Training Center, Inc",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.32006,
+        "ZIPCODE": 33156,
+        "PHONE": "305-279-5877",
+        "POINT_X": 880085.0283042861,
+        "POINT_Y": 492604.168524385,
+        "ADDRESS": "7740 N KENDALL DR",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.68727,
+        "TYPE": "T",
+        "CAMPUS": "South Miami Campus",
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.22583601478736,
+          25.77296176992736
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0141030131140",
+        "CAPACITY": 0,
+        "NAME": "Vocational Institute of Florida",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.22584,
+        "ZIPCODE": 33125,
+        "PHONE": "305-643-6111",
+        "POINT_X": 910932.621805016,
+        "POINT_Y": 523921.931625553,
+        "ADDRESS": "1849 W FLAGLER ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.77296,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.27098243913328,
+          25.830535002698948
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "HIALEAH",
+        "FOLIO": "0431170120380",
+        "CAPACITY": 0,
+        "NAME": "Sheepdog Firearms &amp; Training",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.27098,
+        "ZIPCODE": 33010,
+        "PHONE": "305-887-4889",
+        "POINT_X": 895959.1853750721,
+        "POINT_Y": 544762.983036958,
+        "ADDRESS": "527 E 9TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.83054,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.24197907978964,
+          25.764593361952564
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0141090500010",
+        "CAPACITY": 0,
+        "NAME": "La Belle Beauty Academy",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.24198,
+        "ZIPCODE": 33135,
+        "PHONE": "305-649-2800",
+        "POINT_X": 905637.4760720839,
+        "POINT_Y": 520849.429350689,
+        "ADDRESS": "2960 SW 8TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.76459,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.31252650020271,
+          25.86691917320583
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "HIALEAH",
+        "FOLIO": "0430020000131",
+        "CAPACITY": 0,
+        "NAME": "La Belle Beauty Academy",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.31253,
+        "ZIPCODE": 33012,
+        "PHONE": "305-558-0562",
+        "POINT_X": 882224.67425828,
+        "POINT_Y": 557913.726089209,
+        "ADDRESS": "1495 W 49TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.86692,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.33214079355638,
+          25.748135954425408
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3040100000020",
+        "CAPACITY": 0,
+        "NAME": "International Models School",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.33214,
+        "ZIPCODE": 33155,
+        "PHONE": "305-266-6331",
+        "POINT_X": 875993.928140476,
+        "POINT_Y": 514707.333216965,
+        "ADDRESS": "8415 CORAL WAY",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.74814,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": "Suite 205",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.25494223769856,
+          25.779880228491596
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0131330110240",
+        "CAPACITY": 0,
+        "NAME": "Hi Tech School of Miami",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.25494,
+        "ZIPCODE": 33125,
+        "PHONE": "305-643-2996",
+        "POINT_X": 901339.627748083,
+        "POINT_Y": 526381.319019839,
+        "ADDRESS": "801 NW 37TH AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.77988,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2256073964788,
+          25.765360885200014
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3031310250020",
+        "CAPACITY": 0,
+        "NAME": "The Praxis Institute",
+        "EDIT_DATE": "2012/12/17",
+        "LON": -80.22561,
+        "ZIPCODE": 33126,
+        "PHONE": "305-529-1550",
+        "POINT_X": 911024.0936771,
+        "POINT_Y": 521159.719782978,
+        "ADDRESS": "1850 SW 8TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.76536,
+        "TYPE": "C",
+        "CAMPUS": "Main Campus",
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.47716177434494,
+          25.47328172174959
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "HOMESTEAD",
+        "FOLIO": "1079180060230",
+        "CAPACITY": 0,
+        "NAME": "Dade Medical College - Homestead Campus",
+        "EDIT_DATE": "2011/07/07",
+        "LON": -80.47716,
+        "ZIPCODE": 33030,
+        "PHONE": "786-454-9070",
+        "POINT_X": 828653.059232388,
+        "POINT_Y": 414597.278979734,
+        "ADDRESS": "381 N KROME AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.47328,
+        "TYPE": "C",
+        "CAMPUS": "Homestead Campus",
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.38458320965641,
+          25.808398273519177
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "DORAL",
+        "FOLIO": "3530300310040",
+        "CAPACITY": 3096,
+        "NAME": "Miami Dade College West",
+        "EDIT_DATE": "2009/11/24",
+        "LON": -80.38458,
+        "ZIPCODE": 33178,
+        "PHONE": "305-237-8918",
+        "POINT_X": 858629.647036307,
+        "POINT_Y": 536526.148469292,
+        "ADDRESS": "3800 NW 115TH AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.8084,
+        "TYPE": "C",
+        "CAMPUS": "West Campus",
+        "UNIT": null,
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.35928932755712,
+          25.590367526792758
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3660050570010",
+        "CAPACITY": 50,
+        "NAME": "Barry University South",
+        "EDIT_DATE": "2009/11/24",
+        "LON": -80.35929,
+        "ZIPCODE": 33157,
+        "PHONE": "305-969-5833",
+        "POINT_X": 867335.465668414,
+        "POINT_Y": 457321.543467522,
+        "ADDRESS": "18958 S DIXIE HWY",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.59037,
+        "TYPE": "U",
+        "CAMPUS": "South Dade",
+        "UNIT": null,
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.25654113709824,
+          25.848207323101306
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3031090310010",
+        "CAPACITY": 0,
+        "NAME": "Universidad Politecnica De Puerto Rico - Miami",
+        "EDIT_DATE": "2013/06/19",
+        "LON": -80.25654,
+        "ZIPCODE": 33147,
+        "PHONE": "305-418-8000",
+        "POINT_X": 900673.134819459,
+        "POINT_Y": 551212.878722966,
+        "ADDRESS": "8180 NW 36TH AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.84821,
+        "TYPE": "U",
+        "CAMPUS": "Miami Campus",
+        "UNIT": "Suite 401",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.13645525396899,
+          25.811803476950463
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI BEACH",
+        "FOLIO": "0232220110430",
+        "CAPACITY": 40,
+        "NAME": "Talmudic College of Florida",
+        "EDIT_DATE": "2013/06/21",
+        "LON": -80.13646,
+        "ZIPCODE": 33140,
+        "PHONE": "305-534-7050",
+        "POINT_X": 940255.245320324,
+        "POINT_Y": 538222.5675428661,
+        "ADDRESS": "4000 ALTON RD",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.8118,
+        "TYPE": "C",
+        "CAMPUS": "Main Campus",
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17512819214187,
+          25.89104408943496
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "NORTH MIAMI",
+        "FOLIO": "0622290340040",
+        "CAPACITY": 0,
+        "NAME": "International Academy Training Center",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.17513,
+        "ZIPCODE": 33161,
+        "PHONE": "305-895-4244",
+        "POINT_X": 927351.259900305,
+        "POINT_Y": 566942.649233617,
+        "ADDRESS": "1175 NE 125TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.89104,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.32154776764283,
+          25.7734225108177
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3040030430010",
+        "CAPACITY": 0,
+        "NAME": "New Horizons Computer Learning Centers",
+        "EDIT_DATE": "2013/06/18",
+        "LON": -80.32155,
+        "ZIPCODE": 33126,
+        "PHONE": "305-265-7576",
+        "POINT_X": 879433.445583679,
+        "POINT_Y": 523915.77047354705,
+        "ADDRESS": "7757 W FLAGLER ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.77342,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": "Suite 200",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18202723361873,
+          25.89026055450156
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "NORTH MIAMI",
+        "FOLIO": "0622300130020",
+        "CAPACITY": 0,
+        "NAME": "North Miami Nursing School",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.18203,
+        "ZIPCODE": 33161,
+        "PHONE": "786-275-4414",
+        "POINT_X": 925084.8122821971,
+        "POINT_Y": 566643.654801339,
+        "ADDRESS": "812 NE 125TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.89026,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.15540670494498,
+          25.923983598310816
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "NORTH MIAMI BEACH",
+        "FOLIO": "0722160110100",
+        "CAPACITY": 0,
+        "NAME": "SAE Institute - Miami",
+        "EDIT_DATE": "2013/06/19",
+        "LON": -80.15541,
+        "ZIPCODE": 33160,
+        "PHONE": "305-944-7494",
+        "POINT_X": 933758.061826274,
+        "POINT_Y": 578956.605084807,
+        "ADDRESS": "16051 W DIXIE HWY",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.92398,
+        "TYPE": "C",
+        "CAMPUS": null,
+        "UNIT": "Suite 200",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36733240488284,
+          25.740457464454092
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3040170310030",
+        "CAPACITY": 0,
+        "NAME": "Security Agency &amp; Training Academy",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.36733,
+        "ZIPCODE": 33165,
+        "PHONE": "305-221-1253",
+        "POINT_X": 864423.617729701,
+        "POINT_Y": 511859.421534315,
+        "ADDRESS": "3027 SW 107TH AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.74046,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.30731608567568,
+          25.860154011812785
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "HIALEAH",
+        "FOLIO": "0430021020010",
+        "CAPACITY": 160,
+        "NAME": "Florida National College (12th Ave)",
+        "EDIT_DATE": "2013/06/18",
+        "LON": -80.30732,
+        "ZIPCODE": 33012,
+        "PHONE": "305-231-3326",
+        "POINT_X": 883951.005651888,
+        "POINT_Y": 555463.8283589261,
+        "ADDRESS": "4206 W 12TH AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.86015,
+        "TYPE": "C",
+        "CAMPUS": "Training Center",
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.22672148004648,
+          25.743603677173425
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0141150570010",
+        "CAPACITY": 0,
+        "NAME": "A Career Counseling Center",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.22672,
+        "ZIPCODE": 33133,
+        "PHONE": "305-858-8557",
+        "POINT_X": 910703.805676803,
+        "POINT_Y": 513249.604959607,
+        "ADDRESS": "2000 S DIXIE HWY",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.7436,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1949182934307,
+          25.803519957639047
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0131250040140",
+        "CAPACITY": 0,
+        "NAME": "Assoc. for The Development of The Exceptional, Inc",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.19492,
+        "ZIPCODE": 33127,
+        "PHONE": "305-573-3737",
+        "POINT_X": 921039.69867843,
+        "POINT_Y": 535089.812083952,
+        "ADDRESS": "2801 N MIAMI AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.80352,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.28698490542622,
+          25.806619342033816
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3031300000010",
+        "CAPACITY": 0,
+        "NAME": "Atlas Air Training Center",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.28698,
+        "ZIPCODE": 33122,
+        "PHONE": "786-265-2724",
+        "POINT_X": 890742.507738214,
+        "POINT_Y": 536041.636980839,
+        "ADDRESS": "5600 NW 36TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.80662,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.13114855435725,
+          25.823339638929998
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI BEACH",
+        "FOLIO": "0232220140650",
+        "CAPACITY": 0,
+        "NAME": "Baumann Institute",
+        "EDIT_DATE": "2011/07/14",
+        "LON": -80.13115,
+        "ZIPCODE": 33140,
+        "PHONE": "305-531-5788",
+        "POINT_X": 941973.430537924,
+        "POINT_Y": 542427.138938785,
+        "ADDRESS": "4701 N MERIDIAN AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.82334,
+        "TYPE": "C",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36635189418968,
+          25.6858204137872
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3050050150010",
+        "CAPACITY": 300,
+        "NAME": "Barry University Kendall",
+        "EDIT_DATE": "2012/11/08",
+        "LON": -80.36635,
+        "ZIPCODE": 33176,
+        "PHONE": "305-275-2761",
+        "POINT_X": 864841.671106089,
+        "POINT_Y": 492002.852939822,
+        "ADDRESS": "8900 SW 107TH AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.68582,
+        "TYPE": "U",
+        "CAMPUS": "South Dade",
+        "UNIT": null,
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.39340048535927,
+          25.662670591680836
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3059120180030",
+        "CAPACITY": 400,
+        "NAME": "American Medical Academy",
+        "EDIT_DATE": "2012/11/08",
+        "LON": -80.3934,
+        "ZIPCODE": 33186,
+        "PHONE": "305-271-6555",
+        "POINT_X": 855972.324537829,
+        "POINT_Y": 483547.211843945,
+        "ADDRESS": "12215 SW 112TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.66267,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.30759246722852,
+          25.856536701178978
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "HIALEAH",
+        "FOLIO": "0430021000020",
+        "CAPACITY": 149,
+        "NAME": "Advanced Science Institute Inc",
+        "EDIT_DATE": "2012/11/08",
+        "LON": -80.30759,
+        "ZIPCODE": 33012,
+        "PHONE": "305-827-5452",
+        "POINT_X": 883867.04686781,
+        "POINT_Y": 554148.583301701,
+        "ADDRESS": "3750 W 12TH AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.85654,
+        "TYPE": "C",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.35395293833867,
+          25.733500184335043
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3040170000290",
+        "CAPACITY": 486,
+        "NAME": "Justilanguage Audio Visual Center",
+        "EDIT_DATE": "2012/11/08",
+        "LON": -80.35395,
+        "ZIPCODE": 33165,
+        "PHONE": "305-553-5222",
+        "POINT_X": 868840.271557815,
+        "POINT_Y": 509352.09532398,
+        "ADDRESS": "9811 SW 40TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.7335,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.40077124975738,
+          25.622582664795523
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3059260000060",
+        "CAPACITY": 10368,
+        "NAME": "University of Miami South",
+        "EDIT_DATE": "2012/11/08",
+        "LON": -80.40077,
+        "ZIPCODE": 33177,
+        "PHONE": "305-232-7020",
+        "POINT_X": 853610.38456763,
+        "POINT_Y": 468966.181942366,
+        "ADDRESS": "12500 SW 152ND ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.62258,
+        "TYPE": "U",
+        "CAMPUS": "South Campus",
+        "UNIT": null,
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.31421241275781,
+          25.770403494429086
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3040020091620",
+        "CAPACITY": 16,
+        "NAME": "A B C Bartending Schools",
+        "EDIT_DATE": "2012/11/08",
+        "LON": -80.31421,
+        "ZIPCODE": 33144,
+        "PHONE": "305-267-1446",
+        "POINT_X": 881853.165265933,
+        "POINT_Y": 522830.974312536,
+        "ADDRESS": "7329 W FLAGLER ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.7704,
+        "TYPE": "T",
+        "CAMPUS": "Miami",
+        "UNIT": null,
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.24701586299363,
+          25.877637254206505
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3021330010020",
+        "CAPACITY": 25671,
+        "NAME": "Miami Dade College North",
+        "EDIT_DATE": "2009/11/24",
+        "LON": -80.24702,
+        "ZIPCODE": 33167,
+        "PHONE": "305-237-1000",
+        "POINT_X": 903744.56291832,
+        "POINT_Y": 561927.5621249451,
+        "ADDRESS": "11380 NW 27TH AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.87764,
+        "TYPE": "C",
+        "CAMPUS": "North Campus",
+        "UNIT": null,
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.32007859036712,
+          25.855745672144423
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "HIALEAH",
+        "FOLIO": "0430110350010",
+        "CAPACITY": 0,
+        "NAME": "Florida Career College Hialeah",
+        "EDIT_DATE": "2009/11/24",
+        "LON": -80.32008,
+        "ZIPCODE": 33012,
+        "PHONE": "305-825-3231",
+        "POINT_X": 879762.3129119871,
+        "POINT_Y": 553839.625093415,
+        "ADDRESS": "3750 W 18TH AVE",
+        "CAP_DESC": null,
+        "LAT": 25.85575,
+        "TYPE": "C",
+        "CAMPUS": "Hialeah",
+        "UNIT": null,
+        "EDITOR_NAM": "nba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36588686522686,
+          25.81277293887828
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "DORAL",
+        "FOLIO": "3530200550010",
+        "CAPACITY": 0,
+        "NAME": "San Ignacio Culinary Arts School",
+        "EDIT_DATE": "2013/06/18",
+        "LON": -80.36589,
+        "ZIPCODE": 33178,
+        "PHONE": "305-629-2929",
+        "POINT_X": 864772.9591700251,
+        "POINT_Y": 538145.365878798,
+        "ADDRESS": "10395 NW 41ST ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.81277,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36061762405949,
+          25.700564099898077
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3040320010050",
+        "CAPACITY": 0,
+        "NAME": "Frank Alonso Professor - Auto-CAD Classes",
+        "EDIT_DATE": "2013/06/18",
+        "LON": -80.36062,
+        "ZIPCODE": 33173,
+        "PHONE": "305-382-2228",
+        "POINT_X": 866704.221123826,
+        "POINT_Y": 497370.604624823,
+        "ADDRESS": "10300 SW 72ND ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.70056,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.13535349758325,
+          25.93093645305567
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "NORTH MIAMI",
+        "FOLIO": "0722100022640",
+        "CAPACITY": 0,
+        "NAME": "Gold Coast School of Real Estate - NORTH DADE",
+        "EDIT_DATE": "2013/06/18",
+        "LON": -80.13535,
+        "ZIPCODE": 33160,
+        "PHONE": "305-940-4660",
+        "POINT_X": 940332.5550163981,
+        "POINT_Y": 581526.7961912011,
+        "ADDRESS": "3577 NE 163RD ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.93094,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36862263358867,
+          25.74583504227435
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3040180000017",
+        "CAPACITY": 0,
+        "NAME": "Guadalupe Vocational Institute",
+        "EDIT_DATE": "2011/07/07",
+        "LON": -80.36862,
+        "ZIPCODE": 33165,
+        "PHONE": "305-559-7728",
+        "POINT_X": 863989.5436172971,
+        "POINT_Y": 513811.90256013704,
+        "ADDRESS": "2500 SW 107TH AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.74584,
+        "TYPE": "C",
+        "CAMPUS": null,
+        "UNIT": "Suite 29",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16116777027685,
+          25.70021626854647
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "KEY BISCAYNE",
+        "FOLIO": "2442320020060",
+        "CAPACITY": 0,
+        "NAME": "The Pankey Institute",
+        "EDIT_DATE": "2013/06/21",
+        "LON": -80.16117,
+        "ZIPCODE": 33149,
+        "PHONE": "305-361-5433",
+        "POINT_X": 932383.007744994,
+        "POINT_Y": 497611.620689049,
+        "ADDRESS": "1 CRANDON BLVD",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.70022,
+        "TYPE": "C",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.50105100375329,
+          25.51058388409492
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "HOMESTEAD",
+        "FOLIO": "3068350000490",
+        "CAPACITY": 0,
+        "NAME": "UFL Tropical Research and Educational Center",
+        "EDIT_DATE": "2013/06/19",
+        "LON": -80.50105,
+        "ZIPCODE": 33031,
+        "PHONE": "305-246-7001",
+        "POINT_X": 820720.9668090009,
+        "POINT_Y": 428124.111632332,
+        "ADDRESS": "18905 SW 280TH ST",
+        "CAP_DESC": null,
+        "LAT": 25.51058,
+        "TYPE": "U",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.21082697692177,
+          25.790862312138415
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0131350650010",
+        "CAPACITY": 0,
+        "NAME": "UM Batchelor Children\u0092s Research Institute",
+        "EDIT_DATE": "2013/06/21",
+        "LON": -80.21083,
+        "ZIPCODE": 33136,
+        "PHONE": "305-243-1423",
+        "POINT_X": 915833.0884975791,
+        "POINT_Y": 530457.476207636,
+        "ADDRESS": "1580 NW 10TH AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.79086,
+        "TYPE": "U",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.28013170339815,
+          25.72064696779715
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "CORAL GABLES",
+        "FOLIO": "0341300150030",
+        "CAPACITY": 0,
+        "NAME": "UM College of Arts &amp; Sciences",
+        "EDIT_DATE": "2011/07/13",
+        "LON": -80.28013,
+        "ZIPCODE": 33146,
+        "PHONE": "305-284-4117",
+        "POINT_X": 893167.881692473,
+        "POINT_Y": 504806.246743746,
+        "ADDRESS": "1252 MEMORIAL DR",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.72065,
+        "TYPE": "U",
+        "CAMPUS": null,
+        "UNIT": "Suite 227",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2119474839328,
+          25.79038407385478
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0131350580010",
+        "CAPACITY": 0,
+        "NAME": "UM Department of Microbiology &amp; Immunology",
+        "EDIT_DATE": "2013/06/19",
+        "LON": -80.21195,
+        "ZIPCODE": 33136,
+        "PHONE": "305-243-6655",
+        "POINT_X": 915465.4269292391,
+        "POINT_Y": 530281.4444634691,
+        "ADDRESS": "1600 NW 10TH AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.79038,
+        "TYPE": "U",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.21363040810789,
+          25.78741815459452
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0131350990010",
+        "CAPACITY": 0,
+        "NAME": "UM Clinical Enterprise Technologies",
+        "EDIT_DATE": "2011/07/13",
+        "LON": -80.21363,
+        "ZIPCODE": 33136,
+        "PHONE": "305-243-7339",
+        "POINT_X": 914918.0973927269,
+        "POINT_Y": 529200.121966466,
+        "ADDRESS": "1150 NW 14TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.78742,
+        "TYPE": "U",
+        "CAMPUS": null,
+        "UNIT": "Suite 100",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.21319681157446,
+          25.786584107633374
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0131350990010",
+        "CAPACITY": 0,
+        "NAME": "UM Otolaryngology Department",
+        "EDIT_DATE": "2011/07/13",
+        "LON": -80.2132,
+        "ZIPCODE": 33136,
+        "PHONE": "305-243-3773",
+        "POINT_X": 915062.587120861,
+        "POINT_Y": 528897.8261581811,
+        "ADDRESS": "1120 NW 14TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.78658,
+        "TYPE": "U",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18864248974961,
+          25.789946577568365
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0132310570001",
+        "CAPACITY": 0,
+        "NAME": "Miami International University of Art &amp; Design",
+        "EDIT_DATE": "2011/07/11",
+        "LON": -80.18864,
+        "ZIPCODE": 33132,
+        "PHONE": "305-428-5700",
+        "POINT_X": 923134.937848382,
+        "POINT_Y": 530168.999791369,
+        "ADDRESS": "1501 BISCAYNE BLVD",
+        "CAP_DESC": null,
+        "LAT": 25.78995,
+        "TYPE": "U",
+        "CAMPUS": null,
+        "UNIT": "Suite 100",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.30787048716678,
+          25.85983047639901
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "HIALEAH",
+        "FOLIO": "0141100632970",
+        "CAPACITY": 0,
+        "NAME": "The Praxis Institute - Hialeah",
+        "EDIT_DATE": "2011/07/11",
+        "LON": -80.30787,
+        "ZIPCODE": 33012,
+        "PHONE": "305-556-1424",
+        "POINT_X": 883769.3086277171,
+        "POINT_Y": 555345.273478814,
+        "ADDRESS": "4162 W 12TH AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.85983,
+        "TYPE": "C",
+        "CAMPUS": "Hialeah Campus",
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19251809531946,
+          25.76058910995267
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0102090901380",
+        "CAPACITY": 0,
+        "NAME": "TALK International School of Languages",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.19252,
+        "ZIPCODE": 33131,
+        "PHONE": "305-375-0126",
+        "POINT_X": 921925.0559912551,
+        "POINT_Y": 519490.69322142,
+        "ADDRESS": "1390 BRICKELL AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.76059,
+        "TYPE": "T",
+        "CAMPUS": "Miami Downtown",
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2799639518233,
+          25.7214973178221
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "CORAL GABLES",
+        "FOLIO": "0341300150030",
+        "CAPACITY": 0,
+        "NAME": "UM Center for Computational Science",
+        "EDIT_DATE": "2011/07/13",
+        "LON": -80.27996,
+        "ZIPCODE": 33146,
+        "PHONE": "305-243-4962",
+        "POINT_X": 893221.426396523,
+        "POINT_Y": 505115.615832038,
+        "ADDRESS": "1365 MEMORIAL DR",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.7215,
+        "TYPE": "U",
+        "CAMPUS": null,
+        "UNIT": "Suite 313",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.34428683019534,
+          25.732566725650077
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3040210060011",
+        "CAPACITY": 0,
+        "NAME": "Natural Healing Center",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.34429,
+        "ZIPCODE": 33165,
+        "PHONE": "305-228-0380",
+        "POINT_X": 872024.050632779,
+        "POINT_Y": 509028.519003682,
+        "ADDRESS": "9230 SW 40TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.73257,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.38250854790324,
+          25.791367411993704
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "2530310290016",
+        "CAPACITY": 0,
+        "NAME": "Strayer University - Doral Campus",
+        "EDIT_DATE": "2011/07/14",
+        "LON": -80.38251,
+        "ZIPCODE": 33172,
+        "PHONE": "305-507-5700",
+        "POINT_X": 859341.232316967,
+        "POINT_Y": 530339.330415525,
+        "ADDRESS": "11430 NW 20TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.79137,
+        "TYPE": "U",
+        "CAMPUS": "Doral Campus",
+        "UNIT": "Suite 150",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.33523555553313,
+          25.80918138160408
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "DORAL",
+        "FOLIO": "3530270010241",
+        "CAPACITY": 0,
+        "NAME": "Connecticut Broadcasting School (CBS)",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.33524,
+        "ZIPCODE": 33166,
+        "PHONE": "305-403-3800",
+        "POINT_X": 874863.292875424,
+        "POINT_Y": 536889.744501628,
+        "ADDRESS": "8600 NW 36TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.80918,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": "Suite 100",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.25140778711918,
+          25.740218761651438
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0141160210010",
+        "CAPACITY": 0,
+        "NAME": "The English Center",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.25141,
+        "ZIPCODE": 33133,
+        "PHONE": "305-445-7731",
+        "POINT_X": 902584.59517324,
+        "POINT_Y": 511972.43811041897,
+        "ADDRESS": "3501 SW 28TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.74022,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3409745628065,
+          25.70239387567303
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3040280670010",
+        "CAPACITY": 0,
+        "NAME": "Medvance Institute",
+        "EDIT_DATE": "2011/07/08",
+        "LON": -80.34097,
+        "ZIPCODE": 33173,
+        "PHONE": "305-596-5553",
+        "POINT_X": 873169.2003298481,
+        "POINT_Y": 498067.43227347,
+        "ADDRESS": "9035 SW 72ND ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.70239,
+        "TYPE": "C",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.27572059823008,
+          25.719421802460825
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0341300150050",
+        "CAPACITY": 0,
+        "NAME": "UM Behavioral Medicine Research Program",
+        "EDIT_DATE": "2011/07/13",
+        "LON": -80.27572,
+        "ZIPCODE": 33146,
+        "PHONE": "305-284-2211",
+        "POINT_X": 894622.634973828,
+        "POINT_Y": 504368.89199134,
+        "ADDRESS": "1251 STANFORD DR",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.71942,
+        "TYPE": "U",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.32545985692711,
+          25.783579020715162
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3530340040060",
+        "CAPACITY": 0,
+        "NAME": "ITT Technical Institute",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.32546,
+        "ZIPCODE": 33126,
+        "PHONE": "305-477-3080",
+        "POINT_X": 878127.106766462,
+        "POINT_Y": 527600.648044974,
+        "ADDRESS": "7955 NW 12TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.78358,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": "Suite 119",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17700941008012,
+          25.89087716093496
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "NORTH MIAMI",
+        "FOLIO": "0622290340400",
+        "CAPACITY": 0,
+        "NAME": "SEGAL Institute",
+        "EDIT_DATE": "2011/07/11",
+        "LON": -80.17701,
+        "ZIPCODE": 33161,
+        "PHONE": "305 722-8444",
+        "POINT_X": 926733.145339731,
+        "POINT_Y": 566878.091153555,
+        "ADDRESS": "1065 NE 125TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.89088,
+        "TYPE": "C",
+        "CAMPUS": "Headquarters",
+        "UNIT": "Suite 221",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.38037163969005,
+          25.791710117972865
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "2530310290017",
+        "CAPACITY": 0,
+        "NAME": "Gold Coast School of Real Estate - DORAL",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.38037,
+        "ZIPCODE": 33172,
+        "PHONE": "305-663-0313",
+        "POINT_X": 860043.774909623,
+        "POINT_Y": 530467.192687646,
+        "ADDRESS": "11250 NW 20TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.79171,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.26363358678759,
+          25.804186897598417
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3031290000241",
+        "CAPACITY": 0,
+        "NAME": "George T. Baker Aviation Center",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.26363,
+        "ZIPCODE": 33142,
+        "PHONE": "305-871-3143",
+        "POINT_X": 898430.097889371,
+        "POINT_Y": 535199.8342280539,
+        "ADDRESS": "3275 NW 42ND AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.80419,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.25794485333975,
+          25.781676899934187
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0131320190010",
+        "CAPACITY": 0,
+        "NAME": "Key Power Tech. Inst. Comm. Truck Driving School",
+        "EDIT_DATE": "2011/07/08",
+        "LON": -80.25794,
+        "ZIPCODE": 33126,
+        "PHONE": "305-649-5344",
+        "POINT_X": 900347.8566111589,
+        "POINT_Y": 527028.766572446,
+        "ADDRESS": "3790 NW 11TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.78168,
+        "TYPE": "C",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.41741867896272,
+          25.683071825562187
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3059030080010",
+        "CAPACITY": 0,
+        "NAME": "Everest Institute - Kendall",
+        "EDIT_DATE": "2011/07/07",
+        "LON": -80.41742,
+        "ZIPCODE": 33186,
+        "PHONE": "305-386-990",
+        "POINT_X": 848028.217778433,
+        "POINT_Y": 490926.503754817,
+        "ADDRESS": "9020 SW 137TH AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.68307,
+        "TYPE": "C",
+        "CAMPUS": "Kendall Campus",
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.21070425043942,
+          25.791105575668823
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0131350650010",
+        "CAPACITY": 0,
+        "NAME": "UM Bascom Palmer Eye Institute",
+        "EDIT_DATE": "2011/07/13",
+        "LON": -80.2107,
+        "ZIPCODE": 33136,
+        "PHONE": "305-326-6000",
+        "POINT_X": 915872.9415536191,
+        "POINT_Y": 530546.136431716,
+        "ADDRESS": "900 NW 17TH ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.79111,
+        "TYPE": "U",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3004280464794,
+          25.943149958769148
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "HIALEAH",
+        "FOLIO": "3020010010030",
+        "CAPACITY": 0,
+        "NAME": "Marine Corps Reserve Train Center",
+        "EDIT_DATE": "2011/07/15",
+        "LON": -80.30043,
+        "ZIPCODE": 33015,
+        "PHONE": "305-628-5173",
+        "POINT_X": 886055.256789848,
+        "POINT_Y": 585642.161827028,
+        "ADDRESS": "18650 NW 62ND AVE",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.94315,
+        "TYPE": "T",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.30520778838032,
+          25.732703273921988
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3040230720010",
+        "CAPACITY": 0,
+        "NAME": "Florida Vocational Institute Corp",
+        "EDIT_DATE": "2011/07/07",
+        "LON": -80.30521,
+        "ZIPCODE": 33155,
+        "PHONE": "305-665-1911",
+        "POINT_X": 884888.792276763,
+        "POINT_Y": 509143.980379783,
+        "ADDRESS": "6840 BIRD RD",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.7327,
+        "TYPE": "C",
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.32254790024919,
+          25.772558381854008
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3040030430010",
+        "CAPACITY": 0,
+        "NAME": "Technical Career Institute",
+        "EDIT_DATE": "2011/07/11",
+        "LON": -80.32255,
+        "ZIPCODE": 33144,
+        "PHONE": "305-261-5511",
+        "POINT_X": 879105.9245593731,
+        "POINT_Y": 523600.000617251,
+        "ADDRESS": "7757 W FLAGLER ST",
+        "CAP_DESC": "Enrollment",
+        "LAT": 25.77256,
+        "TYPE": "C",
+        "CAMPUS": null,
+        "UNIT": "Suite 230",
+        "EDITOR_NAM": "amesa"
+      }
+    }
+  ]
+}

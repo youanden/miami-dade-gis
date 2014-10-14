@@ -1,0 +1,3485 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.39344398164013,
+          25.50193502786964
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Homestead",
+        "FOLIO": "3079010000280",
+        "CAPACITY": 0,
+        "NAME": "School for Integrated Academics &amp; Technologies (SIAtech) Main",
+        "EDIT_DATE": "2011/03/21",
+        "GRADE": "S",
+        "LON": -80.39344,
+        "ZIPCODE": 33033,
+        "ID": "7030",
+        "PHONE": "305-258-9477",
+        "POINT_X": 856225.056698065,
+        "POINT_Y": 425128.199437544,
+        "ADDRESS": "12350 SW 285TH ST",
+        "LAT": 25.50194,
+        "ENROLLMNT": 429,
+        "CAMPUS": "Main Campus",
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.12341652448379,
+          25.8713406138583
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami Beach",
+        "FOLIO": "0232020050170",
+        "CAPACITY": 0,
+        "NAME": "Mater Beach Academy",
+        "EDIT_DATE": "2011/03/21",
+        "GRADE": "K8",
+        "LON": -80.12342,
+        "ZIPCODE": 33141,
+        "ID": "5047",
+        "PHONE": "305-669-2906",
+        "POINT_X": 944400.604940187,
+        "POINT_Y": 559891.144843049,
+        "ADDRESS": "8625 BYRON AVE",
+        "LAT": 25.87134,
+        "ENROLLMNT": 265,
+        "CAMPUS": "Miami Beach",
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36058048521103,
+          25.883490434505564
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Hialeah Gardens",
+        "FOLIO": "2720320020021",
+        "CAPACITY": 0,
+        "NAME": "Youth Co-Op Charter School",
+        "EDIT_DATE": "2011/03/21",
+        "GRADE": "K8",
+        "LON": -80.36058,
+        "ZIPCODE": 33018,
+        "ID": "1020",
+        "PHONE": "305-819-8855",
+        "POINT_X": 866393.5950755359,
+        "POINT_Y": 563856.941454738,
+        "ADDRESS": "12051 W OKEECHOBEE RD",
+        "LAT": 25.88349,
+        "ENROLLMNT": 519,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.21332553137047,
+          25.858338205404454
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3031020310010",
+        "CAPACITY": 0,
+        "NAME": "Early Beginnings Academy North Shore",
+        "EDIT_DATE": "2011/03/21",
+        "GRADE": "E",
+        "LON": -80.21333,
+        "ZIPCODE": 33150,
+        "ID": "4070",
+        "PHONE": "305-835-9006",
+        "POINT_X": 914864.244720679,
+        "POINT_Y": 554977.896326475,
+        "ADDRESS": "985 NW 91ST ST",
+        "LAT": 25.85834,
+        "ENROLLMNT": 50,
+        "CAMPUS": "North Shore",
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.24513209256688,
+          25.896346502270887
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Opa-Locka",
+        "FOLIO": "0821280120010",
+        "CAPACITY": 0,
+        "NAME": "Florida International Academy",
+        "EDIT_DATE": "2013/06/07",
+        "GRADE": "M",
+        "LON": -80.24513,
+        "ZIPCODE": 33054,
+        "ID": "6010",
+        "PHONE": "305-758-6912",
+        "POINT_X": 904324.842470862,
+        "POINT_Y": 568731.361427285,
+        "ADDRESS": "13400 NW 28TH AVE",
+        "LAT": 25.89635,
+        "ENROLLMNT": 351,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.21815337887215,
+          25.788058704968737
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0131350640010",
+        "CAPACITY": 0,
+        "NAME": "Early Beginnings Academy Civic Center",
+        "EDIT_DATE": "2011/03/21",
+        "GRADE": "E",
+        "LON": -80.21815,
+        "ZIPCODE": 33125,
+        "ID": "4070",
+        "PHONE": "305-325-1080",
+        "POINT_X": 913428.39371134,
+        "POINT_Y": 529424.078958675,
+        "ADDRESS": "1411 NW 14TH AVE",
+        "LAT": 25.78806,
+        "ENROLLMNT": 146,
+        "CAMPUS": "Civic Center",
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2019213564398,
+          25.791444487238884
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0131360620040",
+        "CAPACITY": 0,
+        "NAME": "The Theodore R.  and Thelma A. Gibson Charter School",
+        "EDIT_DATE": "2011/03/21",
+        "GRADE": "K8",
+        "LON": -80.20192,
+        "ZIPCODE": 33136,
+        "ID": "2060",
+        "PHONE": "305 438-0895",
+        "POINT_X": 918762.1946763061,
+        "POINT_Y": 530686.73905585,
+        "ADDRESS": "1698 NW 4TH AVE",
+        "LAT": 25.79144,
+        "ENROLLMNT": 178,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37657622879917,
+          25.798243166317192
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Doral",
+        "FOLIO": "3530300420010",
+        "CAPACITY": 0,
+        "NAME": "Doral Academy Charter Middle School",
+        "EDIT_DATE": "2012/05/17",
+        "GRADE": "M",
+        "LON": -80.37658,
+        "ZIPCODE": 33172,
+        "ID": "6030",
+        "PHONE": "305-591-0020",
+        "POINT_X": 861281.3713267749,
+        "POINT_Y": 532847.5807858619,
+        "ADDRESS": "2601 NW 112TH AVE",
+        "LAT": 25.79824,
+        "ENROLLMNT": 1240,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "ssill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.32584989467979,
+          25.868119507283566
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Hialeah Gardens",
+        "FOLIO": "2730030010020",
+        "CAPACITY": 0,
+        "NAME": "Mater Academy Charter High School",
+        "EDIT_DATE": "2012/05/17",
+        "GRADE": "S",
+        "LON": -80.32585,
+        "ZIPCODE": 33016,
+        "ID": "7160",
+        "PHONE": "305-828-1886",
+        "POINT_X": 877841.251022197,
+        "POINT_Y": 558327.291529588,
+        "ADDRESS": "7901 NW 103RD ST",
+        "LAT": 25.86812,
+        "ENROLLMNT": 1320,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "ssill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.32593381106352,
+          25.86812389410686
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Hialeah Gardens",
+        "FOLIO": "2730030010020",
+        "CAPACITY": 0,
+        "NAME": "Mater Academy Charter Middle School",
+        "EDIT_DATE": "2012/05/17",
+        "GRADE": "M",
+        "LON": -80.32593,
+        "ZIPCODE": 33016,
+        "ID": "6012",
+        "PHONE": "305-828-1886",
+        "POINT_X": 877813.64859017,
+        "POINT_Y": 558328.744329594,
+        "ADDRESS": "7901 NW 103RD ST",
+        "LAT": 25.86812,
+        "ENROLLMNT": 1451,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "ssill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19433760352074,
+          25.794940987819764
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0131360020340",
+        "CAPACITY": 0,
+        "NAME": "ASPIRA Eugenio Maria de Hustos Youth Leadership",
+        "EDIT_DATE": "2012/05/17",
+        "GRADE": "M",
+        "LON": -80.19434,
+        "ZIPCODE": 33132,
+        "ID": "6070",
+        "PHONE": "305-576-1512",
+        "POINT_X": 921249.8383266261,
+        "POINT_Y": 531972.8003690471,
+        "ADDRESS": "1 NE 19TH ST",
+        "LAT": 25.79494,
+        "ENROLLMNT": 467,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "ssill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.46735394576187,
+          25.474866780388844
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Homestead",
+        "FOLIO": "1079180000017",
+        "CAPACITY": 0,
+        "NAME": "Mavericks High of South Miami Dade County",
+        "EDIT_DATE": "2012/05/17",
+        "GRADE": "S",
+        "LON": -80.46735,
+        "ZIPCODE": 33030,
+        "ID": "7065",
+        "PHONE": "305-909-6307",
+        "POINT_X": 831886.4557153991,
+        "POINT_Y": 415186.170116283,
+        "ADDRESS": "698 N HOMESTEAD BLVD",
+        "LAT": 25.47487,
+        "ENROLLMNT": 338,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "ssill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.23642867857906,
+          25.76501059778568
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0141100620010",
+        "CAPACITY": 0,
+        "NAME": "International Studies Charter Middle School",
+        "EDIT_DATE": "2012/05/17",
+        "GRADE": "M",
+        "LON": -80.23643,
+        "ZIPCODE": 33135,
+        "ID": "6045",
+        "PHONE": "305-643-2955",
+        "POINT_X": 907463.346921787,
+        "POINT_Y": 521011.623782836,
+        "ADDRESS": "2480 SW 8TH ST",
+        "LAT": 25.76501,
+        "ENROLLMNT": 223,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "ssill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2891199977813,
+          25.70769256667904
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "South Miami",
+        "FOLIO": "0940250281400",
+        "CAPACITY": 0,
+        "NAME": "Somerset Academy Middle Charter School",
+        "EDIT_DATE": "2012/05/17",
+        "GRADE": "M",
+        "LON": -80.28912,
+        "ZIPCODE": 33143,
+        "ID": "6053",
+        "PHONE": "305-740-0509",
+        "POINT_X": 890233.9302017391,
+        "POINT_Y": 500081.819475345,
+        "ADDRESS": "5876 SW 68TH ST",
+        "LAT": 25.70769,
+        "ENROLLMNT": 153,
+        "CAMPUS": "South Miami",
+        "UNIT": null,
+        "EDITOR_NAM": "ssill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.28957875111716,
+          25.707691783342685
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "South Miami",
+        "FOLIO": "0940250281400",
+        "CAPACITY": 0,
+        "NAME": "Integrated Science And Asian Culture (ISAAC) Academy",
+        "EDIT_DATE": "2012/05/17",
+        "GRADE": "K8",
+        "LON": -80.28958,
+        "ZIPCODE": 33143,
+        "ID": "2004",
+        "PHONE": "305 740-0509",
+        "POINT_X": 890082.875865597,
+        "POINT_Y": 500080.72200334806,
+        "ADDRESS": "5876 SW 68TH ST",
+        "LAT": 25.70769,
+        "ENROLLMNT": 477,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "ssill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.35501906244541,
+          25.898244223386854
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Hialeah",
+        "FOLIO": "0420280930020",
+        "CAPACITY": 0,
+        "NAME": "Lincoln-Marti Charter Schools Hialeah",
+        "EDIT_DATE": "2012/05/17",
+        "GRADE": "K8",
+        "LON": -80.35502,
+        "ZIPCODE": 33018,
+        "ID": "5007",
+        "PHONE": "305-827-8080",
+        "POINT_X": 868195.754949216,
+        "POINT_Y": 569228.366227746,
+        "ADDRESS": "3500 W 84TH ST",
+        "LAT": 25.89824,
+        "ENROLLMNT": 339,
+        "CAMPUS": "Hialeah",
+        "UNIT": null,
+        "EDITOR_NAM": "ssill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2108294482033,
+          25.773177845831984
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0141380031110",
+        "CAPACITY": 0,
+        "NAME": "Lincoln-Marti Charter Schools Little Havana",
+        "EDIT_DATE": "2012/05/17",
+        "GRADE": "K8",
+        "LON": -80.21083,
+        "ZIPCODE": 33130,
+        "ID": "5025",
+        "PHONE": "305-325-1001",
+        "POINT_X": 915870.785009615,
+        "POINT_Y": 524029.765225649,
+        "ADDRESS": "970 W FLAGLER ST",
+        "LAT": 25.77318,
+        "ENROLLMNT": 667,
+        "CAMPUS": "Little Havana",
+        "UNIT": null,
+        "EDITOR_NAM": "ssill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1896037589243,
+          25.813880384181118
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0132190260010",
+        "CAPACITY": 0,
+        "NAME": "Miami Arts Charter School",
+        "EDIT_DATE": "2012/05/17",
+        "GRADE": "MS",
+        "LON": -80.1896,
+        "ZIPCODE": 33137,
+        "ID": "7059",
+        "PHONE": "305-763-6257",
+        "POINT_X": 922765.0705840371,
+        "POINT_Y": 538866.233719468,
+        "ADDRESS": "3900 BISCAYNE BLVD",
+        "LAT": 25.81388,
+        "ENROLLMNT": 647,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "ssill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.48719157542197,
+          25.447333441638083
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Florida City",
+        "FOLIO": "1678250000360",
+        "CAPACITY": 0,
+        "NAME": "Lawrence Academy Middle School",
+        "EDIT_DATE": "2013/06/10",
+        "GRADE": "M",
+        "LON": -80.48719,
+        "ZIPCODE": 33034,
+        "ID": "6008",
+        "PHONE": "305-247-4800",
+        "POINT_X": 825380.417437337,
+        "POINT_Y": 405153.828858934,
+        "ADDRESS": "777 W PALM DR",
+        "LAT": 25.44733,
+        "ENROLLMNT": 128,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37862367835717,
+          25.5419321334357
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3060190091860",
+        "CAPACITY": 0,
+        "NAME": "Summerville Advantage Academy",
+        "EDIT_DATE": "2011/03/21",
+        "GRADE": "K8",
+        "LON": -80.37862,
+        "ZIPCODE": 33032,
+        "ID": "0072",
+        "PHONE": "305-253-2123",
+        "POINT_X": 861045.380798556,
+        "POINT_Y": 439687.509531103,
+        "ADDRESS": "11575 SW 243RD ST",
+        "LAT": 25.54193,
+        "ENROLLMNT": 550,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.25255557072602,
+          25.779407813542203
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0131330490030",
+        "CAPACITY": 0,
+        "NAME": "Green Springs High Scool",
+        "EDIT_DATE": "2013/06/07",
+        "GRADE": "S",
+        "LON": -80.25256,
+        "ZIPCODE": 33125,
+        "ID": "7067",
+        "PHONE": "305-720-2996",
+        "POINT_X": 902126.000100814,
+        "POINT_Y": 526214.0624436811,
+        "ADDRESS": "3555 NW 7TH ST",
+        "LAT": 25.77941,
+        "ENROLLMNT": 342,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.20952419349948,
+          25.80653035171566
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0131260250010",
+        "CAPACITY": 0,
+        "NAME": "Mater Acad. Middle School of International Studies",
+        "EDIT_DATE": "2011/03/21",
+        "GRADE": "M",
+        "LON": -80.20952,
+        "ZIPCODE": 33127,
+        "ID": "6047",
+        "PHONE": "305-634-0445",
+        "POINT_X": 916227.5724659491,
+        "POINT_Y": 536154.86450094,
+        "ADDRESS": "795 NW 32ND ST",
+        "LAT": 25.80653,
+        "ENROLLMNT": 114,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17652959687626,
+          25.78470569391063
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0132310000012",
+        "CAPACITY": 0,
+        "NAME": "Miami Children's  Museum Charter School",
+        "EDIT_DATE": "2011/03/21",
+        "GRADE": "E",
+        "LON": -80.17653,
+        "ZIPCODE": 33132,
+        "ID": "4000",
+        "PHONE": "305-329-3758",
+        "POINT_X": 927132.633596104,
+        "POINT_Y": 528288.845677614,
+        "ADDRESS": "980 MACARTHUR CSWY",
+        "LAT": 25.78471,
+        "ENROLLMNT": 243,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.39484133625064,
+          25.701479144476778
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3049250000620",
+        "CAPACITY": 0,
+        "NAME": "Archimedean  Middle Conservatory",
+        "EDIT_DATE": "2011/03/21",
+        "GRADE": "M",
+        "LON": -80.39484,
+        "ZIPCODE": 33183,
+        "ID": "6006",
+        "PHONE": "305-279-6572",
+        "POINT_X": 855433.150649328,
+        "POINT_Y": 497650.099793084,
+        "ADDRESS": "12425 SW 72ND ST",
+        "LAT": 25.70148,
+        "ENROLLMNT": 262,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.32347263054831,
+          25.862013148972444
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Hialeah Gardens",
+        "FOLIO": "2730030010630",
+        "CAPACITY": 0,
+        "NAME": "Mater Academy",
+        "EDIT_DATE": "2013/06/10",
+        "GRADE": "E",
+        "LON": -80.32347,
+        "ZIPCODE": 33016,
+        "ID": "0100",
+        "PHONE": "305-698-9900",
+        "POINT_X": 878634.4007189351,
+        "POINT_Y": 556111.866759531,
+        "ADDRESS": "7700 NW 98TH ST",
+        "LAT": 25.86201,
+        "ENROLLMNT": 738,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37429065941289,
+          25.66511317708781
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0232100120080",
+        "CAPACITY": 0,
+        "NAME": "Ben Gamla Charter School",
+        "EDIT_DATE": "2013/06/10",
+        "GRADE": "K8",
+        "LON": -80.37429,
+        "ZIPCODE": 33176,
+        "ID": "5022",
+        "PHONE": "305-596-6266",
+        "POINT_X": 862262.79827169,
+        "POINT_Y": 484464.292164803,
+        "ADDRESS": "11155 SW 112TH AVE",
+        "LAT": 25.66511,
+        "ENROLLMNT": 159,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.49398261835063,
+          25.440242943053068
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Florida City",
+        "FOLIO": "1679300010425",
+        "CAPACITY": 0,
+        "NAME": "Miami Community Charter Senior High",
+        "EDIT_DATE": "2013/06/10",
+        "GRADE": "S",
+        "LON": -80.49398,
+        "ZIPCODE": 33034,
+        "ID": "7058",
+        "PHONE": "305-245-2552",
+        "POINT_X": 823149.286555261,
+        "POINT_Y": 402568.319480531,
+        "ADDRESS": "18720 SW 352ND ST",
+        "LAT": 25.44024,
+        "ENROLLMNT": 87,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.39501649783944,
+          25.701537796019426
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3049250000620",
+        "CAPACITY": 0,
+        "NAME": "Archimedean Upper Conservatory",
+        "EDIT_DATE": "2011/03/21",
+        "GRADE": "S",
+        "LON": -80.39502,
+        "ZIPCODE": 33183,
+        "ID": "7265",
+        "PHONE": "305-279-6572",
+        "POINT_X": 855375.374521274,
+        "POINT_Y": 497671.1527211,
+        "ADDRESS": "12425 SW 72ND ST",
+        "LAT": 25.70154,
+        "ENROLLMNT": 125,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19930924984361,
+          25.777328040947648
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0101070501091",
+        "CAPACITY": 0,
+        "NAME": "Downtown Miami Charter School",
+        "EDIT_DATE": "2011/03/21",
+        "GRADE": "E",
+        "LON": -80.19931,
+        "ZIPCODE": 33128,
+        "ID": "3600",
+        "PHONE": "305-579-2112",
+        "POINT_X": 919652.894709136,
+        "POINT_Y": 525561.095019072,
+        "ADDRESS": "305 NW 3RD AVE",
+        "LAT": 25.77733,
+        "ENROLLMNT": 633,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.20195164061057,
+          25.769761047871757
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0102020901090",
+        "CAPACITY": 0,
+        "NAME": "Mater Academy East Charter School",
+        "EDIT_DATE": "2011/03/21",
+        "GRADE": "E",
+        "LON": -80.20195,
+        "ZIPCODE": 33130,
+        "ID": "3100",
+        "PHONE": "305-324-4667",
+        "POINT_X": 918799.9764363429,
+        "POINT_Y": 522805.47184851,
+        "ADDRESS": "450 SW 4TH ST",
+        "LAT": 25.76976,
+        "ENROLLMNT": 535,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.43485638063848,
+          25.451173723263537
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Homestead",
+        "FOLIO": "1079210010235",
+        "CAPACITY": 0,
+        "NAME": "Keys Gate Charter School",
+        "EDIT_DATE": "2011/03/21",
+        "GRADE": "K8",
+        "LON": -80.43486,
+        "ZIPCODE": 33035,
+        "ID": "3610",
+        "PHONE": "305-230-1616",
+        "POINT_X": 842644.125357416,
+        "POINT_Y": 406619.34361230605,
+        "ADDRESS": "2000 SE 28TH AVE",
+        "LAT": 25.45117,
+        "ENROLLMNT": 1530,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3947223568395,
+          25.70148724940824
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3049250000620",
+        "CAPACITY": 0,
+        "NAME": "Archimedean Academy",
+        "EDIT_DATE": "2011/03/21",
+        "GRADE": "E",
+        "LON": -80.39472,
+        "ZIPCODE": 33183,
+        "ID": "0510",
+        "PHONE": "305-279-6572",
+        "POINT_X": 855472.315577366,
+        "POINT_Y": 497653.22504108405,
+        "ADDRESS": "12425 SW 72ND ST",
+        "LAT": 25.70149,
+        "ENROLLMNT": 406,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.43641237244115,
+          25.729095035843716
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3049160520010",
+        "CAPACITY": 0,
+        "NAME": "Pinecrest Preparatory Academy Charter High School",
+        "EDIT_DATE": "2012/05/17",
+        "GRADE": "S",
+        "LON": -80.43641,
+        "ZIPCODE": 33185,
+        "ID": "7053",
+        "PHONE": "305 559-8583",
+        "POINT_X": 841701.523372539,
+        "POINT_Y": 507626.60949837306,
+        "ADDRESS": "14901 SW 42ND ST",
+        "LAT": 25.7291,
+        "ENROLLMNT": 225,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "ssill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.43651460299394,
+          25.72909090434294
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3049160520010",
+        "CAPACITY": 0,
+        "NAME": "Pinecrest Academy Charter Middle School",
+        "EDIT_DATE": "2012/05/17",
+        "GRADE": "M",
+        "LON": -80.43651,
+        "ZIPCODE": 33185,
+        "ID": "6022",
+        "PHONE": "305-559-8583",
+        "POINT_X": 841667.874476507,
+        "POINT_Y": 507624.96418637,
+        "ADDRESS": "14901 SW 42ND ST",
+        "LAT": 25.72909,
+        "ENROLLMNT": 769,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "ssill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.28934123049547,
+          25.707683664693878
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "South Miami",
+        "FOLIO": "0940250281400",
+        "CAPACITY": 0,
+        "NAME": "Somerset Academy Elementary School",
+        "EDIT_DATE": "2012/05/17",
+        "GRADE": "E",
+        "LON": -80.28934,
+        "ZIPCODE": 33143,
+        "ID": "2007",
+        "PHONE": "305-740-0509",
+        "POINT_X": 890161.101273671,
+        "POINT_Y": 500078.191955343,
+        "ADDRESS": "5876 SW 68TH ST",
+        "LAT": 25.70768,
+        "ENROLLMNT": 455,
+        "CAMPUS": "South Miami",
+        "UNIT": null,
+        "EDITOR_NAM": "ssill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.40580690317235,
+          25.4989845356745
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3079020030010",
+        "CAPACITY": 0,
+        "NAME": "ASPIRA South Youth Leadership Charter School",
+        "EDIT_DATE": "2012/05/17",
+        "GRADE": "M",
+        "LON": -80.40581,
+        "ZIPCODE": 33033,
+        "ID": "6060",
+        "PHONE": "305-246-1111",
+        "POINT_X": 852152.128950272,
+        "POINT_Y": 424037.466636524,
+        "ADDRESS": "13330 SW 288TH ST",
+        "LAT": 25.49898,
+        "ENROLLMNT": 297,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "ssill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.34470657034637,
+          25.9310508095668
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3020090010530",
+        "CAPACITY": 0,
+        "NAME": "Mater Academy Lakes Senior High",
+        "EDIT_DATE": "2012/05/17",
+        "GRADE": "S",
+        "LON": -80.34471,
+        "ZIPCODE": 33015,
+        "ID": "7018",
+        "PHONE": "305-512-3917",
+        "POINT_X": 871526.340552315,
+        "POINT_Y": 581169.249950863,
+        "ADDRESS": "17300 NW 87TH AVE",
+        "LAT": 25.93105,
+        "ENROLLMNT": 988,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "ssill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.21117411637212,
+          25.772138472512694
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0141020020390",
+        "CAPACITY": 0,
+        "NAME": "Mater East Academy Middle School",
+        "EDIT_DATE": "2011/03/21",
+        "GRADE": "MS",
+        "LON": -80.21117,
+        "ZIPCODE": 33130,
+        "ID": "6009",
+        "PHONE": "305-324-6963",
+        "POINT_X": 915759.617009513,
+        "POINT_Y": 523651.3094173,
+        "ADDRESS": "998 SW 1ST ST",
+        "LAT": 25.77214,
+        "ENROLLMNT": 327,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.365880913807,
+          25.567519542415592
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3060070290010",
+        "CAPACITY": 0,
+        "NAME": "Coral Reef  Montessori Academy Charter School",
+        "EDIT_DATE": "2011/03/21",
+        "GRADE": "K8",
+        "LON": -80.36588,
+        "ZIPCODE": 33170,
+        "ID": "0070",
+        "PHONE": "305-255-0064",
+        "POINT_X": 865202.601666428,
+        "POINT_Y": 449007.03593978303,
+        "ADDRESS": "10853 SW 216TH ST",
+        "LAT": 25.56752,
+        "ENROLLMNT": 401,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.23643015563555,
+          25.765010605534087
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0141100620010",
+        "CAPACITY": 0,
+        "NAME": "International Studies Charter High School",
+        "EDIT_DATE": "2011/03/21",
+        "GRADE": "S",
+        "LON": -80.23643,
+        "ZIPCODE": 33135,
+        "ID": "7007",
+        "PHONE": "305-643-2955",
+        "POINT_X": 907462.860777784,
+        "POINT_Y": 521011.623782836,
+        "ADDRESS": "2480 SW 8TH ST",
+        "LAT": 25.76501,
+        "ENROLLMNT": 352,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.39865291220045,
+          25.721031860135362
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3049240012090",
+        "CAPACITY": 0,
+        "NAME": "Bridgepoint Academy of Village Green",
+        "EDIT_DATE": "2013/06/07",
+        "GRADE": "K8",
+        "LON": -80.39865,
+        "ZIPCODE": 33175,
+        "ID": "3034",
+        "PHONE": "786-477-4380",
+        "POINT_X": 854145.6874801291,
+        "POINT_Y": 504750.874967694,
+        "ADDRESS": "4707 SW 127TH AVE",
+        "LAT": 25.72103,
+        "ENROLLMNT": 122,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37508672193681,
+          25.798248478163572
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Doral",
+        "FOLIO": "3530300050010",
+        "CAPACITY": 0,
+        "NAME": "Doral Academy High School",
+        "EDIT_DATE": "2013/06/07",
+        "GRADE": "S",
+        "LON": -80.37509,
+        "ZIPCODE": 33172,
+        "ID": "7020",
+        "PHONE": "305-597-9950",
+        "POINT_X": 861771.4418552291,
+        "POINT_Y": 532851.834993869,
+        "ADDRESS": "11100 NW 27TH ST",
+        "LAT": 25.79825,
+        "ENROLLMNT": 972,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37476799540987,
+          25.66577689479142
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3050070690010",
+        "CAPACITY": 0,
+        "NAME": "Oxford Academy of Miami",
+        "EDIT_DATE": "2013/06/10",
+        "GRADE": "K8",
+        "LON": -80.37477,
+        "ZIPCODE": 33176,
+        "ID": "5010",
+        "PHONE": "305-598-4494",
+        "POINT_X": 862104.429247539,
+        "POINT_Y": 484704.778565027,
+        "ADDRESS": "10870 SW 113TH PL",
+        "LAT": 25.66578,
+        "ENROLLMNT": 223,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.41886399051573,
+          25.47901940831855
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Homestead",
+        "FOLIO": "1079100000095",
+        "CAPACITY": 0,
+        "NAME": "Advantage Academy of Math and Science at Waterstone",
+        "EDIT_DATE": "2013/06/10",
+        "GRADE": "K8",
+        "LON": -80.41886,
+        "ZIPCODE": 33033,
+        "ID": "3027",
+        "PHONE": "305-248-6206",
+        "POINT_X": 847877.027506292,
+        "POINT_Y": 416762.285573751,
+        "ADDRESS": "855 WATERSTONE WAY",
+        "LAT": 25.47902,
+        "ENROLLMNT": 107,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.26708793219171,
+          25.741631613375773
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Coral Gables",
+        "FOLIO": "0341170040150",
+        "CAPACITY": 0,
+        "NAME": "Somerset Gables Academy",
+        "EDIT_DATE": "2013/06/07",
+        "GRADE": "K8",
+        "LON": -80.26709,
+        "ZIPCODE": 33134,
+        "ID": "5008",
+        "PHONE": "305-442-8626",
+        "POINT_X": 897420.05014443,
+        "POINT_Y": 512456.971614875,
+        "ADDRESS": "624 ANASTASIA AVE",
+        "LAT": 25.74163,
+        "ENROLLMNT": 75,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37788311334435,
+          25.551070303889993
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3060190133545",
+        "CAPACITY": 0,
+        "NAME": "Somerset Academy Silver Palms",
+        "EDIT_DATE": "2013/06/10",
+        "GRADE": "K8",
+        "LON": -80.37788,
+        "ZIPCODE": 33032,
+        "ID": "0332",
+        "PHONE": "305-257-3737",
+        "POINT_X": 861274.012094766,
+        "POINT_Y": 443009.88777419203,
+        "ADDRESS": "23255 SW 115TH AVE",
+        "LAT": 25.55107,
+        "ENROLLMNT": 947,
+        "CAMPUS": "Silver Palms",
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.29734643451967,
+          25.92916118222783
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3020120470001",
+        "CAPACITY": 0,
+        "NAME": "Advanced Learning Charter School",
+        "EDIT_DATE": "2013/06/07",
+        "GRADE": "E",
+        "LON": -80.29735,
+        "ZIPCODE": 33015,
+        "ID": "1014",
+        "PHONE": "305-231-4888",
+        "POINT_X": 887095.219926816,
+        "POINT_Y": 580563.0918703009,
+        "ADDRESS": "5855 NW 171ST ST",
+        "LAT": 25.92916,
+        "ENROLLMNT": 437,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.35344838583443,
+          25.79622462338988
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Doral",
+        "FOLIO": "3530320240010",
+        "CAPACITY": 0,
+        "NAME": "Just Arts and Management (JAM) Charter Middle",
+        "EDIT_DATE": "2013/06/07",
+        "GRADE": "M",
+        "LON": -80.35345,
+        "ZIPCODE": 33172,
+        "ID": "6083",
+        "PHONE": "305-597-9999",
+        "POINT_X": 868894.540485866,
+        "POINT_Y": 532150.625393212,
+        "ADDRESS": "2450 NW 97th AVE",
+        "LAT": 25.79622,
+        "ENROLLMNT": 0,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.41886414224228,
+          25.47901916238731
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Homestead",
+        "FOLIO": "1079100000095",
+        "CAPACITY": 0,
+        "NAME": "The Charter School at Waterstone",
+        "EDIT_DATE": "2013/06/10",
+        "GRADE": "K8",
+        "LON": -80.41886,
+        "ZIPCODE": 33033,
+        "ID": "1010",
+        "PHONE": "305-248-6206",
+        "POINT_X": 847876.97784229,
+        "POINT_Y": 416762.195973746,
+        "ADDRESS": "855 WATERSTONE WAY",
+        "LAT": 25.47902,
+        "ENROLLMNT": 1042,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.43717779412177,
+          25.690942159231074
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3049330020021",
+        "CAPACITY": 0,
+        "NAME": "Pinecrest Academy South Charter School",
+        "EDIT_DATE": "2011/03/21",
+        "GRADE": "E",
+        "LON": -80.43718,
+        "ZIPCODE": 33193,
+        "ID": "0342",
+        "PHONE": "305-386-0800",
+        "POINT_X": 841508.63300436,
+        "POINT_Y": 493758.792781457,
+        "ADDRESS": "15130 SW 80TH ST",
+        "LAT": 25.69094,
+        "ENROLLMNT": 750,
+        "CAMPUS": "South",
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.24492610496692,
+          25.738641298440147
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0141160360010",
+        "CAPACITY": 0,
+        "NAME": "Mater Brickell Preparatory Academy",
+        "EDIT_DATE": "2013/06/10",
+        "GRADE": "K8",
+        "LON": -80.24493,
+        "ZIPCODE": 33133,
+        "ID": "5046",
+        "PHONE": "305-442-4992",
+        "POINT_X": 904721.5623432321,
+        "POINT_Y": 511411.249757901,
+        "ADDRESS": "2805 SW 32ND AVENUE",
+        "LAT": 25.73864,
+        "ENROLLMNT": 19,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2095478267605,
+          25.80652824326346
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0131260250010",
+        "CAPACITY": 0,
+        "NAME": "Mater Academy of International Studies",
+        "EDIT_DATE": "2013/06/10",
+        "GRADE": "E",
+        "LON": -80.20955,
+        "ZIPCODE": 33127,
+        "ID": "1017",
+        "PHONE": "305-634-0445",
+        "POINT_X": 916219.801585939,
+        "POINT_Y": 536154.05144494,
+        "ADDRESS": "795 NW 32ND ST",
+        "LAT": 25.80653,
+        "ENROLLMNT": 452,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.35526460037183,
+          25.899939452578415
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Hialeah",
+        "FOLIO": "0420270010340",
+        "CAPACITY": 0,
+        "NAME": "South Florida Autism Charter School",
+        "EDIT_DATE": "2013/06/10",
+        "GRADE": "ES",
+        "LON": -80.35526,
+        "ZIPCODE": 33018,
+        "ID": "1070",
+        "PHONE": "305-823-2700",
+        "POINT_X": 868112.006853137,
+        "POINT_Y": 569844.12558832,
+        "ADDRESS": "13835 NW 97TH AVE",
+        "LAT": 25.89994,
+        "ENROLLMNT": 98,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37766989589208,
+          25.5507412626759
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Homestead",
+        "FOLIO": "3060190133545",
+        "CAPACITY": 0,
+        "NAME": "Somerset Academy High School",
+        "EDIT_DATE": "2012/05/17",
+        "GRADE": "S",
+        "LON": -80.37767,
+        "ZIPCODE": 33032,
+        "ID": "7042",
+        "PHONE": "305-257-3737",
+        "POINT_X": 861344.870334834,
+        "POINT_Y": 442890.628126083,
+        "ADDRESS": "23255 SW 115TH AVE",
+        "LAT": 25.55074,
+        "ENROLLMNT": 282,
+        "CAMPUS": "South",
+        "UNIT": null,
+        "EDITOR_NAM": "ssill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.35347755698689,
+          25.79626683961647
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Doral",
+        "FOLIO": "3530320020010",
+        "CAPACITY": 0,
+        "NAME": "Doral  Academy",
+        "EDIT_DATE": "2012/05/17",
+        "GRADE": "E",
+        "LON": -80.35348,
+        "ZIPCODE": 33172,
+        "ID": "3030",
+        "PHONE": "305-597-9999",
+        "POINT_X": 868884.867013856,
+        "POINT_Y": 532165.9221612271,
+        "ADDRESS": "2450 NW 97TH AVE",
+        "LAT": 25.79627,
+        "ENROLLMNT": 771,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "ssill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37862292198098,
+          25.54193080883181
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Homestead",
+        "FOLIO": "3060190091860",
+        "CAPACITY": 0,
+        "NAME": "Advantage Academy of Math and Science at Summerville",
+        "EDIT_DATE": "2012/05/17",
+        "GRADE": "K8",
+        "LON": -80.37862,
+        "ZIPCODE": 33032,
+        "ID": "3026",
+        "PHONE": "305-253-2123",
+        "POINT_X": 861045.632446555,
+        "POINT_Y": 439687.029275099,
+        "ADDRESS": "11575 SW 243RD ST",
+        "LAT": 25.54193,
+        "ENROLLMNT": 76,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "ssill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.29419191446887,
+          25.839381829614794
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Hialeah",
+        "FOLIO": "0430130340060",
+        "CAPACITY": 0,
+        "NAME": "Excelsior Language Academy of Hialeah",
+        "EDIT_DATE": "2012/05/18",
+        "GRADE": "K8",
+        "LON": -80.29419,
+        "ZIPCODE": 33010,
+        "ID": "5029",
+        "PHONE": "305-883-8359",
+        "POINT_X": 888307.487703945,
+        "POINT_Y": 547936.8377599149,
+        "ADDRESS": "600 W 20TH ST",
+        "LAT": 25.83938,
+        "ENROLLMNT": 576,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "ssill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.20952677963928,
+          25.806527343508794
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0141020020390",
+        "CAPACITY": 0,
+        "NAME": "Mater Academy High School  of International Studies",
+        "EDIT_DATE": "2013/06/10",
+        "GRADE": "S",
+        "LON": -80.20953,
+        "ZIPCODE": 33127,
+        "ID": "7024",
+        "PHONE": "305-634-0445",
+        "POINT_X": 916226.728177946,
+        "POINT_Y": 536153.766004942,
+        "ADDRESS": "795 NW 32ND ST",
+        "LAT": 25.80653,
+        "ENROLLMNT": 99,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37766989589208,
+          25.5507412626759
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Homestead",
+        "FOLIO": "3060190133545",
+        "CAPACITY": 0,
+        "NAME": "Somerset Academy Charter High School South",
+        "EDIT_DATE": "2012/05/18",
+        "GRADE": "S",
+        "LON": -80.37767,
+        "ZIPCODE": 33032,
+        "ID": "7038",
+        "PHONE": "305-257-3737",
+        "POINT_X": 861344.870334834,
+        "POINT_Y": 442890.628126085,
+        "ADDRESS": "23255 SW 115TH AVE",
+        "LAT": 25.55074,
+        "ENROLLMNT": 17,
+        "CAMPUS": "South",
+        "UNIT": null,
+        "EDITOR_NAM": "ssill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.13498096881534,
+          25.949985160320193
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Aventura",
+        "FOLIO": "2822030000290",
+        "CAPACITY": 0,
+        "NAME": "Aventura City of Excellence School",
+        "EDIT_DATE": "2011/03/21",
+        "GRADE": "K8",
+        "LON": -80.13498,
+        "ZIPCODE": 33180,
+        "ID": "0950",
+        "PHONE": "305-466-1499",
+        "POINT_X": 940409.262856468,
+        "POINT_Y": 588451.3965176491,
+        "ADDRESS": "3333 NE 188TH ST",
+        "LAT": 25.94999,
+        "ENROLLMNT": 972,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.33220664241078,
+          25.803913000334287
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Doral",
+        "FOLIO": "3530270560010",
+        "CAPACITY": 0,
+        "NAME": "Renaissance Middle Charter School",
+        "EDIT_DATE": "2013/06/07",
+        "GRADE": "M",
+        "LON": -80.33221,
+        "ZIPCODE": 33122,
+        "ID": "6028",
+        "PHONE": "305-728-4622",
+        "POINT_X": 875869.500108361,
+        "POINT_Y": 534979.937139846,
+        "ADDRESS": "8360 NW 33RD ST",
+        "LAT": 25.80391,
+        "ENROLLMNT": 373,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.47504051780817,
+          25.467324353262665
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Homestead",
+        "FOLIO": "1079180081940",
+        "CAPACITY": 0,
+        "NAME": "Somerset Academy Charter Elementary School (SoHo)",
+        "EDIT_DATE": "2011/03/21",
+        "GRADE": "E",
+        "LON": -80.47504,
+        "ZIPCODE": 33030,
+        "ID": "0339",
+        "PHONE": "305-245-6108",
+        "POINT_X": 829361.413793046,
+        "POINT_Y": 412434.892289721,
+        "ADDRESS": "300 SE 1ST DR",
+        "LAT": 25.46732,
+        "ENROLLMNT": 258,
+        "CAMPUS": "South Homestead",
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.21119033280847,
+          25.77238119241534
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0141020020390",
+        "CAPACITY": 0,
+        "NAME": "Sports Leadership Academy of Miami CHS",
+        "EDIT_DATE": "2013/06/10",
+        "GRADE": "S",
+        "LON": -80.21119,
+        "ZIPCODE": 33130,
+        "ID": "7016",
+        "PHONE": "305-324-6963",
+        "POINT_X": 915753.752049506,
+        "POINT_Y": 523739.49783337896,
+        "ADDRESS": "998 SW 1ST ST",
+        "LAT": 25.77238,
+        "ENROLLMNT": 0,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3671338405584,
+          25.79262866730665
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Doral",
+        "FOLIO": "3530320220010",
+        "CAPACITY": 0,
+        "NAME": "Renaissance Elementary Charter School",
+        "EDIT_DATE": "2013/06/10",
+        "GRADE": "E",
+        "LON": -80.36713,
+        "ZIPCODE": 33122,
+        "ID": "0400",
+        "PHONE": "305-591-2225",
+        "POINT_X": 864397.929921676,
+        "POINT_Y": 530821.763183974,
+        "ADDRESS": "10651 NW 19TH ST",
+        "LAT": 25.79263,
+        "ENROLLMNT": 833,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.13827287821404,
+          25.8153664484718
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MiamiI Beach",
+        "FOLIO": "0232220110360",
+        "CAPACITY": 0,
+        "NAME": "Mater Academy at Mount Sinai",
+        "EDIT_DATE": "2013/06/10",
+        "GRADE": "K8",
+        "LON": -80.13827,
+        "ZIPCODE": 33140,
+        "ID": "5054",
+        "PHONE": "305-604-1453",
+        "POINT_X": 939648.773895759,
+        "POINT_Y": 539513.687160067,
+        "ADDRESS": "4300 ALTON RD",
+        "LAT": 25.81537,
+        "ENROLLMNT": 49,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3675196288356,
+          25.714176941100746
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3040300000081",
+        "CAPACITY": 0,
+        "NAME": "Bridgepoint Academy",
+        "EDIT_DATE": "2013/06/07",
+        "GRADE": "E",
+        "LON": -80.36752,
+        "ZIPCODE": 33165,
+        "ID": "2003",
+        "PHONE": "305-271-3109",
+        "POINT_X": 864407.759809688,
+        "POINT_Y": 502307.317333423,
+        "ADDRESS": "10700 SW 56TH ST",
+        "LAT": 25.71418,
+        "ENROLLMNT": 297,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.47836404826302,
+          25.485581500723946
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Homestead",
+        "FOLIO": "3069020261450",
+        "CAPACITY": 0,
+        "NAME": "Somerset Academy Charter Middle School at Country Palms",
+        "EDIT_DATE": "2013/06/10",
+        "GRADE": "M",
+        "LON": -80.47836,
+        "ZIPCODE": 33030,
+        "ID": "6043",
+        "PHONE": "305-246-4949",
+        "POINT_X": 828238.909088001,
+        "POINT_Y": 419065.945095897,
+        "ADDRESS": "47 NW 16TH ST",
+        "LAT": 25.48558,
+        "ENROLLMNT": 115,
+        "CAMPUS": "Country Palms",
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16620495477376,
+          25.92464153917123
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "North Miami Beach",
+        "FOLIO": "0722170160040",
+        "CAPACITY": 0,
+        "NAME": "Mavericks High of North Miami Dade County",
+        "EDIT_DATE": "2011/03/21",
+        "GRADE": "S",
+        "LON": -80.1662,
+        "ZIPCODE": 33162,
+        "ID": "7062",
+        "PHONE": "786- 629-7053",
+        "POINT_X": 930207.3364469671,
+        "POINT_Y": 579173.022621006,
+        "ADDRESS": "16150 NE 17TH AVE",
+        "LAT": 25.92464,
+        "ENROLLMNT": 503,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37503451637767,
+          25.797775724478367
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Doral",
+        "FOLIO": "3530300050010",
+        "CAPACITY": 0,
+        "NAME": "Doral Performing Arts &amp; Entertainment Academy",
+        "EDIT_DATE": "2012/05/17",
+        "GRADE": "S",
+        "LON": -80.37503,
+        "ZIPCODE": 33172,
+        "ID": "7009",
+        "PHONE": "305-597-9950",
+        "POINT_X": 861789.434303247,
+        "POINT_Y": 532680.08996971,
+        "ADDRESS": "11100 NW 27TH ST",
+        "LAT": 25.79778,
+        "ENROLLMNT": 223,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "ssill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.32576593293568,
+          25.868123114376402
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Hialeah Gardens",
+        "FOLIO": "2730030010020",
+        "CAPACITY": 0,
+        "NAME": "Mater Performing Arts &amp; Entertainment Academy",
+        "EDIT_DATE": "2012/05/17",
+        "GRADE": "S",
+        "LON": -80.32577,
+        "ZIPCODE": 33016,
+        "ID": "7014",
+        "PHONE": "305-828-1886",
+        "POINT_X": 877868.8534542209,
+        "POINT_Y": 558328.744329594,
+        "ADDRESS": "7901 NW 103RD ST",
+        "LAT": 25.86812,
+        "ENROLLMNT": 210,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "ssill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.21117389174226,
+          25.7721256214889
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0141020020390",
+        "CAPACITY": 0,
+        "NAME": "Mater Academy East Charter High School",
+        "EDIT_DATE": "2012/05/17",
+        "GRADE": "S",
+        "LON": -80.21117,
+        "ZIPCODE": 33130,
+        "ID": "7037",
+        "PHONE": "305-324-6963",
+        "POINT_X": 915759.71889751,
+        "POINT_Y": 523646.638953291,
+        "ADDRESS": "998 SW 1ST ST",
+        "LAT": 25.77213,
+        "ENROLLMNT": 283,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "ssill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.33561975085757,
+          25.89131377870642
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Hialeah",
+        "FOLIO": "0420270010340",
+        "CAPACITY": 0,
+        "NAME": "City of Hialeah Education Academy",
+        "EDIT_DATE": "2012/05/17",
+        "GRADE": "S",
+        "LON": -80.33562,
+        "ZIPCODE": 33016,
+        "ID": "7262",
+        "PHONE": "305-362-4006",
+        "POINT_X": 874585.9583471641,
+        "POINT_Y": 566741.218193427,
+        "ADDRESS": "2590 W 76TH ST",
+        "LAT": 25.89131,
+        "ENROLLMNT": 390,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "ssill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.40837160617343,
+          25.59534948463849
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3069020261450",
+        "CAPACITY": 0,
+        "NAME": "Somerset Academy Charter Middle School",
+        "EDIT_DATE": "2012/05/17",
+        "GRADE": "M",
+        "LON": -80.40837,
+        "ZIPCODE": 33177,
+        "ID": "6004",
+        "PHONE": "305-969-6074",
+        "POINT_X": 851150.214837339,
+        "POINT_Y": 459057.075757139,
+        "ADDRESS": "18491 SW 134TH AVE",
+        "LAT": 25.59535,
+        "ENROLLMNT": 225,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "ssill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.20586566437967,
+          25.87878464838962
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami Shores",
+        "FOLIO": "1121360000060",
+        "CAPACITY": 0,
+        "NAME": "Doctors Charter School of Miami Shores",
+        "EDIT_DATE": "2012/05/17",
+        "GRADE": "MS",
+        "LON": -80.20587,
+        "ZIPCODE": 33168,
+        "ID": "6040",
+        "PHONE": "305-754-2381",
+        "POINT_X": 917272.5716349221,
+        "POINT_Y": 562424.3416454049,
+        "ADDRESS": "11301 NW 5TH AVE",
+        "LAT": 25.87878,
+        "ENROLLMNT": 544,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "ssill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.24455153114093,
+          25.727034868893362
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0141210470130",
+        "CAPACITY": 0,
+        "NAME": "Academy of Arts &amp; Minds",
+        "EDIT_DATE": "2012/05/17",
+        "GRADE": "S",
+        "LON": -80.24455,
+        "ZIPCODE": 33133,
+        "ID": "7022",
+        "PHONE": "305-448-1100",
+        "POINT_X": 904869.019623369,
+        "POINT_Y": 507193.45954597,
+        "ADDRESS": "3138 COMMODORE PLZ",
+        "LAT": 25.72703,
+        "ENROLLMNT": 371,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "ssill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.23865620050921,
+          25.77985024059368
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0131340350180",
+        "CAPACITY": 0,
+        "NAME": "RAMZ Academy",
+        "EDIT_DATE": "2012/05/17",
+        "GRADE": "M",
+        "LON": -80.23866,
+        "ZIPCODE": 33125,
+        "ID": "3035",
+        "PHONE": "786-445-5697",
+        "POINT_X": 906699.062505073,
+        "POINT_Y": 526401.062507858,
+        "ADDRESS": "2609 NW 7TH ST",
+        "LAT": 25.77985,
+        "ENROLLMNT": 68,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "ssill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19161431698367,
+          25.79501051167553
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0131360020200",
+        "CAPACITY": 0,
+        "NAME": "Bridgepoint Academy of Greater Miami",
+        "EDIT_DATE": "2012/05/17",
+        "GRADE": "E",
+        "LON": -80.19161,
+        "ZIPCODE": 33132,
+        "ID": "2013",
+        "PHONE": "786-477-4372",
+        "POINT_X": 922145.750007459,
+        "POINT_Y": 532003.562609076,
+        "ADDRESS": "137 NE 19TH ST",
+        "LAT": 25.79501,
+        "ENROLLMNT": 229,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "ssill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.25533306627963,
+          25.89648181262664
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Opa-Locka",
+        "FOLIO": "0821280030340",
+        "CAPACITY": 0,
+        "NAME": "North Park High School",
+        "EDIT_DATE": "2012/05/17",
+        "GRADE": "S",
+        "LON": -80.25533,
+        "ZIPCODE": 33054,
+        "ID": "7069",
+        "PHONE": "305-720-2995",
+        "POINT_X": 900970.937571738,
+        "POINT_Y": 568761.374867309,
+        "ADDRESS": "3400 NW 135TH ST",
+        "LAT": 25.89648,
+        "ENROLLMNT": 326,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "ssill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37766989589208,
+          25.5507412626759
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Homestead",
+        "FOLIO": "3060190133545",
+        "CAPACITY": 0,
+        "NAME": "Somerset Academy at Silver Palms",
+        "EDIT_DATE": "2012/05/17",
+        "GRADE": "K8",
+        "LON": -80.37767,
+        "ZIPCODE": 33032,
+        "ID": "4012",
+        "PHONE": "305-257-3737",
+        "POINT_X": 861344.870334834,
+        "POINT_Y": 442890.628126083,
+        "ADDRESS": "23255 SW 115TH AVE",
+        "LAT": 25.55074,
+        "ENROLLMNT": 478,
+        "CAMPUS": "Silver Palms",
+        "UNIT": null,
+        "EDITOR_NAM": "ssill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37087532010163,
+          25.556479826258858
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3060180000585",
+        "CAPACITY": 0,
+        "NAME": "Palm Glades Prepatory High School",
+        "EDIT_DATE": "2013/06/10",
+        "GRADE": "S",
+        "LON": -80.37088,
+        "ZIPCODE": 33170,
+        "ID": "7032",
+        "PHONE": "786-272-2269",
+        "POINT_X": 863575.175616913,
+        "POINT_Y": 444986.844960034,
+        "ADDRESS": "22655 SW 112TH AVE",
+        "LAT": 25.55648,
+        "ENROLLMNT": 560,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.35526460037183,
+          25.899939452578415
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Hialeah Gardens",
+        "FOLIO": "0420210010430",
+        "CAPACITY": 0,
+        "NAME": "LBA Construction and Business Management Academy",
+        "EDIT_DATE": "2013/06/10",
+        "GRADE": "S",
+        "LON": -80.35526,
+        "ZIPCODE": 33018,
+        "ID": "7066",
+        "PHONE": "305-827-3022",
+        "POINT_X": 868112.006853137,
+        "POINT_Y": 569844.12558832,
+        "ADDRESS": "13835 NW 97TH AVE",
+        "LAT": 25.89994,
+        "ENROLLMNT": 110,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.25145038359253,
+          25.940067679780874
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami Gardens",
+        "FOLIO": "3421090010020",
+        "CAPACITY": 0,
+        "NAME": "School for Integrated Academics &amp; Technologies (SIAtech)",
+        "EDIT_DATE": "2013/06/07",
+        "GRADE": "S",
+        "LON": -80.25145,
+        "ZIPCODE": 33056,
+        "ID": "7030",
+        "PHONE": "305-624-1144",
+        "POINT_X": 902156.917988844,
+        "POINT_Y": 584610.827938072,
+        "ADDRESS": "3050 NW 183RD ST",
+        "LAT": 25.94007,
+        "ENROLLMNT": 150,
+        "CAMPUS": "North Campus",
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.29419478397475,
+          25.839187324540248
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Hialeah",
+        "FOLIO": "0430130340060",
+        "CAPACITY": 0,
+        "NAME": "Excelsior Charter High School",
+        "EDIT_DATE": "2013/06/07",
+        "GRADE": "S",
+        "LON": -80.29419,
+        "ZIPCODE": 33010,
+        "ID": "7054",
+        "PHONE": "305-883-8359",
+        "POINT_X": 888306.923479945,
+        "POINT_Y": 547866.136959851,
+        "ADDRESS": "600 W 20TH ST",
+        "LAT": 25.83919,
+        "ENROLLMNT": 453,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.25920821036424,
+          25.947038953176325
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami Gardens",
+        "FOLIO": "3421040010312",
+        "CAPACITY": 0,
+        "NAME": "Excelsior Charter Academy",
+        "EDIT_DATE": "2013/06/07",
+        "GRADE": "K8",
+        "LON": -80.25921,
+        "ZIPCODE": 33056,
+        "ID": "5032",
+        "PHONE": "786-565-9188",
+        "POINT_X": 899593.0994904559,
+        "POINT_Y": 587130.192548417,
+        "ADDRESS": "3490 NW 191ST ST",
+        "LAT": 25.94704,
+        "ENROLLMNT": 188,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2094521179794,
+          25.80253682356344
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0131260560040",
+        "CAPACITY": 0,
+        "NAME": "School for Integrated Academics &amp; Technologies (SIAtech)",
+        "EDIT_DATE": "2013/06/10",
+        "GRADE": "S",
+        "LON": -80.20945,
+        "ZIPCODE": 33127,
+        "ID": "7030",
+        "PHONE": "305-636-3446",
+        "POINT_X": 916260.004337978,
+        "POINT_Y": 534703.4896515909,
+        "ADDRESS": "810 NW 28TH ST",
+        "LAT": 25.80254,
+        "ENROLLMNT": 405,
+        "CAMPUS": "Greater Miami Campus",
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.48719157542197,
+          25.447333441638083
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Florida City",
+        "FOLIO": "1678250000360",
+        "CAPACITY": 0,
+        "NAME": "Lawrence Academy Senior HIgh Charter School",
+        "EDIT_DATE": "2013/06/07",
+        "GRADE": "S",
+        "LON": -80.48719,
+        "ZIPCODE": 33034,
+        "ID": "7036",
+        "PHONE": "305-247-4800",
+        "POINT_X": 825380.417437337,
+        "POINT_Y": 405153.828858934,
+        "ADDRESS": "713 W PALM DR",
+        "LAT": 25.44733,
+        "ENROLLMNT": 88,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.49286900092193,
+          25.446459644602847
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Florida City",
+        "FOLIO": "1678240160110",
+        "CAPACITY": 0,
+        "NAME": "Miami Community Charter School",
+        "EDIT_DATE": "2013/06/10",
+        "GRADE": "E",
+        "LON": -80.49287,
+        "ZIPCODE": 33034,
+        "ID": "0102",
+        "PHONE": "305-245-2552",
+        "POINT_X": 823508.187803596,
+        "POINT_Y": 404829.09362663305,
+        "ADDRESS": "101 S REDLAND RD",
+        "LAT": 25.44646,
+        "ENROLLMNT": 479,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2451228599443,
+          25.895920508300115
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Opa-Locka",
+        "FOLIO": "0821280120010",
+        "CAPACITY": 0,
+        "NAME": "Florida International Elementary Academy",
+        "EDIT_DATE": "2013/06/07",
+        "GRADE": "E",
+        "LON": -80.24512,
+        "ZIPCODE": 33054,
+        "ID": "3024",
+        "PHONE": "305-685-8190",
+        "POINT_X": 904328.768742867,
+        "POINT_Y": 568576.542867139,
+        "ADDRESS": "13400 NW 28TH AVE",
+        "LAT": 25.89592,
+        "ENROLLMNT": 432,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.47374575010117,
+          25.462093861817223
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Florida City",
+        "FOLIO": "1679190010230",
+        "CAPACITY": 0,
+        "NAME": "Lincoln-Marti Charter Schools International Campus",
+        "EDIT_DATE": "2013/06/07",
+        "GRADE": "K8",
+        "LON": -80.47375,
+        "ZIPCODE": 33034,
+        "ID": "5043",
+        "PHONE": "305-242-3330",
+        "POINT_X": 829796.0987214519,
+        "POINT_Y": 410535.61497595196,
+        "ADDRESS": "103 E LUCY ST",
+        "LAT": 25.46209,
+        "ENROLLMNT": 197,
+        "CAMPUS": "International",
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.42619229633661,
+          25.729360002914493
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3040050010291",
+        "CAPACITY": 0,
+        "NAME": "Pinecrest Preparatory Academy",
+        "EDIT_DATE": "2013/06/10",
+        "GRADE": "E",
+        "LON": -80.42619,
+        "ZIPCODE": 33175,
+        "ID": "5048",
+        "PHONE": "305-207-1027",
+        "POINT_X": 845065.6564956721,
+        "POINT_Y": 507737.41065047705,
+        "ADDRESS": "14301 SW 42ND ST",
+        "LAT": 25.72936,
+        "ENROLLMNT": 647,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19439104796406,
+          25.897830231566658
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3022300000331",
+        "CAPACITY": 0,
+        "NAME": "ASPIRA Raul Arnaldo Martinez Charter School",
+        "EDIT_DATE": "2013/06/07",
+        "GRADE": "MS",
+        "LON": -80.19439,
+        "ZIPCODE": 33161,
+        "ID": "6020",
+        "PHONE": "305-893-8050",
+        "POINT_X": 921002.999542397,
+        "POINT_Y": 569369.875347875,
+        "ADDRESS": "13300 MEMORIAL HWY",
+        "LAT": 25.89783,
+        "ENROLLMNT": 601,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.49398261835063,
+          25.440242943053068
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Florida City",
+        "FOLIO": "1679300010425",
+        "CAPACITY": 0,
+        "NAME": "Miami Community Charter Middle School",
+        "EDIT_DATE": "2013/06/10",
+        "GRADE": "M",
+        "LON": -80.49398,
+        "ZIPCODE": 33034,
+        "ID": "6048",
+        "PHONE": "305-245-2552",
+        "POINT_X": 823149.286555261,
+        "POINT_Y": 402568.319480531,
+        "ADDRESS": "18720 SW 352ND ST",
+        "LAT": 25.44024,
+        "ENROLLMNT": 250,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.34909049164366,
+          25.93536676237656
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3020090083310",
+        "CAPACITY": 0,
+        "NAME": "Mater Gardens Academy",
+        "EDIT_DATE": "2013/06/10",
+        "GRADE": "E",
+        "LON": -80.34909,
+        "ZIPCODE": 33018,
+        "ID": "0312",
+        "PHONE": "305-512-9775",
+        "POINT_X": 870077.748934966,
+        "POINT_Y": 582730.7734083161,
+        "ADDRESS": "9010 NW 178TH LN",
+        "LAT": 25.93537,
+        "ENROLLMNT": 574,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.23971195060759,
+          25.807594266923658
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0131270010880",
+        "CAPACITY": 0,
+        "NAME": "River Cities Community Charter School",
+        "EDIT_DATE": "2013/06/10",
+        "GRADE": "M",
+        "LON": -80.23971,
+        "ZIPCODE": 33142,
+        "ID": "6049",
+        "PHONE": "305-634-6090",
+        "POINT_X": 906293.409768697,
+        "POINT_Y": 536483.0452372511,
+        "ADDRESS": "3405 NW 27TH AVE",
+        "LAT": 25.80759,
+        "ENROLLMNT": 109,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.40881538493844,
+          25.59549554105312
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3069020261450",
+        "CAPACITY": 0,
+        "NAME": "Somerset Academy",
+        "EDIT_DATE": "2013/06/10",
+        "GRADE": "E",
+        "LON": -80.40882,
+        "ZIPCODE": 33177,
+        "ID": "0520",
+        "PHONE": "305-969-6074",
+        "POINT_X": 851003.718325202,
+        "POINT_Y": 459109.507373191,
+        "ADDRESS": "18491 SW 134TH AVE",
+        "LAT": 25.5955,
+        "ENROLLMNT": 455,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.47779631217787,
+          25.485904188747888
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Homestead",
+        "FOLIO": "1078120060080",
+        "CAPACITY": 0,
+        "NAME": "Somerset Arts Academy",
+        "EDIT_DATE": "2013/06/10",
+        "GRADE": "E",
+        "LON": -80.4778,
+        "ZIPCODE": 33030,
+        "ID": "2012",
+        "PHONE": "305-246-4949",
+        "POINT_X": 828425.731744174,
+        "POINT_Y": 419183.956744008,
+        "ADDRESS": "1700 N KROME AVE",
+        "LAT": 25.4859,
+        "ENROLLMNT": 243,
+        "CAMPUS": "Homestead",
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3489795098668,
+          25.9353698980542
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3020090083310",
+        "CAPACITY": 0,
+        "NAME": "Mater Gardens Academy Middle School",
+        "EDIT_DATE": "2012/05/17",
+        "GRADE": "M",
+        "LON": -80.34898,
+        "ZIPCODE": 33018,
+        "ID": "6042",
+        "PHONE": "305-512-9775",
+        "POINT_X": 870114.216646999,
+        "POINT_Y": 582732.0943683239,
+        "ADDRESS": "9010 NW 178TH LN",
+        "LAT": 25.93537,
+        "ENROLLMNT": 251,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "ssill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3447793729969,
+          25.931056205030362
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3020090010530",
+        "CAPACITY": 0,
+        "NAME": "Mater Academy Lakes Middle School",
+        "EDIT_DATE": "2012/05/17",
+        "GRADE": "M",
+        "LON": -80.34478,
+        "ZIPCODE": 33015,
+        "ID": "6033",
+        "PHONE": "305-512-3917",
+        "POINT_X": 871502.403784294,
+        "POINT_Y": 581171.09135887,
+        "ADDRESS": "17300 NW 87TH AVE",
+        "LAT": 25.93106,
+        "ENROLLMNT": 576,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "ssill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.47498653777394,
+          25.46727484422622
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Homestead",
+        "FOLIO": "1079180081940",
+        "CAPACITY": 0,
+        "NAME": "Somerset Academy Charter Middle School South (SoHo)",
+        "EDIT_DATE": "2012/05/17",
+        "GRADE": "M",
+        "LON": -80.47499,
+        "ZIPCODE": 33030,
+        "ID": "6013",
+        "PHONE": "305-245-6108",
+        "POINT_X": 829379.2941130621,
+        "POINT_Y": 412416.96896170103,
+        "ADDRESS": "300 SE 1ST DR",
+        "LAT": 25.46727,
+        "ENROLLMNT": 113,
+        "CAMPUS": "South Homestead",
+        "UNIT": null,
+        "EDITOR_NAM": "ssill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.43095503906136,
+          25.451360566910264
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Homestead",
+        "FOLIO": "1079220010171",
+        "CAPACITY": 0,
+        "NAME": "Keys Gate Charter High School",
+        "EDIT_DATE": "2013/06/10",
+        "GRADE": "S",
+        "LON": -80.43096,
+        "ZIPCODE": 33035,
+        "ID": "7050",
+        "PHONE": "954-272-9600",
+        "POINT_X": 843931.167406615,
+        "POINT_Y": 406692.72575637,
+        "ADDRESS": "2325 SE 28TH  AVE",
+        "LAT": 25.45136,
+        "ENROLLMNT": 176,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.23868626554274,
+          25.920088151662835
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami Gardens",
+        "FOLIO": "3421100020080",
+        "CAPACITY": 0,
+        "NAME": "Richard Allen Leadership Academy",
+        "EDIT_DATE": "2013/06/10",
+        "GRADE": "E",
+        "LON": -80.23869,
+        "ZIPCODE": 33054,
+        "ID": "2006",
+        "PHONE": "305-623-3174",
+        "POINT_X": 906393.84317679,
+        "POINT_Y": 577373.00700333,
+        "ADDRESS": "16001 BUNCE PARK DR",
+        "LAT": 25.92009,
+        "ENROLLMNT": 93,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.43579090532086,
+          25.742395400329535
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3050070200010",
+        "CAPACITY": 0,
+        "NAME": "AcadeMir Charter School West",
+        "EDIT_DATE": "2013/06/10",
+        "GRADE": "E",
+        "LON": -80.43579,
+        "ZIPCODE": 33185,
+        "ID": "0410",
+        "PHONE": "305-485-9911",
+        "POINT_X": 841885.4458047111,
+        "POINT_Y": 512461.546078876,
+        "ADDRESS": "14880 SW 26TH ST",
+        "LAT": 25.7424,
+        "ENROLLMNT": 583,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.27437513147068,
+          25.812055323036347
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami Springs",
+        "FOLIO": "0531190000010",
+        "CAPACITY": 0,
+        "NAME": "Academy of International Education Charter School",
+        "EDIT_DATE": "2013/06/10",
+        "GRADE": "K8",
+        "LON": -80.27438,
+        "ZIPCODE": 33166,
+        "ID": "5044",
+        "PHONE": "305-883-3900",
+        "POINT_X": 894880.257758066,
+        "POINT_Y": 538040.096886694,
+        "ADDRESS": "1080 LABARON DR",
+        "LAT": 25.81206,
+        "ENROLLMNT": 378,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.21496323701734,
+          25.76972621514047
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0141020064000",
+        "CAPACITY": 0,
+        "NAME": "Alpha Charter of Excellence (ACE)",
+        "EDIT_DATE": "2013/06/10",
+        "GRADE": "E",
+        "LON": -80.21496,
+        "ZIPCODE": 33135,
+        "ID": "5410",
+        "PHONE": "305-643-2032",
+        "POINT_X": 914517.838064354,
+        "POINT_Y": 522767.09002447105,
+        "ADDRESS": "1217 SW 4TH ST",
+        "LAT": 25.76973,
+        "ENROLLMNT": 0,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2363791621723,
+          25.766561226028145
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0141030370880",
+        "CAPACITY": 0,
+        "NAME": "Bridgepoint Academy Interamerican",
+        "EDIT_DATE": "2013/06/10",
+        "GRADE": "K8",
+        "LON": -80.23638,
+        "ZIPCODE": 33135,
+        "ID": "5020",
+        "PHONE": "305-643-4833",
+        "POINT_X": 907476.378345799,
+        "POINT_Y": 521575.315815367,
+        "ADDRESS": "621 BEACOM BLVD",
+        "LAT": 25.76656,
+        "ENROLLMNT": 194,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3711158289591,
+          25.55647741448808
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3060180000585",
+        "CAPACITY": 0,
+        "NAME": "Palm Glades Preparatory Academy",
+        "EDIT_DATE": "2013/06/10",
+        "GRADE": "K8",
+        "LON": -80.37112,
+        "ZIPCODE": 33170,
+        "ID": "3032",
+        "PHONE": "786-272-2269",
+        "POINT_X": 863495.887296837,
+        "POINT_Y": 444985.592864037,
+        "ADDRESS": "22655 SW 112TH AVE",
+        "LAT": 25.55648,
+        "ENROLLMNT": 560,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2423159411383,
+          25.84645674627972
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3031090000120",
+        "CAPACITY": 315,
+        "NAME": "Stellar Leadership Academy",
+        "EDIT_DATE": "2013/06/10",
+        "GRADE": "S",
+        "LON": -80.24232,
+        "ZIPCODE": 33147,
+        "ID": "7015",
+        "PHONE": "305-693-2273",
+        "POINT_X": 905355.3108238211,
+        "POINT_Y": 550603.3230104,
+        "ADDRESS": "7900 NW 27TH AVE",
+        "LAT": 25.84646,
+        "ENROLLMNT": 75,
+        "CAMPUS": null,
+        "UNIT": "F20",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36851785965341,
+          25.678059446155903
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3050060360010",
+        "CAPACITY": 0,
+        "NAME": "Advantage Academy Santa Fe",
+        "EDIT_DATE": "2012/05/17",
+        "GRADE": "E",
+        "LON": -80.36852,
+        "ZIPCODE": 33176,
+        "ID": "3025",
+        "PHONE": "786-228-5309",
+        "POINT_X": 864141.823937439,
+        "POINT_Y": 489178.688329192,
+        "ADDRESS": "9790 SW 107TH CT",
+        "LAT": 25.67806,
+        "ENROLLMNT": 292,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "ssill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.24492610496692,
+          25.738641298440147
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0141160360010",
+        "CAPACITY": 0,
+        "NAME": "Mater Grove Academy",
+        "EDIT_DATE": "2013/06/10",
+        "GRADE": "K8",
+        "LON": -80.24493,
+        "ZIPCODE": 33133,
+        "ID": "5045",
+        "PHONE": "305-442-4992",
+        "POINT_X": 904721.5623432321,
+        "POINT_Y": 511411.249757901,
+        "ADDRESS": "2805 SW 32ND AVENUE",
+        "LAT": 25.73864,
+        "ENROLLMNT": 17,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.23865620050921,
+          25.77985024059368
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "0131340350180",
+        "CAPACITY": 0,
+        "NAME": "RAMZ Academy K-5",
+        "EDIT_DATE": "2013/06/10",
+        "GRADE": "E",
+        "LON": -80.23866,
+        "ZIPCODE": 33125,
+        "ID": "6005",
+        "PHONE": "786-445-5697",
+        "POINT_X": 906699.0625050741,
+        "POINT_Y": 526401.06250786,
+        "ADDRESS": "2609 NW 7TH ST",
+        "LAT": 25.77985,
+        "ENROLLMNT": 136,
+        "CAMPUS": "Miami",
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36713139888762,
+          25.73069015602197
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3040200000021",
+        "CAPACITY": 0,
+        "NAME": "Pinecrest Cove Academy",
+        "EDIT_DATE": "2012/05/17",
+        "GRADE": "K8",
+        "LON": -80.36713,
+        "ZIPCODE": 33165,
+        "ID": "5049",
+        "PHONE": "305-480-2097",
+        "POINT_X": 864506.8123537791,
+        "POINT_Y": 508309.749851009,
+        "ADDRESS": "4101 SW 107TH AVE",
+        "LAT": 25.73069,
+        "ENROLLMNT": 432,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "ssill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.42339978403108,
+          25.449497096410603
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Homestead",
+        "FOLIO": "1079220010171",
+        "CAPACITY": 0,
+        "NAME": "Key Gate Charter School Primary Learning Center",
+        "EDIT_DATE": "2013/06/10",
+        "GRADE": "E",
+        "LON": -80.4234,
+        "ZIPCODE": 33035,
+        "ID": "3610",
+        "PHONE": "305-230-5630",
+        "POINT_X": 846427.11364894,
+        "POINT_Y": 406026.17778775096,
+        "ADDRESS": "2355 SE 28TH AVE",
+        "LAT": 25.4495,
+        "ENROLLMNT": 680,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36167488182818,
+          25.76931442100284
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3040050010291",
+        "CAPACITY": 0,
+        "NAME": "Pinecrest Academy Middle School",
+        "EDIT_DATE": "2013/06/10",
+        "GRADE": "M",
+        "LON": -80.36167,
+        "ZIPCODE": 33174,
+        "ID": "6003",
+        "PHONE": "305-553-9762",
+        "POINT_X": 866235.1930273881,
+        "POINT_Y": 522356.66775209503,
+        "ADDRESS": "10207 W FLAGLER ST",
+        "LAT": 25.76931,
+        "ENROLLMNT": 759,
+        "CAMPUS": "North Campus",
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36660797067114,
+          25.72336904368604
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3040200000120",
+        "CAPACITY": 0,
+        "NAME": "AcadeMir Charter School Middle",
+        "EDIT_DATE": "2013/06/10",
+        "GRADE": "M",
+        "LON": -80.36661,
+        "ZIPCODE": 33165,
+        "ID": "6082",
+        "PHONE": "305-537-6398",
+        "POINT_X": 864691.898561951,
+        "POINT_Y": 505649.675608531,
+        "ADDRESS": "10601 SW 48TH ST",
+        "LAT": 25.72337,
+        "ENROLLMNT": 0,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3765583344603,
+          25.79805539538296
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Doral",
+        "FOLIO": "3530300420010",
+        "CAPACITY": 0,
+        "NAME": "Doral Academy of Technology",
+        "EDIT_DATE": "2013/06/10",
+        "GRADE": "K8",
+        "LON": -80.37656,
+        "ZIPCODE": 33172,
+        "ID": "3029",
+        "PHONE": "305-591-0020",
+        "POINT_X": 861287.582142782,
+        "POINT_Y": 532779.361649796,
+        "ADDRESS": "2601 NW 191 ST",
+        "LAT": 25.79806,
+        "ENROLLMNT": 0,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18760286927662,
+          25.96030279799343
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "Miami",
+        "FOLIO": "3012310150020",
+        "CAPACITY": 0,
+        "NAME": "Aventura Waterways Preparatory Academy",
+        "EDIT_DATE": "2013/11/07",
+        "GRADE": null,
+        "LON": -80.1876,
+        "ZIPCODE": 33179,
+        "ID": null,
+        "PHONE": null,
+        "POINT_X": 923093.850360342,
+        "POINT_Y": 592090.837673038,
+        "ADDRESS": "750 Ives Dairy Road",
+        "LAT": 25.9603,
+        "ENROLLMNT": 0,
+        "CAMPUS": null,
+        "UNIT": null,
+        "EDITOR_NAM": "ruizj"
+      }
+    }
+  ]
+}

@@ -1,0 +1,701 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37506588703737,
+          25.619325688679456
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "DAYOFWEEK": "Monday",
+        "CITY": "UNINCORPORATED MIAMI-DADE",
+        "NAME": "Christ the King Child Care",
+        "ZIP": 33157,
+        "TIME": "2 pm - 3 pm",
+        "LON": -80.37507,
+        "PHONE": "305-480-1729",
+        "POINT_X": 862085.99991,
+        "POINT_Y": 467821.56374,
+        "ADDRESS": "16000 SW 112TH AVE",
+        "ROTATELOC": null,
+        "LAT": 25.61933
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.43744246947128,
+          25.696015503969612
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "DAYOFWEEK": "Monday",
+        "CITY": "UNINCORPORATED MIAMI-DADE",
+        "NAME": "Lakeside Towers",
+        "ZIP": 33193,
+        "TIME": "4 pm - 5 pm",
+        "LON": -80.43744,
+        "PHONE": "305-480-1729",
+        "POINT_X": 841413.62197,
+        "POINT_Y": 495602.33495,
+        "ADDRESS": "7555 SW 152ND AVE",
+        "ROTATELOC": null,
+        "LAT": 25.69602
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.30901593242999,
+          25.702544465020942
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "DAYOFWEEK": "Tuesday",
+        "CITY": "UNINCORPORATED MIAMI-DADE",
+        "NAME": "South Miami Lutheran",
+        "ZIP": 33143,
+        "TIME": "10 am - 11 am",
+        "LON": -80.30902,
+        "PHONE": "305-480-1729",
+        "POINT_X": 883692.49902,
+        "POINT_Y": 498175.93676,
+        "ADDRESS": "7190 SUNSET DR",
+        "ROTATELOC": null,
+        "LAT": 25.70254
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.12367166155988,
+          25.8113347362299
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "DAYOFWEEK": "Tuesday",
+        "CITY": "MIAMI BEACH",
+        "NAME": "Four Freedoms",
+        "ZIP": 33140,
+        "TIME": "2 pm - 3 pm",
+        "LON": -80.12367,
+        "PHONE": "305-480-1729",
+        "POINT_X": 944462.1242,
+        "POINT_Y": 538079.99967,
+        "ADDRESS": "3800 COLLINS AVE",
+        "ROTATELOC": null,
+        "LAT": 25.81133
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.28300418038945,
+          25.779300234929664
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "DAYOFWEEK": "Tuesday",
+        "CITY": "MIAMI",
+        "NAME": "Palermo Lakes",
+        "ZIP": 33126,
+        "TIME": "4 pm - 5 pm",
+        "LON": -80.283,
+        "PHONE": "305-480-1729",
+        "POINT_X": 892106.24433,
+        "POINT_Y": 526119.26801,
+        "ADDRESS": "5311 NW 7TH ST",
+        "ROTATELOC": null,
+        "LAT": 25.7793
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.30534815155484,
+          25.94422334747859
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "DAYOFWEEK": "Tuesday",
+        "CITY": "UNINCORPORATED MIAMI-DADE",
+        "NAME": "Country Village Park",
+        "ZIP": 33015,
+        "TIME": "10 am - 11 am",
+        "LON": -80.30535,
+        "PHONE": "305-480-1729",
+        "POINT_X": 884436.32627,
+        "POINT_Y": 586023.69906,
+        "ADDRESS": "6550 NW 188TH TER",
+        "ROTATELOC": null,
+        "LAT": 25.94422
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19530656856092,
+          25.934505953884518
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "DAYOFWEEK": "Tuesday",
+        "CITY": "NORTH MIAMI BEACH",
+        "NAME": "Winston Towers",
+        "ZIP": 33162,
+        "TIME": "12 pm - 1 pm",
+        "LON": -80.19531,
+        "PHONE": "305-480-1729",
+        "POINT_X": 920620.18599,
+        "POINT_Y": 582698.68701,
+        "ADDRESS": "250 NE 174TH ST",
+        "ROTATELOC": null,
+        "LAT": 25.93451
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.14889673696452,
+          25.939943715150577
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "DAYOFWEEK": "Tuesday",
+        "CITY": "AVENTURA",
+        "NAME": "Point East",
+        "ZIP": 33160,
+        "TIME": "2 pm - 3 pm",
+        "LON": -80.1489,
+        "PHONE": "305-480-1729",
+        "POINT_X": 935860.09547,
+        "POINT_Y": 584771.58509,
+        "ADDRESS": "2895 POINT EAST DR",
+        "ROTATELOC": null,
+        "LAT": 25.93994
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.22225408511375,
+          25.873514743625815
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "DAYOFWEEK": "Tuesday",
+        "CITY": "UNINCORPORATED MIAMI-DADE",
+        "NAME": "Boys &amp; Girls Club",
+        "ZIP": 33167,
+        "TIME": "4 pm - 5 pm",
+        "LON": -80.22225,
+        "PHONE": "305-480-1729",
+        "POINT_X": 911895.31138,
+        "POINT_Y": 560476.62384,
+        "ADDRESS": "10915 NW 14TH AVE",
+        "ROTATELOC": null,
+        "LAT": 25.87351
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.33609600541186,
+          25.806945229998494
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "DAYOFWEEK": "Wednesday",
+        "CITY": "DORAL",
+        "NAME": "Camp Carnival",
+        "ZIP": 33122,
+        "TIME": "10 am - 11 am",
+        "LON": -80.3361,
+        "PHONE": "305-480-1729",
+        "POINT_X": 874584.3112,
+        "POINT_Y": 536075.56109,
+        "ADDRESS": "3655 NW 87TH AVE",
+        "ROTATELOC": null,
+        "LAT": 25.80695
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.20382540249675,
+          25.961973075697703
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "DAYOFWEEK": "Wednesday",
+        "CITY": "MIAMI GARDENS",
+        "NAME": "Robert Sharp Towers",
+        "ZIP": 33169,
+        "TIME": "12 pm - 1 pm",
+        "LON": -80.20383,
+        "PHONE": "305-480-1729",
+        "POINT_X": 917759.74683,
+        "POINT_Y": 592665.18577,
+        "ADDRESS": "103 NW 202ND TER",
+        "ROTATELOC": null,
+        "LAT": 25.96197
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.23192201252745,
+          25.83109539877887
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "DAYOFWEEK": "Wednesday",
+        "CITY": "UNINCORPORATED MIAMI-DADE",
+        "NAME": "African Heritage Cultural Center",
+        "ZIP": 33142,
+        "TIME": "2 pm - 3 pm",
+        "LON": -80.23192,
+        "PHONE": "305-480-1729",
+        "POINT_X": 908806.43731,
+        "POINT_Y": 545039.81154,
+        "ADDRESS": "6161 NW 22ND AVE",
+        "ROTATELOC": null,
+        "LAT": 25.8311
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2341355849619,
+          25.838334916819367
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "DAYOFWEEK": "Wednesday",
+        "CITY": "UNINCORPORATED MIAMI-DADE",
+        "NAME": "NFL-YET Center @Gween Cherry Park",
+        "ZIP": 33147,
+        "TIME": "4 pm - 5 pm",
+        "LON": -80.23414,
+        "PHONE": "305-480-1729",
+        "POINT_X": 908062.98342,
+        "POINT_Y": 547666.89421,
+        "ADDRESS": "7090 NW 22ND AVE",
+        "ROTATELOC": null,
+        "LAT": 25.83833
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.38669129667961,
+          25.716447174626712
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "DAYOFWEEK": "Thursday",
+        "CITY": "UNINCORPORATED MIAMI-DADE",
+        "NAME": "Early Start Learning Center",
+        "ZIP": 33175,
+        "TIME": "10 am - 11 am",
+        "LON": -80.38669,
+        "PHONE": "305-480-1729",
+        "POINT_X": 858091.59484,
+        "POINT_Y": 503102.66739,
+        "ADDRESS": "11895 SW 56TH ST",
+        "ROTATELOC": null,
+        "LAT": 25.71645
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.32885832989142,
+          25.59177849323884
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "DAYOFWEEK": "Thursday",
+        "CITY": "CUTLER BAY",
+        "NAME": "Pinewood Villas",
+        "ZIP": 33157,
+        "TIME": "12 pm - 1 pm",
+        "LON": -80.32886,
+        "PHONE": "305-480-1729",
+        "POINT_X": 877362.76234,
+        "POINT_Y": 457883.95862,
+        "ADDRESS": "8420 SW 188TH TER",
+        "ROTATELOC": null,
+        "LAT": 25.59178
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37727097572613,
+          25.690851016961897
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "DAYOFWEEK": "Thursday",
+        "CITY": "UNINCORPORATED MIAMI-DADE",
+        "NAME": "The Palace Suites",
+        "ZIP": 33173,
+        "TIME": "2 pm - 3 pm",
+        "LON": -80.37727,
+        "PHONE": "305-480-1729",
+        "POINT_X": 861237.06034,
+        "POINT_Y": 493814.15349,
+        "ADDRESS": "11377 SW 84TH ST",
+        "ROTATELOC": null,
+        "LAT": 25.69085
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36815520185718,
+          25.673009200877416
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "DAYOFWEEK": "Friday",
+        "CITY": "UNINCORPORATED MIAMI-DADE",
+        "NAME": "Kendall Speech Center",
+        "ZIP": 33176,
+        "TIME": "10 am - 11 am",
+        "LON": -80.36816,
+        "PHONE": "305-480-1729",
+        "POINT_X": 864270.03688,
+        "POINT_Y": 487343.73106,
+        "ADDRESS": "10725 SW 104TH ST",
+        "ROTATELOC": null,
+        "LAT": 25.67301
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19578599792142,
+          25.755111735816552
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "DAYOFWEEK": "Friday",
+        "CITY": "MIAMI",
+        "NAME": "UTD Towers",
+        "ZIP": 33129,
+        "TIME": "12 pm - 1 pm",
+        "LON": -80.19579,
+        "PHONE": "305-480-1729",
+        "POINT_X": 920861.62416,
+        "POINT_Y": 517493.27969,
+        "ADDRESS": "1809 BRICKELL AVE",
+        "ROTATELOC": null,
+        "LAT": 25.75511
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18769928547424,
+          25.854789431997542
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "DAYOFWEEK": "Friday",
+        "CITY": "EL PORTAL",
+        "NAME": "Village of El Portal Village Hall",
+        "ZIP": 33138,
+        "TIME": "2 pm - 3 pm",
+        "LON": -80.1877,
+        "PHONE": "305-480-1729",
+        "POINT_X": 923299.74789,
+        "POINT_Y": 553739.31185,
+        "ADDRESS": "500 NE 87TH ST",
+        "ROTATELOC": null,
+        "LAT": 25.85479
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17950541271875,
+          25.880465410117566
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "DAYOFWEEK": "Friday",
+        "CITY": "BISCAYNE PARK",
+        "NAME": "Biscayne Park",
+        "ZIP": 33161,
+        "TIME": "4 pm - 5 pm",
+        "LON": -80.17951,
+        "PHONE": "305-480-1729",
+        "POINT_X": 925936.18553,
+        "POINT_Y": 563088.56087,
+        "ADDRESS": "11400 NE 9TH CT",
+        "ROTATELOC": null,
+        "LAT": 25.88047
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18034655638562,
+          25.826774030222566
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "DAYOFWEEK": "Saturday",
+        "CITY": "MIAMI",
+        "NAME": "Morningside Park",
+        "ZIP": 33137,
+        "TIME": "10 am - 11 am",
+        "LON": -80.18035,
+        "PHONE": "305-480-1729",
+        "POINT_X": 925781.36596,
+        "POINT_Y": 543571.55037,
+        "ADDRESS": "750 NE 55 TER",
+        "ROTATELOC": null,
+        "LAT": 25.82677
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18611609866726,
+          25.793389324124593
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "DAYOFWEEK": "Saturday",
+        "CITY": "MIAMI",
+        "NAME": "Margaret Pace Park",
+        "ZIP": 33132,
+        "TIME": "12 pm - 1 pm",
+        "LON": -80.18612,
+        "PHONE": "305-480-1729",
+        "POINT_X": 923958.51954,
+        "POINT_Y": 531425.45819,
+        "ADDRESS": "1745 N BAYSHORE DR",
+        "ROTATELOC": null,
+        "LAT": 25.79339
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.14774867901849,
+          25.845598488953925
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "DAYOFWEEK": "Saturday",
+        "CITY": "NORTH BAY VILLAGE",
+        "NAME": "North Bay Village",
+        "ZIP": 33141,
+        "TIME": "2 pm - 3 pm",
+        "LON": -80.14775,
+        "PHONE": "305-480-1729",
+        "POINT_X": 936460.15628,
+        "POINT_Y": 550481.88595,
+        "ADDRESS": "1841 GALLEON ST",
+        "ROTATELOC": null,
+        "LAT": 25.8456
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.34545935301315,
+          25.594885176444503
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "DAYOFWEEK": "Monday",
+        "CITY": "CUTLER BAY",
+        "NAME": "Children\u0092s Village",
+        "ZIP": 33157,
+        "TIME": "10 am - 11 am",
+        "LON": -80.34546,
+        "PHONE": "305-480-1729",
+        "POINT_X": 871885.64239,
+        "POINT_Y": 458985.73955,
+        "ADDRESS": "9525 STERLING DR",
+        "ROTATELOC": "Allapattah Sr. Center",
+        "LAT": 25.59489
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.23258181759597,
+          25.79025206769526
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "DAYOFWEEK": "Monday",
+        "CITY": "MIAMI",
+        "NAME": "Allapattah Sr. Center",
+        "ZIP": 33125,
+        "TIME": "10 am - 11 am",
+        "LON": -80.23258,
+        "PHONE": "305-480-1729",
+        "POINT_X": 908675.98121,
+        "POINT_Y": 530193.36354,
+        "ADDRESS": "2257 NW N. RIVER DR",
+        "ROTATELOC": "Children\u0092s Village",
+        "LAT": 25.79025
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19169878634528,
+          25.822498329236602
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "DAYOFWEEK": "Tuesday",
+        "CITY": "MIAMI",
+        "NAME": "Miami Jewish Home",
+        "ZIP": 33137,
+        "TIME": "12 pm - 1 pm",
+        "LON": -80.1917,
+        "PHONE": "305-480-1729",
+        "POINT_X": 922056.58798,
+        "POINT_Y": 541994.35011,
+        "ADDRESS": "5100 NE 2ND AVE",
+        "ROTATELOC": null,
+        "LAT": 25.8225
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36168590177125,
+          25.732462069035236
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "DAYOFWEEK": "Thursday",
+        "CITY": "UNINCORPORATED MIAMI-DADE",
+        "NAME": "Springtree Apartments",
+        "ZIP": 33165,
+        "TIME": "4 pm - 5 pm",
+        "LON": -80.36169,
+        "PHONE": "305-480-1729",
+        "POINT_X": 866296.39963,
+        "POINT_Y": 508962.39682,
+        "ADDRESS": "SW 103RD AVE &amp; SW 40TH ST",
+        "ROTATELOC": null,
+        "LAT": 25.73246
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.13130649974904,
+          25.827155990207405
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "DAYOFWEEK": "Saturday",
+        "CITY": "MIAMI BEACH",
+        "NAME": "Fisher Park",
+        "ZIP": 33140,
+        "TIME": "4 pm - 5 pm",
+        "LON": -80.13131,
+        "PHONE": "305-480-1729",
+        "POINT_X": 941912.30975,
+        "POINT_Y": 543813.93604,
+        "ADDRESS": "ALTON RD &amp; DELAWARE AVE",
+        "ROTATELOC": null,
+        "LAT": 25.82716
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.33157466580258,
+          25.587203263461085
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "DAYOFWEEK": "Monday",
+        "CITY": "CUTLER BAY",
+        "NAME": "East Ridge Retirement",
+        "ZIP": 33157,
+        "TIME": "12 pm - 1 pm",
+        "LON": -80.33157,
+        "PHONE": "305-480-1729",
+        "POINT_X": 876475.86122,
+        "POINT_Y": 456216.56727,
+        "ADDRESS": "19301 SW 87TH AVE",
+        "ROTATELOC": null,
+        "LAT": 25.5872
+      }
+    }
+  ]
+}

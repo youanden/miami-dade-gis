@@ -1,0 +1,269 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.33248480763123,
+          25.89006106786019
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "HIALEAH",
+        "FOLIO": "0420270010340",
+        "EDIT_DATE": "2008/09/24",
+        "LON": -80.33248,
+        "ZIPCODE": 33016,
+        "PHONE": "305 698-3615",
+        "POINT_X": 875618.9365241311,
+        "POINT_Y": 566291.132305063,
+        "BRANCH": "WEST HIALEAH E-LIBRARY",
+        "ADDRESS": "7400 W 24TH AVE",
+        "LAT": 25.89006,
+        "EDITOR_NAM": "nremon"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.31822125452126,
+          25.871194145391357
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "HIALEAH",
+        "FOLIO": "0420350010320",
+        "EDIT_DATE": "2008/09/24",
+        "LON": -80.31822,
+        "ZIPCODE": 33012,
+        "PHONE": "305 818-9766",
+        "POINT_X": 880343.977680531,
+        "POINT_Y": 559457.766282698,
+        "BRANCH": "WILDE E-LIBRARY",
+        "ADDRESS": "1701 W 53RD TER",
+        "LAT": 25.87119,
+        "EDITOR_NAM": "nremon"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.30403914801423,
+          25.8899997016218
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "HIALEAH",
+        "FOLIO": "0420250010470",
+        "EDIT_DATE": "2008/09/24",
+        "LON": -80.30404,
+        "ZIPCODE": 33014,
+        "PHONE": "305 816-4470",
+        "POINT_X": 884971.129556841,
+        "POINT_Y": 566317.418385087,
+        "BRANCH": "NORTH HIALEAH E-LIBRARY",
+        "ADDRESS": "7400 W 10TH AVE",
+        "LAT": 25.89,
+        "EDITOR_NAM": "nremon"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.29858893567175,
+          25.84767291156574
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "HIALEAH",
+        "FOLIO": "0430120140020",
+        "EDIT_DATE": "2008/09/24",
+        "LON": -80.29859,
+        "ZIPCODE": 33012,
+        "PHONE": "305 883-6317",
+        "POINT_X": 886845.176534586,
+        "POINT_Y": 550942.612354768,
+        "BRANCH": "WALKER E-LIBRARY",
+        "ADDRESS": "800 W 29TH ST",
+        "LAT": 25.84767,
+        "EDITOR_NAM": "nremon"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19326567708649,
+          25.8675484422624
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI SHORES",
+        "FOLIO": "1132060134650",
+        "EDIT_DATE": "2007/05/17",
+        "LON": -80.19327,
+        "ZIPCODE": 33138,
+        "PHONE": "305 758-8107",
+        "POINT_X": 921440.625398806,
+        "POINT_Y": 558365.562761681,
+        "BRANCH": "BROCKWAY MEMORIAL",
+        "ADDRESS": "10021 NE 2ND AVE",
+        "LAT": 25.86755,
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.12175884543578,
+          25.881704160027386
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "SURFSIDE",
+        "FOLIO": "1422350060490",
+        "EDIT_DATE": "2013/06/26",
+        "LON": -80.12176,
+        "ZIPCODE": 33154,
+        "PHONE": "305-865-2409",
+        "POINT_X": 944920.499980669,
+        "POINT_Y": 563661.687694557,
+        "BRANCH": "SURF-BAL-BAY LIBRARY",
+        "ADDRESS": "9301 COLLINS AVE",
+        "LAT": 25.8817,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.28650248721328,
+          25.86648791250931
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "HIALEAH",
+        "FOLIO": "0431060450010",
+        "EDIT_DATE": "2007/05/17",
+        "LON": -80.2865,
+        "ZIPCODE": 33012,
+        "PHONE": "305 821-2700",
+        "POINT_X": 890783.1252102529,
+        "POINT_Y": 557802.624905157,
+        "BRANCH": "JOHN F. KENNEDY (MAIN)",
+        "ADDRESS": "190 W 49TH ST",
+        "LAT": 25.86649,
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.27317532151683,
+          25.826859301867586
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "HIALEAH",
+        "FOLIO": "0431170000060",
+        "EDIT_DATE": "2013/06/27",
+        "LON": -80.27318,
+        "ZIPCODE": 33010,
+        "PHONE": "305 883-6950",
+        "POINT_X": 895245.250270408,
+        "POINT_Y": 543423.000443712,
+        "BRANCH": "LUA A. CURTISS E-LIBRARY",
+        "ADDRESS": "501 E 4TH AVE",
+        "LAT": 25.82686,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16775631433289,
+          25.927645263887733
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "NORTH MIAMI BEACH",
+        "FOLIO": "0722170030530",
+        "EDIT_DATE": "2012/01/25",
+        "LON": -80.16776,
+        "ZIPCODE": 33162,
+        "PHONE": "305 948-2970",
+        "POINT_X": 929690.499838486,
+        "POINT_Y": 580261.562270023,
+        "BRANCH": "LAFE ALLEN MEMORIAL",
+        "ADDRESS": "1601 NE 164TH ST",
+        "LAT": 25.92765,
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18189528527543,
+          25.897267120987333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "NORTH MIAMI",
+        "FOLIO": "0622290490630",
+        "EDIT_DATE": "2013/06/25",
+        "LON": -80.1819,
+        "ZIPCODE": 33161,
+        "PHONE": "305 891-5535",
+        "POINT_X": 925112.3125702221,
+        "POINT_Y": 569190.625171706,
+        "BRANCH": "NORTH MIAMI PUBLIC",
+        "ADDRESS": "835 NE 132ND ST",
+        "LAT": 25.89727,
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16210025417188,
+          25.734746741543226
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "KEY BISCAYNE",
+        "FOLIO": "3042200000011",
+        "EDIT_DATE": "2013/06/26",
+        "LON": -80.1621,
+        "ZIPCODE": 33149,
+        "PHONE": "305 361-4428",
+        "POINT_X": 931996.288512632,
+        "POINT_Y": 510160.318556733,
+        "BRANCH": "NOAA MIAMI REGIONAL",
+        "ADDRESS": "4301 RICKENBACKER CSWY",
+        "LAT": 25.73475,
+        "EDITOR_NAM": "emilym"
+      }
+    }
+  ]
+}

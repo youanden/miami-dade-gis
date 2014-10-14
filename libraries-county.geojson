@@ -1,0 +1,1573 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36926374424799,
+          25.702492227079183
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3040300650030",
+        "EDIT_DATE": "2013/06/06",
+        "OPERHOUR3": null,
+        "OPERHOUR2": "12:00am - 8:00pm",
+        "EXCPTTIME": null,
+        "ZIPCODE": 33173,
+        "OPERHOUR": "10:00am - 6:00pm",
+        "WKDAY3": null,
+        "PHONE": "305 270-6368",
+        "EXCPTDAY": "Fri., Sun.",
+        "POINT_Y": 498057.705297463,
+        "BRANCH": "SUNSET",
+        "ADDRESS": "10855 SW 72ND ST",
+        "LAT": 25.70249,
+        "POINT_X": 863853.78476917,
+        "LON": -80.36926,
+        "WKDAY2": "Tues. - Wed.",
+        "WKDAY": "Mon., Thurs., Sat.",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.28677131757502,
+          25.668855504813216
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "PINECREST",
+        "FOLIO": "2050120080053",
+        "EDIT_DATE": "2013/06/06",
+        "OPERHOUR3": null,
+        "OPERHOUR2": "1:00pm - 9:00pm",
+        "EXCPTTIME": null,
+        "ZIPCODE": 33156,
+        "OPERHOUR": "10:00am - 6:00pm",
+        "WKDAY3": null,
+        "PHONE": "305-668-4571",
+        "EXCPTDAY": "Fri., Sun.",
+        "POINT_Y": 485970.361158207,
+        "BRANCH": "PINECREST",
+        "ADDRESS": "5835 SW 111TH ST",
+        "LAT": 25.66886,
+        "POINT_X": 891083.462874532,
+        "LON": -80.28677,
+        "WKDAY2": "Wed. - Thurs.",
+        "WKDAY": "Mon., Tues., Sat.",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.31033713081598,
+          25.606965945378327
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3350350000012",
+        "EDIT_DATE": "2013/06/07",
+        "OPERHOUR3": null,
+        "OPERHOUR2": "12:00pm - 8:00pm",
+        "EXCPTTIME": null,
+        "ZIPCODE": 33157,
+        "OPERHOUR": "10:00am - 6:00pm",
+        "WKDAY3": null,
+        "PHONE": "305-232-1771",
+        "EXCPTDAY": "Thurs., Sun.",
+        "POINT_Y": 463435.185457215,
+        "BRANCH": "PALMETTO BAY",
+        "ADDRESS": "17641 OLD CUTLER RD",
+        "LAT": 25.60697,
+        "POINT_X": 883438.48699541,
+        "LON": -80.31034,
+        "WKDAY2": "Tues. - Wed.",
+        "WKDAY": "Mon., Fri., Sat.",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.20993948209505,
+          25.850227626734906
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3031110000190",
+        "EDIT_DATE": "2013/06/07",
+        "OPERHOUR3": null,
+        "OPERHOUR2": "12:00pm - 8:00pm",
+        "EXCPTTIME": null,
+        "ZIPCODE": 33150,
+        "OPERHOUR": "10:00am - 6:00pm",
+        "WKDAY3": null,
+        "PHONE": "305 694 2707",
+        "EXCPTDAY": "Fri., Sun",
+        "POINT_Y": 552036.628867731,
+        "BRANCH": "ARCOLA LAKES",
+        "ADDRESS": "8240 NW 7TH AVE",
+        "LAT": 25.85023,
+        "POINT_X": 915995.517425731,
+        "LON": -80.20994,
+        "WKDAY2": "Wed. - Thurs.",
+        "WKDAY": "Mon., Tues., Sat.",
+        "EDITOR_NAM": "bzk"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.32653039422753,
+          25.934116132369013
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3020100000011",
+        "EDIT_DATE": "2013/06/06",
+        "OPERHOUR3": null,
+        "OPERHOUR2": "12:00pm - 8:00pm",
+        "EXCPTTIME": null,
+        "ZIPCODE": 33015,
+        "OPERHOUR": "10:00am - 6:00pm",
+        "WKDAY3": null,
+        "PHONE": "305 820-8564",
+        "EXCPTDAY": "Thurs., Sun.",
+        "POINT_Y": 582313.6879679341,
+        "BRANCH": "PALM SPRINGS NORTH",
+        "ADDRESS": "17601 NW 78TH AVE",
+        "LAT": 25.93412,
+        "POINT_X": 877494.312653873,
+        "LON": -80.32653,
+        "WKDAY2": "Wed.",
+        "WKDAY": "Mon., Tues., Fri., Sat.",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.26586075481259,
+          25.73972357241322
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "CORAL GABLES",
+        "FOLIO": "0341170041180",
+        "EDIT_DATE": "2013/06/06",
+        "OPERHOUR3": null,
+        "OPERHOUR2": "1:00pm - 9:00pm",
+        "EXCPTTIME": null,
+        "ZIPCODE": 33134,
+        "OPERHOUR": "10:00am - 6:00pm",
+        "WKDAY3": null,
+        "PHONE": "305 442-8706",
+        "EXCPTDAY": "Sun.",
+        "POINT_Y": 511765.718878225,
+        "BRANCH": "CORAL GABLES",
+        "ADDRESS": "3443 SEGOVIA ST",
+        "LAT": 25.73972,
+        "POINT_X": 897827.87452881,
+        "LON": -80.26586,
+        "WKDAY2": "Tues. - Wed.",
+        "WKDAY": "Mon., Thurs.- Sat.",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.29125910009536,
+          25.703950812129523
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "SOUTH MIAMI",
+        "FOLIO": "0940360260031",
+        "EDIT_DATE": "2013/06/07",
+        "OPERHOUR3": null,
+        "OPERHOUR2": "1:00pm - 9:00pm",
+        "EXCPTTIME": null,
+        "ZIPCODE": 33143,
+        "OPERHOUR": "10:00am - 6:00pm",
+        "WKDAY3": null,
+        "PHONE": "305 667-6121",
+        "EXCPTDAY": "Thurs., Sun.",
+        "POINT_Y": 498718.062418073,
+        "BRANCH": "SOUTH MIAMI",
+        "ADDRESS": "6000 SUNSET DR",
+        "LAT": 25.70395,
+        "POINT_X": 889536.87522509,
+        "LON": -80.29126,
+        "WKDAY2": "Tues. - Wed.",
+        "WKDAY": "Mon., Fri., Sat.",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.34292927809608,
+          25.629327660132
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3050210010040",
+        "EDIT_DATE": "2013/06/06",
+        "OPERHOUR3": null,
+        "OPERHOUR2": "1:00pm - 9:00pm",
+        "EXCPTTIME": null,
+        "ZIPCODE": 33157,
+        "OPERHOUR": "10:00am - 6:00pm",
+        "WKDAY3": null,
+        "PHONE": "305 233-8324",
+        "EXCPTDAY": "Thurs., Sun.",
+        "POINT_Y": 471508.026424736,
+        "BRANCH": "CORAL REEF",
+        "ADDRESS": "9211 CORAL REEF DR",
+        "LAT": 25.62933,
+        "POINT_X": 872657.45018537,
+        "LON": -80.34293,
+        "WKDAY2": "Tues. - Wed.",
+        "WKDAY": "Mon., Fri., Sat.",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16264141055838,
+          25.696221698640326
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "KEY BISCAYNE",
+        "FOLIO": "2442320020125",
+        "EDIT_DATE": "2013/06/06",
+        "OPERHOUR3": null,
+        "OPERHOUR2": "12:00pm- 8:00pm",
+        "EXCPTTIME": null,
+        "ZIPCODE": 33149,
+        "OPERHOUR": "10:00am - 6:00pm",
+        "WKDAY3": null,
+        "PHONE": "305 361-6134",
+        "EXCPTDAY": "Sun.",
+        "POINT_Y": 496156.65646369,
+        "BRANCH": "KEY BISCAYNE",
+        "ADDRESS": "299 CRANDON BLVD",
+        "LAT": 25.69622,
+        "POINT_X": 931906.9376005491,
+        "LON": -80.16264,
+        "WKDAY2": "Tues. - Wed",
+        "WKDAY": "Mon., Thurs.- Sat.",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.34805567549324,
+          25.748444973674857
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3040090000170",
+        "EDIT_DATE": "2013/06/06",
+        "OPERHOUR3": null,
+        "OPERHOUR2": "1:00pm - 9:00pm",
+        "EXCPTTIME": null,
+        "ZIPCODE": 33165,
+        "OPERHOUR": "10:00am - 6:00pm",
+        "WKDAY3": null,
+        "PHONE": "305 553-1134",
+        "EXCPTDAY": "Sun.",
+        "POINT_Y": 514793.437025048,
+        "BRANCH": "WEST DADE REGIONAL",
+        "ADDRESS": "9445 CORAL WAY",
+        "LAT": 25.74844,
+        "POINT_X": 870754.8126155961,
+        "LON": -80.34806,
+        "WKDAY2": "Wed. - Thurs.",
+        "WKDAY": "Mon., Tues., Fri., Sat.",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.35051534264828,
+          25.685556079598864
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3050040170230",
+        "EDIT_DATE": "2013/06/06",
+        "OPERHOUR3": null,
+        "OPERHOUR2": "1:00pm - 9:00pm",
+        "EXCPTTIME": null,
+        "ZIPCODE": 33176,
+        "OPERHOUR": "10:00am - 6:00pm",
+        "WKDAY3": null,
+        "PHONE": "305 279-0520",
+        "EXCPTDAY": "Fri., Sun.",
+        "POINT_Y": 491932.093259759,
+        "BRANCH": "KENDALL",
+        "ADDRESS": "9101 SW 97TH AVE",
+        "LAT": 25.68556,
+        "POINT_X": 870057.625286948,
+        "LON": -80.35052,
+        "WKDAY2": "Tues. - Wed.",
+        "WKDAY": "Mon., Thurs., Sat.",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19721932286201,
+          25.774607795797763
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0141370270010",
+        "EDIT_DATE": "2011/11/04",
+        "OPERHOUR3": null,
+        "OPERHOUR2": null,
+        "EXCPTTIME": null,
+        "ZIPCODE": 33130,
+        "OPERHOUR": "10:00am - 6:00pm",
+        "WKDAY3": null,
+        "PHONE": "305 375-2665",
+        "EXCPTDAY": "Sun.",
+        "POINT_Y": 524576.5620261581,
+        "BRANCH": "MAIN LIBRARY",
+        "ADDRESS": "101 W FLAGLER ST",
+        "LAT": 25.77461,
+        "POINT_X": 920346.687221784,
+        "LON": -80.19722,
+        "WKDAY2": null,
+        "WKDAY": "Mon. - Sat.",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.24038304983819,
+          25.726799394259633
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0141210390010",
+        "EDIT_DATE": "2011/11/03",
+        "OPERHOUR3": null,
+        "OPERHOUR2": "12:00pm - 8:00pm",
+        "EXCPTTIME": null,
+        "ZIPCODE": 33133,
+        "OPERHOUR": "10:00am - 6:00pm",
+        "WKDAY3": null,
+        "PHONE": "305 442-8695",
+        "EXCPTDAY": "Fri., Sun.",
+        "POINT_Y": 507115.750233896,
+        "BRANCH": "COCONUT GROVE",
+        "ADDRESS": "2875 MCFARLAND RD",
+        "LAT": 25.7268,
+        "POINT_X": 906241.874664646,
+        "LON": -80.24038,
+        "WKDAY2": "Tues.",
+        "WKDAY": "Mon., Wed., Thurs., Sat.",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.29934354602794,
+          25.762977583675205
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "WEST MIAMI",
+        "FOLIO": "1540120210200",
+        "EDIT_DATE": "2011/11/04",
+        "OPERHOUR3": null,
+        "OPERHOUR2": "12:00pm - 8:00pm",
+        "EXCPTTIME": null,
+        "ZIPCODE": 33144,
+        "OPERHOUR": "10:00am - 6:00pm",
+        "WKDAY3": null,
+        "PHONE": "305 261-1571",
+        "EXCPTDAY": "Wed., Sun.",
+        "POINT_Y": 520157.687654041,
+        "BRANCH": "FAIRLAWN",
+        "ADDRESS": "6376 SW 8TH ST",
+        "LAT": 25.76298,
+        "POINT_X": 886760.874710504,
+        "LON": -80.29934,
+        "WKDAY2": "Tues.",
+        "WKDAY": "Mon., Thurs.- Sat.",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.21495408551102,
+          25.78939368714978
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": null,
+        "EDIT_DATE": "2011/11/04",
+        "OPERHOUR3": null,
+        "OPERHOUR2": "2:00pm - 6:00pm",
+        "EXCPTTIME": null,
+        "ZIPCODE": 33136,
+        "OPERHOUR": "6:00am - 10:00am",
+        "WKDAY3": null,
+        "PHONE": "305 324-0291",
+        "EXCPTDAY": "Sat., Sun.",
+        "POINT_Y": 529915.5628631341,
+        "BRANCH": "CIVIC CENTER LIB KIOSK",
+        "ADDRESS": "1501 NW 12TH AVE",
+        "LAT": 25.78939,
+        "POINT_X": 914478.249712318,
+        "LON": -80.21495,
+        "WKDAY2": "Mon. - Fri.",
+        "WKDAY": "Mon. - Fri.",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.46703387896159,
+          25.475458525894
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "HOMESTEAD",
+        "FOLIO": "1079180000013",
+        "EDIT_DATE": "2011/11/03",
+        "OPERHOUR3": null,
+        "OPERHOUR2": "1:00pm - 9:00pm",
+        "EXCPTTIME": null,
+        "ZIPCODE": 33030,
+        "OPERHOUR": "10:00am - 6:00pm",
+        "WKDAY3": null,
+        "PHONE": "305 246-0168",
+        "EXCPTDAY": "Fri., Sun.",
+        "POINT_Y": 415401.656068482,
+        "BRANCH": "HOMESTEAD",
+        "ADDRESS": "700 N HOMESTEAD BLVD",
+        "LAT": 25.47546,
+        "POINT_X": 831991.1871074961,
+        "LON": -80.46703,
+        "WKDAY2": "Tues. - Wed.",
+        "WKDAY": "Mon., Thurs., Sat.",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19375066778896,
+          25.847328228763168
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0131120470040",
+        "EDIT_DATE": "2011/11/03",
+        "OPERHOUR3": null,
+        "OPERHOUR2": null,
+        "EXCPTTIME": null,
+        "ZIPCODE": 33138,
+        "OPERHOUR": "10:00am - 6:00pm",
+        "WKDAY3": null,
+        "PHONE": "305 751-8689",
+        "EXCPTDAY": "Fri., Sun.",
+        "POINT_Y": 551015.124866784,
+        "BRANCH": "LITTLE RIVER",
+        "ADDRESS": "160 NE 79TH ST",
+        "LAT": 25.84733,
+        "POINT_X": 921326.249718696,
+        "LON": -80.19375,
+        "WKDAY2": null,
+        "WKDAY": "Mon. - Thurs., Sat.",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.12879900215039,
+          25.79803251526529
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI BEACH",
+        "FOLIO": "0232260010480",
+        "EDIT_DATE": "2011/11/04",
+        "OPERHOUR3": null,
+        "OPERHOUR2": "10:00am - 6:00pm",
+        "EXCPTTIME": null,
+        "ZIPCODE": 33139,
+        "OPERHOUR": "1:00pm - 9:00pm",
+        "WKDAY3": null,
+        "PHONE": "305 535-4219",
+        "EXCPTDAY": "Sun.",
+        "POINT_Y": 533233.8123382181,
+        "BRANCH": "MIAMI BEACH",
+        "ADDRESS": "227 22ND ST",
+        "LAT": 25.79803,
+        "POINT_X": 942807.2496747,
+        "LON": -80.1288,
+        "WKDAY2": "Wed. - Sat.",
+        "WKDAY": "Mon., Tues.",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.24318193934835,
+          25.86164534041347
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3031040032010",
+        "EDIT_DATE": "2011/11/04",
+        "OPERHOUR3": null,
+        "OPERHOUR2": "12:00pm - 8:00pm",
+        "EXCPTTIME": null,
+        "ZIPCODE": 33147,
+        "OPERHOUR": "10:00am - 6:00pm",
+        "WKDAY3": null,
+        "PHONE": "305 693-4541",
+        "EXCPTDAY": "Wed., Sun.",
+        "POINT_Y": 556122.250119537,
+        "BRANCH": "NORTH CENTRAL",
+        "ADDRESS": "9590 NW 27TH AVE",
+        "LAT": 25.86165,
+        "POINT_X": 905038.6879755261,
+        "LON": -80.24318,
+        "WKDAY2": "Thurs.",
+        "WKDAY": "Mon., Tues., Fri., Sat.",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.27735867881555,
+          25.770987525866712
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0141060250010",
+        "EDIT_DATE": "2011/11/04",
+        "OPERHOUR3": null,
+        "OPERHOUR2": "12:00am - 8:00pm",
+        "EXCPTTIME": null,
+        "ZIPCODE": 33134,
+        "OPERHOUR": "10:00am - 6:00pm",
+        "WKDAY3": null,
+        "PHONE": "305 442-8710",
+        "EXCPTDAY": "Fri., Sun.",
+        "POINT_Y": 523108.062056795,
+        "BRANCH": "WEST FLAGLER",
+        "ADDRESS": "5050 W FLAGLER ST",
+        "LAT": 25.77099,
+        "POINT_X": 893980.624605227,
+        "LON": -80.27736,
+        "WKDAY2": "Tues.",
+        "WKDAY": "Mon., Wed., Thurs., Sat.",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.44082601338748,
+          25.72719341862069
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3049210010210",
+        "EDIT_DATE": "2011/11/03",
+        "OPERHOUR3": null,
+        "OPERHOUR2": "12:00pm - 8:00pm",
+        "EXCPTTIME": null,
+        "ZIPCODE": 33185,
+        "OPERHOUR": "10:00am - 6:00pm",
+        "WKDAY3": null,
+        "PHONE": "305 222-2149",
+        "EXCPTDAY": "Fri., Sun.",
+        "POINT_Y": 506929.28085772705,
+        "BRANCH": "LAKES OF THE MEADOW",
+        "ADDRESS": "4284 SW 152ND AVE",
+        "LAT": 25.72719,
+        "POINT_X": 840251.43773919,
+        "LON": -80.44083,
+        "WKDAY2": "Wed.",
+        "WKDAY": "Mon., Tues., Thurs., Sat.",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.34110089400436,
+          25.87614602384607
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "HIALEAH GARDENS",
+        "FOLIO": "2720330060010",
+        "EDIT_DATE": "2011/11/03",
+        "OPERHOUR3": null,
+        "OPERHOUR2": "12:00pm - 8:00pm",
+        "EXCPTTIME": null,
+        "ZIPCODE": 33018,
+        "OPERHOUR": "10:00am - 6:00pm",
+        "WKDAY3": null,
+        "PHONE": "305 820-8520",
+        "EXCPTDAY": "Fri., Sun.",
+        "POINT_Y": 561219.1875962841,
+        "BRANCH": "HIALEAH GARDENS",
+        "ADDRESS": "11300 NW 87TH CT",
+        "LAT": 25.87615,
+        "POINT_X": 872811.625161514,
+        "LON": -80.3411,
+        "WKDAY2": "Thurs.",
+        "WKDAY": "Mon. - Wed., Sat.",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.20471970325704,
+          25.833932284126824
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0131130270010",
+        "EDIT_DATE": "2011/11/03",
+        "OPERHOUR3": null,
+        "OPERHOUR2": null,
+        "EXCPTTIME": null,
+        "ZIPCODE": 33150,
+        "OPERHOUR": "10:00am - 6:00pm",
+        "WKDAY3": null,
+        "PHONE": "305 757-0668",
+        "EXCPTDAY": "Fri., Sun.",
+        "POINT_Y": 546124.125054225,
+        "BRANCH": "EDISON CENTER",
+        "ADDRESS": "531 NW 62ND ST",
+        "LAT": 25.83393,
+        "POINT_X": 917748.062963363,
+        "LON": -80.20472,
+        "WKDAY2": null,
+        "WKDAY": "Mon. - Thurs., Sat.",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18711830524214,
+          25.832271977725103
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0132180300111",
+        "EDIT_DATE": "2011/11/04",
+        "OPERHOUR3": null,
+        "OPERHOUR2": null,
+        "EXCPTTIME": null,
+        "ZIPCODE": 33137,
+        "OPERHOUR": "10:00am - 6:00pm",
+        "WKDAY3": null,
+        "PHONE": "305 757-0662",
+        "EXCPTDAY": "Thurs., Sun.",
+        "POINT_Y": 545556.0620777011,
+        "BRANCH": "LEMON CITY",
+        "ADDRESS": "430 NE 61ST ST",
+        "LAT": 25.83227,
+        "POINT_X": 923541.43717676,
+        "LON": -80.18712,
+        "WKDAY2": null,
+        "WKDAY": "Mon.- Wed., Fri., Sat.",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.20065908361295,
+          25.78661957673471
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0131360580010",
+        "EDIT_DATE": "2011/11/03",
+        "OPERHOUR3": null,
+        "OPERHOUR2": null,
+        "EXCPTTIME": null,
+        "ZIPCODE": 33136,
+        "OPERHOUR": "10:00am - 6:00pm",
+        "WKDAY3": null,
+        "PHONE": "305 579-5322",
+        "EXCPTDAY": "Fri., Sun.",
+        "POINT_Y": 528935.562094219,
+        "BRANCH": "CULMER/OVERTOWN",
+        "ADDRESS": "350 NW 13TH ST",
+        "LAT": 25.78662,
+        "POINT_X": 919188.1878927051,
+        "LON": -80.20066,
+        "WKDAY2": null,
+        "WKDAY": "Mon. - Thurs., Sat.",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.41099476286419,
+          25.760257031463446
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3049020250010",
+        "EDIT_DATE": "2011/11/04",
+        "OPERHOUR3": null,
+        "OPERHOUR2": "12:00am - 8:00pm",
+        "EXCPTTIME": null,
+        "ZIPCODE": 33184,
+        "OPERHOUR": "10:00am - 6:00pm",
+        "WKDAY3": null,
+        "PHONE": "305 223-4758",
+        "EXCPTDAY": "Fri., Sun.",
+        "POINT_Y": 518989.125476956,
+        "BRANCH": "TAMIAMI",
+        "ADDRESS": "13250 SW 8TH ST",
+        "LAT": 25.76026,
+        "POINT_X": 850018.687668286,
+        "LON": -80.41099,
+        "WKDAY2": "Thurs.",
+        "WKDAY": "Mon. - Wed., Sat.",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.21764286150315,
+          25.772062305776966
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0141020061680",
+        "EDIT_DATE": "2012/06/27",
+        "OPERHOUR3": null,
+        "OPERHOUR2": "12:00pm - 8:00pm",
+        "EXCPTTIME": null,
+        "ZIPCODE": 33135,
+        "OPERHOUR": "10:00am - 6:00pm",
+        "WKDAY3": null,
+        "PHONE": "305-643-8574",
+        "EXCPTDAY": "Fri., Sun.",
+        "POINT_Y": 523610.93335326,
+        "BRANCH": "HISPANIC",
+        "ADDRESS": "1398 SW 1ST ST",
+        "LAT": 25.77206,
+        "POINT_X": 913630.91326353,
+        "LON": -80.21764,
+        "WKDAY2": "Wed.",
+        "WKDAY": "Mon., Tues., Thurs., Sat.",
+        "EDITOR_NAM": "ssill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2423821914026,
+          25.941779739898774
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI GARDENS",
+        "FOLIO": "3421030010719",
+        "EDIT_DATE": "2013/06/06",
+        "OPERHOUR3": null,
+        "OPERHOUR2": "1:00pm - 9:00pm",
+        "EXCPTTIME": null,
+        "ZIPCODE": 33056,
+        "OPERHOUR": "10:00am - 6:00pm",
+        "WKDAY3": null,
+        "PHONE": "305 625-6424",
+        "EXCPTDAY": "Sun.",
+        "POINT_Y": 585250.249634668,
+        "BRANCH": "NORTH DADE REGIONAL",
+        "ADDRESS": "2455 NW 183RD ST",
+        "LAT": 25.94178,
+        "POINT_X": 905133.437671617,
+        "LON": -80.24238,
+        "WKDAY2": "Tues. - Wed.",
+        "WKDAY": "Mon., Thurs.- Sat.",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.23328308945383,
+          25.825069033588065
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3031150000310",
+        "EDIT_DATE": "2013/06/06",
+        "OPERHOUR3": null,
+        "OPERHOUR2": null,
+        "EXCPTTIME": null,
+        "ZIPCODE": 33142,
+        "OPERHOUR": "10:00am - 6:00pm",
+        "WKDAY3": null,
+        "PHONE": "305 636-2233",
+        "EXCPTDAY": "Sat., Sun.",
+        "POINT_Y": 542846.812027171,
+        "BRANCH": "MODEL CITY",
+        "ADDRESS": "2211 NW 54TH ST",
+        "LAT": 25.82507,
+        "POINT_X": 908371.49975463,
+        "LON": -80.23328,
+        "WKDAY2": null,
+        "WKDAY": "Mon. - Fri.",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.30885636881227,
+          25.923470426668793
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI LAKES",
+        "FOLIO": "3220130042420",
+        "EDIT_DATE": "2013/06/26",
+        "OPERHOUR3": null,
+        "OPERHOUR2": "1:00pm - 9:00pm",
+        "EXCPTTIME": null,
+        "ZIPCODE": 33014,
+        "OPERHOUR": "10:00am - 6:00pm",
+        "WKDAY3": null,
+        "PHONE": "305 822-6520",
+        "EXCPTDAY": "Fri., Sun.",
+        "POINT_Y": 578474.5624603551,
+        "BRANCH": "MIAMI LAKES",
+        "ADDRESS": "6699 WINDMILL GATE RD",
+        "LAT": 25.92347,
+        "POINT_X": 883323.250387304,
+        "LON": -80.30886,
+        "WKDAY2": "Tues. - Wed.",
+        "WKDAY": "Mon., Thurs., Sat.",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36559042262051,
+          25.570787823812022
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "CUTLER BAY",
+        "FOLIO": "3660070000537",
+        "EDIT_DATE": "2013/06/06",
+        "OPERHOUR3": null,
+        "OPERHOUR2": "1:00pm - 9:00pm",
+        "EXCPTTIME": null,
+        "ZIPCODE": 33189,
+        "OPERHOUR": "10:00am - 6:00pm",
+        "WKDAY3": null,
+        "PHONE": "305 233-8140",
+        "EXCPTDAY": "Sun.",
+        "POINT_Y": 450195.34416488605,
+        "BRANCH": "SOUTH DADE REGIONAL",
+        "ADDRESS": "10750 SW 211TH ST",
+        "LAT": 25.57079,
+        "POINT_X": 865292.687042512,
+        "LON": -80.36559,
+        "WKDAY2": "Wed. - Thurs.",
+        "WKDAY": "Mon., Tues., Fri., Sat.",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.44068608926003,
+          25.673048955695222
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3059040110010",
+        "EDIT_DATE": "2013/06/06",
+        "OPERHOUR3": null,
+        "OPERHOUR2": "1:00pm - 9:00pm",
+        "EXCPTTIME": null,
+        "ZIPCODE": 33196,
+        "OPERHOUR": "10:00am - 6:00pm",
+        "WKDAY3": null,
+        "PHONE": "305 385-7135",
+        "EXCPTDAY": "Sun.",
+        "POINT_Y": 487250.593607396,
+        "BRANCH": "WEST KENDALL REGIONAL",
+        "ADDRESS": "10201 HAMMOCKS BLVD",
+        "LAT": 25.67305,
+        "POINT_X": 840380.8129713091,
+        "LON": -80.44069,
+        "WKDAY2": "Tues. - Wed.",
+        "WKDAY": "Mon., Thurs.- Sat.",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.12171073675364,
+          25.942563340120717
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "SUNNY ISLES BEACH",
+        "FOLIO": "3122110050011",
+        "EDIT_DATE": "2014/05/29",
+        "OPERHOUR3": "2:00pm - 6:00pm",
+        "OPERHOUR2": "12:00am - 8:00pm",
+        "EXCPTTIME": null,
+        "ZIPCODE": 33160,
+        "OPERHOUR": "10:00am - 6:00pm",
+        "WKDAY3": "Fri.",
+        "PHONE": "305 682-0726",
+        "EXCPTDAY": "Fri., Sun.",
+        "POINT_Y": 585782.750115164,
+        "BRANCH": "SUNNY ISLES BEACH",
+        "ADDRESS": "18070 COLLINS AVE",
+        "LAT": 25.94256,
+        "POINT_X": 944788.125452544,
+        "LON": -80.12171,
+        "WKDAY2": "Wed. - Thurs.",
+        "WKDAY": "Mon., Tues., Sat.",
+        "EDITOR_NAM": "ruizj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37606927040424,
+          25.733210867809127
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3040180940010",
+        "EDIT_DATE": "2011/11/03",
+        "OPERHOUR3": null,
+        "OPERHOUR2": "12:00pm - 8:00pm",
+        "EXCPTTIME": null,
+        "ZIPCODE": 33165,
+        "OPERHOUR": "10:00am - 6:00pm",
+        "WKDAY3": null,
+        "PHONE": "305 207-1344",
+        "EXCPTDAY": "Fri., Sun.",
+        "POINT_Y": 509211.905883849,
+        "BRANCH": "CONCORD",
+        "ADDRESS": "3882 SW 112TH AVE",
+        "LAT": 25.73321,
+        "POINT_X": 861560.062655035,
+        "LON": -80.37607,
+        "WKDAY2": "Tues.",
+        "WKDAY": "Mon., Wed., Thurs., Sat.",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37116911517045,
+          25.82737315235822
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "DORAL",
+        "FOLIO": "3530180150010",
+        "EDIT_DATE": "2011/11/03",
+        "OPERHOUR3": null,
+        "OPERHOUR2": "12:00pm - 8:00pm",
+        "EXCPTTIME": null,
+        "ZIPCODE": 33178,
+        "OPERHOUR": "10:00am - 6:00pm",
+        "WKDAY3": null,
+        "PHONE": "305 716-9598",
+        "EXCPTDAY": "Fri., Sun",
+        "POINT_Y": 543443.622779727,
+        "BRANCH": "DORAL",
+        "ADDRESS": "10785 NW 58TH ST",
+        "LAT": 25.82737,
+        "POINT_X": 863009.8285443861,
+        "LON": -80.37117,
+        "WKDAY2": "Wed.",
+        "WKDAY": "Mon., Tues., Thurs., Sat.",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.12073786389703,
+          25.860886239505884
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI BEACH",
+        "FOLIO": "0232020040400",
+        "EDIT_DATE": "2011/11/04",
+        "OPERHOUR3": null,
+        "OPERHOUR2": "12:00pm - 8:00pm",
+        "EXCPTTIME": null,
+        "ZIPCODE": 33141,
+        "OPERHOUR": "10:00am - 6:00pm",
+        "WKDAY3": null,
+        "PHONE": "305 864-5392",
+        "EXCPTDAY": "Fri., Sun.",
+        "POINT_Y": 556097.125255518,
+        "BRANCH": "NORTH SHORE",
+        "ADDRESS": "7501 COLLINS AVE",
+        "LAT": 25.86089,
+        "POINT_X": 945306.87463703,
+        "LON": -80.12074,
+        "WKDAY2": "Wed.",
+        "WKDAY": "Mon., Tues., Thurs., Sat.",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.13770646945429,
+          25.770253053151645
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI BEACH",
+        "FOLIO": "0242032090001",
+        "EDIT_DATE": "2011/11/04",
+        "OPERHOUR3": null,
+        "OPERHOUR2": "12:00am - 8:00pm",
+        "EXCPTTIME": null,
+        "ZIPCODE": 33139,
+        "OPERHOUR": "10:00am - 6:00pm",
+        "WKDAY3": null,
+        "PHONE": "305 535-4223",
+        "EXCPTDAY": "Fri., Sun.",
+        "POINT_Y": 523117.500264801,
+        "BRANCH": "SOUTH SHORE",
+        "ADDRESS": "131 ALTON RD",
+        "LAT": 25.77025,
+        "POINT_X": 939942.500104032,
+        "LON": -80.13771,
+        "WKDAY2": "Wed.",
+        "WKDAY": "Mon., Tues., Thurs., Sat.",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.22564777657027,
+          25.808756789369124
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0131270090140",
+        "EDIT_DATE": "2011/11/03",
+        "OPERHOUR3": null,
+        "OPERHOUR2": null,
+        "EXCPTTIME": null,
+        "ZIPCODE": 33142,
+        "OPERHOUR": "10:00am - 6:00pm",
+        "WKDAY3": null,
+        "PHONE": "305 638-6086",
+        "EXCPTDAY": "Fri., Sun",
+        "POINT_Y": 536932.5628056681,
+        "BRANCH": "ALLAPATTAH",
+        "ADDRESS": "1799 NW 35TH ST",
+        "LAT": 25.80876,
+        "POINT_X": 910918.0628290031,
+        "LON": -80.22565,
+        "WKDAY2": null,
+        "WKDAY": "Mon. - Thurs., Sat.",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.41300100740943,
+          25.623907769414846
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3059260070020",
+        "EDIT_DATE": "2011/11/03",
+        "OPERHOUR3": null,
+        "OPERHOUR2": "12:00pm - 8:00pm",
+        "EXCPTTIME": null,
+        "ZIPCODE": 33177,
+        "OPERHOUR": "10:00am - 6:00pm",
+        "WKDAY3": null,
+        "PHONE": "786 293-4577",
+        "EXCPTDAY": "Fri., Sun.",
+        "POINT_Y": 469429.74955879897,
+        "BRANCH": "COUNTRY WALK",
+        "ADDRESS": "15433 SW 137TH AVE",
+        "LAT": 25.62391,
+        "POINT_X": 849578.499763876,
+        "LON": -80.413,
+        "WKDAY2": "Wed.",
+        "WKDAY": "Mon., Tues., Thurs., Sat.",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.28768339167905,
+          25.821505823908417
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI SPRINGS",
+        "FOLIO": "0531200330050",
+        "EDIT_DATE": "2011/11/04",
+        "OPERHOUR3": null,
+        "OPERHOUR2": "12:00pm - 8:00pm",
+        "EXCPTTIME": null,
+        "ZIPCODE": 33166,
+        "OPERHOUR": "10:00am - 6:00pm",
+        "WKDAY3": null,
+        "PHONE": "305-805-3811",
+        "EXCPTDAY": "Fri., Sun.",
+        "POINT_Y": 541451.089785874,
+        "BRANCH": "MIAMI SPRINGS",
+        "ADDRESS": "401 WESTWARD DR",
+        "LAT": 25.82151,
+        "POINT_X": 890483.41116197,
+        "LON": -80.28768,
+        "WKDAY2": "Tues.",
+        "WKDAY": "Mon., Wed., Thurs., Sat.",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.13953234979427,
+          25.95277267679587
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "AVENTURA",
+        "FOLIO": "2812350790010",
+        "EDIT_DATE": "2011/11/04",
+        "OPERHOUR3": null,
+        "OPERHOUR2": null,
+        "EXCPTTIME": null,
+        "ZIPCODE": 33180,
+        "OPERHOUR": "9:00am - 5:00pm",
+        "WKDAY3": null,
+        "PHONE": "305-931-5512",
+        "EXCPTDAY": "Sat., Sun.",
+        "POINT_Y": 589454.743462585,
+        "BRANCH": "NORTHEAST",
+        "ADDRESS": "19200 W COUNTRY CLUB DR",
+        "LAT": 25.95277,
+        "POINT_X": 938906.96371907,
+        "LON": -80.13953,
+        "WKDAY2": null,
+        "WKDAY": "Mon. - Fri.",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.25144621849655,
+          25.90195655289263
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "OPA-LOCKA",
+        "FOLIO": "0821210040980",
+        "EDIT_DATE": "2011/11/03",
+        "OPERHOUR3": null,
+        "OPERHOUR2": null,
+        "EXCPTTIME": null,
+        "ZIPCODE": 33054,
+        "OPERHOUR": "10:00am - 6:00pm",
+        "WKDAY3": null,
+        "PHONE": "305-688-1134",
+        "EXCPTDAY": "Fri., Sun.",
+        "POINT_Y": 570758.550421171,
+        "BRANCH": "OPA-LOCKA",
+        "ADDRESS": "780 FISHERMAN ST",
+        "LAT": 25.90196,
+        "POINT_X": 902237.4018289191,
+        "LON": -80.25145,
+        "WKDAY2": null,
+        "WKDAY": "Mon. - Thurs., Sat.",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36224694360142,
+          25.78432593531226
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3530320080015",
+        "EDIT_DATE": "2011/11/03",
+        "OPERHOUR3": null,
+        "OPERHOUR2": "12:00pm - 8:00pm",
+        "EXCPTTIME": null,
+        "ZIPCODE": 33172,
+        "OPERHOUR": "10:00am - 6:00pm",
+        "WKDAY3": null,
+        "PHONE": "305 594-2514",
+        "EXCPTDAY": "Thurs., Sun.",
+        "POINT_Y": 527811.818349175,
+        "BRANCH": "INTERNATIONAL MALL",
+        "ADDRESS": "10315 NW 12TH ST",
+        "LAT": 25.78433,
+        "POINT_X": 866020.515523188,
+        "LON": -80.36225,
+        "WKDAY2": "Tues. - Wed.",
+        "WKDAY": "Mon., Fri., Sat.",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.22855796105287,
+          25.7548153314675
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0141100340030",
+        "EDIT_DATE": "2012/06/27",
+        "OPERHOUR3": null,
+        "OPERHOUR2": "12:00pm - 8:00pm",
+        "EXCPTTIME": null,
+        "ZIPCODE": 33145,
+        "OPERHOUR": "10:00am - 6:00pm",
+        "WKDAY3": null,
+        "PHONE": "305-250-4688",
+        "EXCPTDAY": "Fri., Sun.",
+        "POINT_Y": 517321.093987405,
+        "BRANCH": "SHENANDOAH",
+        "ADDRESS": "2111 SW 19TH ST",
+        "LAT": 25.75482,
+        "POINT_X": 910075.437804218,
+        "LON": -80.22856,
+        "WKDAY2": "Tues.",
+        "WKDAY": "Mon.,  Wed., Thurs., Sat.",
+        "EDITOR_NAM": "ssill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.43073444279484,
+          25.50631578480796
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3079040000011",
+        "EDIT_DATE": "2012/07/03",
+        "OPERHOUR3": null,
+        "OPERHOUR2": "12:00pm - 8:00pm",
+        "EXCPTTIME": null,
+        "ZIPCODE": 33032,
+        "OPERHOUR": "10:00am - 6:00pm",
+        "WKDAY3": null,
+        "PHONE": "305-242-2290",
+        "EXCPTDAY": "Wed., Sun.",
+        "POINT_Y": 426666.012174971,
+        "BRANCH": "NARANJA",
+        "ADDRESS": "14850 SW 280TH ST",
+        "LAT": 25.50632,
+        "POINT_X": 843918.589358606,
+        "LON": -80.43073,
+        "WKDAY2": "Tues., Thurs.",
+        "WKDAY": "Mon., Fri., Sat.",
+        "EDITOR_NAM": "ssill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19725639451532,
+          25.926927890404993
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3021130073950",
+        "EDIT_DATE": "2013/06/06",
+        "OPERHOUR3": null,
+        "OPERHOUR2": "12:00pm - 8:00pm",
+        "EXCPTTIME": null,
+        "ZIPCODE": 33162,
+        "OPERHOUR": "10:00am - 6:00pm",
+        "WKDAY3": null,
+        "PHONE": "305-787-1544",
+        "EXCPTDAY": "Fri., Sun.",
+        "POINT_Y": 579940.324253723,
+        "BRANCH": "GOLDEN GLADES",
+        "ADDRESS": "100 NE 166TH ST",
+        "LAT": 25.92693,
+        "POINT_X": 919996.247797456,
+        "LON": -80.19726,
+        "WKDAY2": "Tues. - Wed.",
+        "WKDAY": "Mon., Thurs., Sat.",
+        "EDITOR_NAM": "emilym"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.25074280914828,
+          25.73075174238514
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "0141210630010",
+        "EDIT_DATE": "2011/11/04",
+        "OPERHOUR3": null,
+        "OPERHOUR2": "12:00am - 8:00pm",
+        "EXCPTTIME": null,
+        "ZIPCODE": 33133,
+        "OPERHOUR": "10:00am - 6:00pm",
+        "WKDAY3": null,
+        "PHONE": "305 442-7872",
+        "EXCPTDAY": "Tues., Sun.",
+        "POINT_Y": 508532.780891217,
+        "BRANCH": "VIRRICK PARK",
+        "ADDRESS": "3255 PLAZA ST",
+        "LAT": 25.73075,
+        "POINT_X": 902823.0366454651,
+        "LON": -80.25074,
+        "WKDAY2": "Wed. - Thurs.",
+        "WKDAY": "Mon., Fri., Sat.",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.44161066054062,
+          25.685177140342645
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3049330060050",
+        "EDIT_DATE": "2011/11/03",
+        "OPERHOUR3": null,
+        "OPERHOUR2": "1:00pm - 9:00pm",
+        "EXCPTTIME": null,
+        "ZIPCODE": 33196,
+        "OPERHOUR": "10:00am - 6:00pm",
+        "WKDAY3": null,
+        "PHONE": "305-388-0326",
+        "EXCPTDAY": "Tues., Sun.",
+        "POINT_Y": 491657.299787499,
+        "BRANCH": "KENDALE LAKES",
+        "ADDRESS": "15205 SW 88TH ST",
+        "LAT": 25.68518,
+        "POINT_X": 840057.6764590071,
+        "LON": -80.44161,
+        "WKDAY2": "Wed. - Thurs.",
+        "WKDAY": "Mon., Fri., Sat.",
+        "EDITOR_NAM": "amesa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18588960035287,
+          25.962058287964936
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "CITY": "MIAMI",
+        "FOLIO": "3012310150010",
+        "EDIT_DATE": "2013/06/06",
+        "OPERHOUR3": null,
+        "OPERHOUR2": "12:00pm - 8:00pm",
+        "EXCPTTIME": null,
+        "ZIPCODE": 33179,
+        "OPERHOUR": "10:00am - 6:00pm",
+        "WKDAY3": null,
+        "PHONE": "305-770-3155",
+        "EXCPTDAY": "Thurs., Sun.",
+        "POINT_Y": 592732.414889634,
+        "BRANCH": "CALIFORNIA CLUB",
+        "ADDRESS": "850 IVES DAIRY RD",
+        "LAT": 25.96206,
+        "POINT_X": 923652.828920864,
+        "LON": -80.18589,
+        "WKDAY2": "Tues. - Wed.",
+        "WKDAY": "Mon., Fri., Sat.",
+        "EDITOR_NAM": "emilym"
+      }
+    }
+  ]
+}
