@@ -1,0 +1,21 @@
+[submodule "miami-dade-business-and-commerce-gis"]
+	path = miami-dade-business-and-commerce-gis
+	url = git@github.com:youanden/miami-dade-business-and-commerce-gis.git
+[submodule "miami-dade-environment-gis"]
+	path = miami-dade-environment-gis
+	url = git@github.com:youanden/miami-dade-environment-gis.git
+[submodule "miami-dade-home-and-neighborhood-gis"]
+	path = miami-dade-home-and-neighborhood-gis
+	url = git@github.com:youanden/miami-dade-home-and-neighborhood-gis.git
+[submodule "miami-dade-public-safety-gis"]
+	path = miami-dade-public-safety-gis
+	url = git@github.com:youanden/miami-dade-public-safety-gis.git
+[submodule "miami-dade-recreation-and-culture-gis"]
+	path = miami-dade-recreation-and-culture-gis
+	url = git@github.com:youanden/miami-dade-recreation-and-culture-gis.git
+[submodule "miami-dade-social-services-gis"]
+	path = miami-dade-social-services-gis
+	url = git@github.com:youanden/miami-dade-social-services-gis.git
+[submodule "miami-dade-transportation-gis"]
+	path = miami-dade-transportation-gis
+	url = git@github.com:youanden/miami-dade-transportation-gis.git
